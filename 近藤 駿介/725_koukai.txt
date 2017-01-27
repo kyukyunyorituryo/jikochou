@@ -1,0 +1,1006 @@
+31、３３ 57頁ジャンプ
+　【取扱い厳重注意】平成２４年４月１６日
+聰　取　結　果　書
+賠仁
+　　　　　　　　　　　　　　　　　　　　　東京電力福島原子力発電所における事故調査･検証委員会事務局　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　局　員　　　三田　浩平　平成２４年４月１６日、東京電力福島原子力発電所における事故調査・検証のため、関係者から聴取した結果は、下記のとおりである。
+第１　１
+　　　　　　　　　　　　　　　　記
+被聴取者、聴取日時、聴取場所、聴取者等被聴取者
+原子力委員会委員長　近藤皺介
+２　聴取日時
+　　平成２４年４月１６日午後１時３０分から同日午後３時！Ｏ分まで３　聴取場所
+　　霞が関合同庁舎４号館７階　原子力委員会委員長室
+４　聴取者
+　　事故調査委員会事務局　浅井主査、三田主査
+５　１Ｃレコーダーによる録音の有無等　■　あり
+　口　なし
+第２　聴取内容
+　　　１．不測事態シナリオ、日米協議について　　　２．ＰＳＡ、外部事象のリスク、ＡＭについて　　　別紙のとおり
+第３　特記事項　　　特になし
+　【取扱い厳重注意】
+別紙
+
+　被聴取者に対して、事前に質問事項（別添１）を渡したところ、本聴取において、質問事項に対する回答を記した文書の提出があったので、同文書を添付する（別添２）。
+１　不測事態シナリオ、日米協議について
+　　同事項の回答については、別添２「１，不測事態シナリオに付いて」及び「２，日米　協議について」のとおり。
+　　以下に、補足説明内容を記す。
+０　１，４）の補足　、
+　　原子力委員会は、本来総理からの文書による諮問があれば、原子力委員会の合議を経　て諮問に対して回答するのだが、総理は、口頭により不測事態シナリオ作成を私に依頼　したため、私は、総理から専門家としての個人的見解を求められたと判断した。
+　　また、原子力委員会は、原発事故への対処について所掌しておらず、原発事故への対　処は、本来、原子力安全委員会の所掌である。総理からの不測事態シナリオ作成依頼は、
+　原子力委員会の所掌範囲を越えているし、仮に総理からの依頼を私が原子力委員会とし　て受けてしまったら、班日氏の顔を潰すことにもなる。
+　　私は、不測事態シナリオの作成が原子力委員会の所掌範囲を越えていることと、総理　が専門家としての個人的見解を私に求めたと判断したことから、私は、不測事態シナリ　オの作成依頼を原子力委員会としてではなく、私個人として受けた。
+０　１，５）の補足　　　　　　　　　　　　　　　　　　　　　　、
+　　私は、細野補佐官に対して、不測事態シナリオの想定している事態が生ずる可能性は　ほぽないと思われるが、格納容器への窒素封入、高所からの注水装置に係る遠隔操作化、
+　４号機使用済燃料プールの底部の強化等の整備を行えば、格段に安心度が増す旨説明し　た。
+０　１．６）の補足
+　　不測事態シナリオに記載した「本人が移転を希望するなら認めるべき区域」とは、避　難を勧奨するべき地域ではなく、「本人が移転を希望するなら認めるべき区域」とは、
+　チェルノブイリ事故の際に設定された避難の概念をそのままコピーし瓦もめである。チ　ェルノブイリ事故の際に設定された「本人が移転を希望するなら認めるべき区域」とは、
+　当時のソ連市民に転居の自由が認められていたか害かは分からないが、確か、本人が希　望をして移転したとしても、国がその移転に係る補償するというものであったと思う。○　その他
+　　　（被聴取者に対して、燃料棒の損傷や溶融と水素発生の関係について、別添３の注釈　１のとおりで間違いないかと質問したところ、）こめとおりでよいと私は思う。
+2　PSA、外部事象のリスク、AMについて
+〇　同事項の回答については、別添2 P,3「PSA、外部事象のリスク、ＡＭについて」の　とおり。なお、別添２のP,6の５）の根拠は別添４、別添２のP,6の６）の根拠は別添　５のＰ,8-16右側３段目である。
+１
+－‐－－－
+　【取扱い厳重注意】
+○　また、Ｂ,5.bについては、民間事故調に私が説明した資料である、別添６のP,19～20　に記載のとおり、DI･､NI・sJ,Djaｚ氏が、平成23年10月の大阪の学会（ＩＣＯＮＥ）で講演　していた。
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　以　上
+２
+【機密性２情報】
+近藤原子力委員会委員長への質問事項
+○　福島第一原発の不測事態シナリオの素描について
+・　不測事態シナリオにおいて、避難範囲拡大の要因となる放射性物質放出は、主に４号　機使用済燃料プールから放出されるものと理解してよろしいでしょうか。
+・　近藤委員長が、（菅総理から不測事態シナリオ作成の依頼を受ける前の）平成23年３　月15日から、事故の状況が更に悪化した場合の対応策について検討されていたのは何故　でしょうか。
+　→　３月16日午前に４号機原子炉建屋爆発があり、４号機使用済燃料プールベの注水・　ｌ　使用済燃料の冷却に懸念が生じたからでしょうか。
+・平成23年３月22日、近藤委員長が菅総理から不測事態シナリオの作成を依頼された　時、細野補佐官も、菅総理から何らかの指示を受けていたでしょうか。
+・　不測事態シナリオ作成を原子力委員会としてではなく、個人として請け負ったのは何　故でしょうか。
+・　平成23年３月25日、近藤委員長が、菅総理ではなく細野補佐官に対して不測事態シ　ナリオを提出されたのは何故でしょうか。
+・　不測事態シナリオＰ,16の４ポツ、「移転を希望する場合蒻めるべき地域」とは、「移転　を勧奨する地域」と理解してよろしいでしょうか。
+○　日米協議について
+・　平成23年３月18日午後の細野補佐官、長島衆議院議員、ルーズ駐日米国大使、ＮＲＣ　キャスト氏等の会談に参加されたでしょうか。
+　-４　参加されたとしたら、同会談でどのような話がなされたでしょうか6
+・上記以外に、原発事故に関して、ルーズ大使と連絡をとられたでしょうか。
+○　外的事象のリスク及びAMの認識、外的事象PSAの技術水準等に関して
+※　前回（平成24年２月１日）のヒアリングにおけるご発言の趣旨を、数点確認させて頂　きたいと思います。
+１
+「事軟調ヒヤリングについて」にある質問への回答
+不測事態シナリ゛オに付いて
+１）ミそのとおりです。４号機のSFが溶融してコシクリートとの相互作用で多くの　　ノ核分裂生成物を放出する場合、建家が損傷していて格納機能がないことから、｡
+　　　　　　　　　　　　　　　　Ｉ　－　　　　　　　　　　　　　　ｊ　　　　　°
+ご　‘1～3号機の炉心損傷時によ゛り･は多くの放射性物質が環境に放出･jれるとし　‥刎晰しまじた。こめチータの準備と紬析はJAJIA本間氏により行われ濡レニ　　た。　　　。。　　　　　　　　　　　　　。　　　　　｀　　・
+　　　・　　二　　匸　・　　’:　　厂　　　　　．
+２）=そうですj4号建屋の爆発Iと火災の報に接し、SF冷却悪化の可能性√再臨界・　　●　　　　　●　．　　　　　　　　・　　　　　Ｉ●-　　　　　　、 い　　●　●　　　●　　等ぶにづいて思いつ?く望掌しぐないシナリずのもだらす結果を当た？七おく
+　●　　　　　　　　　　　　　．　¶　　　　　　　　　　　　　　Ｉ　　　　　　　　Ｉ　　　　　　　　　　：
+　　ノことにしたのです．取り敢えずは、何か都合の悪いことが起きるとすれぽ、ど‘　匸　　うい゛う結集がどういうタイミングで卑じるのかめ当たりを付け、それ韋でに
+　　　　　（その･ときに）サイト内、･サイト外でなにをしたらいいかを黶理したいと、
+　　　　､ＪＡＥＡやJNESの専門家に課題を伝え、答えてくれるように依頼しました．
+　゜¶　　　　　　　　゜’･ ●゜ ¶･　　・　　　　　　　　　　　　　　　　　　　　■
+　　　≒な紅･この時間から少し後に、米国が８０・１以内にいる米国人に避難命令
+●　　　i　　　　　　　　　　　　　　　・　　　　●●　　　　　　1:j｀　　　I　　　　　　　　　　　　　　　　　　　I二　を出したことについでＮＲＣが計算結果.をサイトにアップしたので.、本間氏に
+　　　･彼らが何を想定してその判断に至っためかを検討す.るよう依頼しました．国家・　・　攷釡保障亠議のペーター氏の・著にある､このときの.ホリイトン、ウＸ。対応．
+　　　　顛末を鶻むと、彼らもこの時点でほぼ同じモデルを使ったようです．　∧
+　　　　　　このような作業と･事掏り推移から、今後の不測事郷として検討するべきシデ
+广　ﾘ･オが陝定ぎれできたのでミ1.9日にな七=･て、.毎朝めぶうに、神野補佐菅、痺
+　　ｉ　　　　　　　、　　　・　　　　　　　　　　　　　　　　　●●Ｉ　　　　　　　　　　　　●　　碁
+　　　　本幹事、その他め国会議員諸氏が状況認識を共有するたやに私の部屋で二時間匸　　　　ほど行っていた自由討議の場lと、わたじから、現場でμ今後こんな卆と畊力を
+／　　いれるべぎとい･う形でとの検討課題を話題にし掌した．　　　　’‘
+３）　総理は班目、寺坂、細野各氏と私の４みに「いろいろ役割はあるのだろ:うけれ
+　　　　ども協力してやってほしい」とした上で、･Fそろそろ奮ち着いてきたので、最
+　　・　　　　・　　　¶　　　　　　　　　　●　　　　Ｉ　　　　　　　　　　　｀　　　　　　　　　　　　丶
+　　・　悪シナリ’オを考えてくれないか」’と言われまじた．＼その齔’このことにらいで
+　　　　．　●･　　　、　ｌ　　・　　　　●　　　●¶　　●　　　　　　　　．　●　　　ｌ　　　　　　　　　　　　　．　　　　　　Ｉ　　　　受け答えをしたの鴎小生だけだづなので、私が引き受けたという認識をもづてヽ　＼私と寺椒氏が退出七ました．その間にり蓆理と補佐官の間にやりとりはなかっ
+　／たと鄲憶じています．　＼．　　　　　　　　　　　　　　　　　　　’
+　　　　　　　　　●　　　　　　　　　　　　　　　　　　・　　　　　　　　　　　　　　　¶　　　　　　　　　Ｉ
+●　　・　　　　　　　　●゜　●　．　、|　●　　　　　、●　　　１　　　　　　　　　　　　●　・　ｌ．　　　　　　　．●　　　　Ｉ　　　　▽　’･　　　　　　　　　　　　　　　、１　・
+４）　本件は原子力委員会が総理から諮問されたものとすれば4公開の席で審議一決　　　　　　　　　　　　　　ＩＩ●　　　１　　　　　　　　　　　　　１　　　　　　　●●　　　　　　　●・　●
+　　　　　　　　　　　　　　　　　　　　、　　　　　　　●　　　　　　　　　　　Ｉ　　　　　　　　　　　　　　　●　　　　定することになりまずが、依頼の経緯がらして専門家としてぬ私に依頼された　　　．　　　　．　　　　　・　：　　Ｉ’‘　　　　．’　　・　　　　　　．ｆ　　　　｀　　　、　　　･･▽　　ものと理解しま.したので、委員が行政部門や政務叺対して専門家として個人的　　　　　　　　　　　　　　●　●　　　　　　　　●　　　　　　●､　　　　　　　　　　　　　　　　　　　　　　』　　　　・見解を述べるタイプの仕事に分類したのです．、　ニ　　ノ　　　匸
+･５）．２２日.に作業計画を細野補佐官に説明して作業を開岫し、毎日逾捗快況を伝え、
+　　　　２５日午後に啅中締めのjモをつくり、こんな･ところですと報告し危と.どろ、
+　　●　　１　　　●　　　　　　　　　Ｉ　　・　　●　●　１　　　●　｀　　●　　　「　」 ；　　　　　　　．゛　厂　補佐官が「これでよい．このメモは一鋤のみとし、自分が預かって自ら総理に　　・　　　　　fr　　　　　　　　I●　●　　　　　　　　　　　　　　●●　　　　　　　　●　　　l・
+　　　　報告する」とされたのヤ√作業は纃丿丁としました．’　　　　　　　　一　Ｉ６）　地域の区別はチェルノ｀ピリ周辺で採用された’もの夸翻訳して州いてい穿す．英　　　　語で見るかがり、:「本人力1移転を希鑪す名なら孱めるべき区域」”､1=:ぷうかヽる･　　　　と思います．･強制的叫移転させる０ヽﾗ概念と強制はしないが本人が岑望する　∧　から移鹹を孱a6もとい:う概念が対になっているようです．家庭・事惰で居住を　　　　続けるなら続けてもよいがﾐ基本的に拙移転を勧奨するという積極さかあったー　　　　かどうかはわかりません．　　　　’し、．　　い　　　　　　　　　　’八
+２
+月米捧難について
+●こ･4
+２
+郢Å、外柮事象のリメタ、ＡＭにつりて　　　∧　　　　　　　　．　　　；　・　　ｌ　　・　　　　　　　●　　　　゜
+　ｆ　　ｌ●　　｀　　　　　　１　１１●　　・　、　　・　　．　　　　●｀１　１　・　　．●　　　　　　　　Ｉ
+１）　拳が国では､rＰs郎ま不・釡七あ叭不確実性が大きく聿翕で規制に使えない．
+　フ　　規制判断には保守的な評価を行う確定論的アプローチを用いるべし」との言説　　　　が支配的であっ糺保守的･といっても確率踰的に評価しない限り主観的．それ　　／　は専門家が保守性の判断を独占する不透明なアプローニチと返してきたが、安全　　　　委員会等に夢いては、.長く、かならずそういった修飾語を冠して扱われてきた．
+３
+　他方、非原子力界からは、軅率的安全目標を定め、とれを使づて対策(z?十分性　を判断する取組に対して、゛災害ポテンシャルが大きいものは最扈に備えるべき１　　　　　　　　　　●　　　　　　ｌ　　　ｌ　　　　　　　　　　　　　　　　　　¶　　　　　　　　　　　¶　　であり、確率が小･さいからとｙヽつて最悪シナリオを切り捨てるのは間違いと批　¶　●　　　　　●'●　　　　　　　●　　　　　　　　　　　　　　　　　　　　ｌ　　　　　　。●
+　判されてぎた。これには、孑そもそも･最悪シナリオという･げれど、それな､りに　蓋然性を推定している。､だから、あなたが最悪シナリフォ｡を烽示しでくれたら、
+　　●　　　　　　　　　　　　　　　　･■　　　・　　　　　　　　　　　　I　●
+　　　　　　　●　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　I¶
+　私はそれよりもっ･と悪いシナリオを必ず思いついであげますよ。耳ｏｗ ｓａ鳬18・痂Ｑｎｏ・h?に対する取組は、できるだけ多くの失敗な昿異奮現象の情報　を集め、望ましくない結果をもたらすシナリオを人智を尽くして列挙し、目標　　●　　　　　　　　　　　　　　　●　●　　　●　　　　　　　　　●　　　　　●
+　　を満たさないシナリオに対策を施し、修正されたシステムについて再びシナリ･　　牙を尽ぐし、目鋤を満たさないシナり湊に対策を施すことを繰り妲していくの　　　●　　　　　　　　　●　　　　　　　　　　　　　　　．　　　　　　　　　　　　　　　　　　Ｉ
+　　　・　　１　　　●　　　　　　　　　　　　　　　　　　　　　　　　　　　　　．　　　　　　ｆ
+　です。この作業をどとで打ち切るか、そめ判断基準が安全目標なのですとして　きた。そうす名ど'｢それはわ｡かっ､たけれど、｡放射線被ばくはとにかくいや。大　　　●　　　　　　　　Ｉ　　　　　　　　　　　●　　　　　　　　　　　　　１　　　　　　　　１
+・：事故の発生確串は巨大阻右の落下で東京がなくなる確率ぐらいJこ低くないと　　｡　　　　　　　　　　　　　　●　　　　　　　　　　｀･　　　　　　　　　11
+いや｣という､人が出てきたこともあります。専門家は、それが一年めうちに発'生するチャンスは一億分の一というから、それでは貴方の提案はそういう水準　･豼安全目標をおくことですね・'ヽいつつ､議論を続けることに・りまず。とれ厂を目･標にするどこの装置では万に一つのチャン､スでこんなことがあり得るとＩ　　　　　Ｉ　　　　　　　　Ｉ　● １　　　　　　　　　●　　　　　ｌ　　　　　　　　　　ｉｊわかった場合に、そのまれな事象が起きた際にもこの装置かあれば、万にぴと　つ｡も被害の発生には至らないといえる､そんな裝槭を設徽することが必要とい　　うことになりますから、そんなシナリオ粂俯首と当たって、､合計する訳ですか／ら、総会的には、百万分の一くyらいが人智の限界かなと言う気が‘していますが。
+幻　こう･した作業におけ右私の最大の誤りは、安全目標の議論においで公衆の過剰ヽ■　　　　●●　　　　　　　●　　　●　．　　　●　　　　　　　　　　　　　　　　　　　　　　　　●　　　　　　　・　／　被ぽくの発生確率を指標に選んだとと．命を守ることが安全だと思い込んやい　≒　夲・.公衆り過剰被ぱく.のリスクはIAE4の安全目標と幤合す;15し、交通事故等‥‥‥‥lこよる.死亡り不クを参照しつつ､それより十分小さいことをもって合意を求め　　　　筍議論を展開しやすい．’しかも、/敷圸弗界り公衆の個泰の線羞はドレヴル’3、
+　　　　PSAを行わないでも、レベル2PSAマ評価ができてしまうことかも√安全自　　　　　●　　　　　　　　　　　　　　　　　Ｉ　●　　　　　　　　･丶　　　　　、　　　　ｌ　　　　　、　　・ｊ　　標坏）制定論議をいそぐ､にも便利だ９だので√こ鄒を選んだが;レ４ル３ＰＳ４　　　゛　　　●　゜　　　　　　　　　　　　　　　　　　　　　　　　　　　　１　　　　．　　　Ｌ　　　　・　　　　･に基七5く敷地境界をこえた土地汚染の発生確率を選ぶべきであっ､た．これによ　　　　るｉミ４ギティ崩壊の深刻さ、さらにIはオフサイトセンターの設置場所に関ず　▽　る教訓をチエ瀕ノビリ事故から学ばなかったことば本当に不覚々あっ觚
+　１　　　●　　　●　　　　　　　　●　　　　　　　　　　　　　　．　　　　　　　　　　　　　　　　　　　嵋　＼　　遅kともｊｄＯ事章のとき削とO・i圏内に屋宀退避まがやの勧告を発した　　　　　　　　　　　　　　　　　　　　　　　　　　　　　●　　　　･１　　　　・　　　　　　　　　　　　．　　１・　　　り、乾し芋その他の産品に関する風評被害が発生したのを見て、防災対策まで　　　　　　　　　　　‥　　‘　　　･、　　　　　　４　　　　　　　　　　　　　　　　　　・
+　考庫して死亡.リスクが小.きいかち合格という安全確保体系は社会の受け入れ　るところではないと悟るべきであったふ中央防災会議は津波対策の議論で強固　な堤防建叙によ霞､防災と土地利用め制限にJ;る減災を比較し七後者を痼んだ　が、原子力発電所については事故を想定しての敷地外の土地利用の制限は選べ　‘　　　　・　　　　　　　　　　Ｉ　　　　、．　　　　　　　　　　　　　’　　１　゛Ｉ’　・　鈩　●　　　・　　　　●　ない、よってその必要性が生じる､確率が百万分の一i･もないよ引こ、原子炉に潼ＣＶＳの設置を求めることを選ぶべき･であった．　・　　　匸　　　　し
+　　ＪＣＯ事故め後の原子力防災の議論においては･、制度設計に時間を使い、官　　　・　　　　　　　　　　　　　　゜　ＪＩ　Ｉ　　　　　　　　　　　　　　　　骨　　　　　Ｉ　　●・邸の役割を強化したのは間違いではないと思っているが.、レベル3PβＡを使　ってＪＣＯ事故のドレープ､を行い、防災対策の効能をチ５こツクし√こり経験を　　　　　　　Ｉ　　　●　　、　　　　　Ｆ　　　　　　　　　　　　　　　　　　●　僵　●
+　踏まえて、我ら何を目椥すべきか､を議論するべ貪だった．ラこ=iスデ氏にお前達・はＪＣＯ事故から何も学ばなかうたのではと言われたが、あのときは;､核燃料　¶　　　･･　　　　・　　　　．　４　　　　　丶゛”　　　　　　　‘　　　●　゜i　　　　　l　　　　　●j　・･サイクル施設の規制お粗末という反応で忙しく､、事故がおきて人々が反応した　嫐重な事例であるとして、安牽目標（5）指標の在り方を考えるどか、防堪計画の　在’り方の見直.しに思いが至らな､かった．　　／　　　≒‘’　　　　ソ
+３）．北欧において臑チェルノビリ事故のあと、凛ちに格納容器迪圧破損防止のため　　　・にＦｃｖsが殷置されたが､’これは現実に土地汚染を経験した社命において原
+　　∧子力発電が生き残るためには、土地汚染の可能性を排除す￡決意表明が必要と／‘の認識があったかりと理解していた．　　　二　　　　　　　　　　．．
+　　　　　　●　　　　　　　　　　　　　　　　　　　　●　●　　　　　　　　　　　　　　　　　　　－　　　　　　Ｉ　●　　　　　　　　　　　　　　　　●　　　　１　　　　　　　　　　　　　　　　　　　　　　　　　　　●　　　　Ｉ「白｀△当時、Ｆｃｖsについでぱ、そもそも期待通り機能するのか、゛水素燃焼対策に／　　　　　　　ｉ　　　　　　●　　　　－　　　　　　●　　　● ・　　　　　　　　　　　゜･¶
+　ス　疑問がある技術であるこ瓦癌庄破損を防止するに叫これより1は格納容器内’　　　　昿おけ匕冷却機能を強化じてそもそﾖも過圧事象を発生しないようにする方が　．　総合的に考えて令瑪性ゆ唏るのではという議論、さりこは、.事故時の大規模な.
+　　　黥射性物質め放肖シナリオには4各納容器バイパス事象もあ25･ところ、Ｆｃ顫は　　‰　　　　　・　．・　　　　　　　　　　　　　　　　　１　　　　　　　　●　　　Ｉ　　　　　　　　　　　・
+　　゛Ｉ希ガスをフ､イノ片ターできない.から、バイパメラインの菌加に）b･見えるJ。よって、
+　　･ご土地汚像・）訪止という貳被・ぐリスク低・め観点かちの役割は限られ、ﾚ設置　　　　　　　　　　i　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　:●　　　　　　　・　　襴　　　の合理性には嶷問があるという議論がなされたごこれに対して･、設置者は、･・．（　　度､は低くても、制御できない土地汚染物質の放出シナリオをなくすことが原子　ｉ　　　　　　　　●･　１　　　　● ｌ　　　　　　　　　　、　　　　　　　　　　　　　　　　－　　●　　．　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　●
+　　　　･力発電の生き残りの必要条件と思い定めて付け七いるというととであった．
+　・　　　　　．　　　　　　　　　　　　　　　　　　　　　　　　　　●　　　　　　　　　Ｉ　　●．１　　　　　●
+犬　　・こ･うした議論を涙るに、我こ々ぱ､彼らはとの設置を政治的に迪択したと受け卜　　止めた．よ他方、米国や英国々は、上の論理でこれの設置に合理性を見いだせな･ｉ　　　　　　　　　　　　　ｌ　　　　　　　　　　　　　　　　　　・　　１　　　１　　●　　　　¶
+　　　　い、わずかな可能性である土地汚染にづいては防災対策でカバーするといり立、
+　　　　場であった6実際、米国では、いまでもrｗＲについてはＦｃｖsは設置され．
+　　　七いないし、福島事故後の対剽こも予定はない．　　　　　　＼
+
+　　　･／　　　　　　　　　　　　　　　　　　　･6　　　　　　　　　　　　　　　　　’・
+－－‐‐
+99 .a&＆
+　　　我々はぺのよ9に土地汚染にたいする嫌悪霰の遂いを目留してyヽだの芦衂　　　　　１　　　　　　　　　・　　　　　　　　¶Ｉ　　　　　　　　　　　●　　　　　　Ｉ
+　これを我が身の問題として自省しするととなIく､安全目標の考え方を決める際　に米国の考え方を採用し、ＪＣＯ事故を経験しても、これを見直さなかったの　　｀　　　　　　　　１　　　嵋　　　　　　　　　　●　　　　　　　　　●　　　　　　　●
+≒は不覚と眥わざるを得ないﾉ　　　　＼　　　　　ゲ　　　　、　・
+４）　地震PSAの結杲々当時参照可能だったのはＮＵＲＥＧ １ １. 6’O。･この結果から、
+　　　　地震リスクは内部事象リメクと同様かそれ･を超えることもあること、而して、｀　　　　地震ＰＳＡ実施の最大の課題は地震学者に地震ノヽヽサード曲線め作成に協力頂く　　　　　　　　●　　●　　　●　　　　　　　　｜　　　　　　　　　　　　．　　　ｉ　●　　　　　　　　　｜
+　　　　ことであることがわかったので、I当時のＮＵＰＥＣ/安全解析所においでその実　　＼施雰力を行っていただいた。。　　　　　　　　　｀　卜　。ト　　　ヘ
+　　この地震ハザード曲線作業の難しさは、断層の性質等に異なる見解がある時には、それぞれの見解に学界'の意見で重み付けして全て.取り入れるというアプ　　　　　　　●　　　　　　　　　　・　Ｉ　　　　　Ｉ　　　　　・　　　　　　　　　　　　　・
+ローチにつきあうことに対する嫌悪感を地震学者に克服していただくことで声った．真寒はひとつ々いう学者の希場と抑容れない4忌避さ柞ることが多くミ蹶定しなければなら'ない時には、学説を戦わせだ後叺、こうした方法によってそれぞれの意見をそれなりに生かすことには、それなりに意味が･あるとしてつきあっていいよと言七)ていただけるまでが大変であった(今も津波ハザード曲　1　1　　1,　　　　　　　　　　　・●　　　　　　｜
+線作りにおいて関係学者の協力を得るのに苦労し雅蕕らしい)．
+5）　Ｎむ耳包41150の’１３－５ページには、､次ページに示すいこくつかめＡＭの感、
+　　　　度分析の結果がある。･これは地震PsＡを踏まえたもので・ないが、それぞれ　　　　　　　　　　　　　　　　、　●　　　　　　　　　　　　　　僵　　１
+　　　　の手段が炉心損傷確串を半減する程度の亠味を持っていることか示唆されて　　　　　　　　　●　Ｉ　●　　■　　　　　　　　　･●
+　　　　いる。｡ごれが我々が、しばしばrＡ:Ｍ･､は既に小さい事故確串をさらに小さくす　　　　るためのエ夫であって、総合的に検討し、｡整備されるべきもの」としてきた椣　　・　　　Ｉ　　　　　　　　　　　●　　　　　　　　　　　　　　　　　　　　　　¶　　　　　　　　　　　　・　　　　拠である。二　　　　　　＼’　　　　　　　　Ｉ‘　　　　　＼
+６）．我が国では、/私が関係していた時代には､l地震ＰＳＡに基づくＡＭの効果の評　で　　価は勉強した記憶はない。ＡＭ用機器設備の耐震クラメをどうするかは議論さ＼　れ、実力として高いクラスのものであるべきとしたはず．･ＮＵＲＥＧ １ :t 5 0 に　　　　　　１　　　　　１　　　　　１　　　　１　　　　　　　　　　　　　　　　　　　　　　　　●
+　　　．　　　　　　　　　　　　　　　　　　　　　　　　｀　　　　・　　　　　　　●|-　　　　●　　　●
+　　．はSSEの４倍くらいで電源等が故障するとあるが、このクリッ’フェッ･ジの内／　　　Ｉ　　　Ｉ　　　　　｀　　　１１　　　　　　　　　１　・●　　　　　　　　　・　　　　　　ｌ
+　　　側では、地震時であろうとも内部事象ＰＳＡによるＡＭ評価の結呆は使えると　　　思糺･耐驂匳は国内吻ちそんなところと思うが、このあだりほストレステスト．
+　　　の結果まち．二　　　　　　　∵　　　　　　　’　　　　　　　　　　　　．．
+
+　　　　　　　　　　　　　　　　　　　　　　　　　６　　　　　　　　　・　　　　　　　　　　　　一
+）ｆ
+1．000E－０３
+　≒　　　　　　，．Ｃｔ０００Ｅ－０４
+1．000E・０６
+1．０００Ｅ－06
+PCV
+羊十卜由
+ＦＷＳ
+ＸＬトト亠）゛
+Pｅａｇｈ ･.　　ＧrａｎｄＢＱttｏｍ　　Ｇulf
+μgｅhd
+PＣＶ,'Ｐrｌｍａry ＣｏｎtａＳｎｍｅｎｌ Ｖｅｎ!lngFWSI FIrｅｗａ畑r Ｓy８tｅ・
+F龜ＢtＦｅ●d萪nd‘Ｂｌｅｅｄ
+ＣＣＩ Ｃrｏs'ｓ-Ｃｏｎｎｅ４３tｓ　　　,.　　　　　･.･ＧＴＧs,Ｇａｓ 'nlrblne:･Ｇｉｎｅｌｆａtｏr
+Ｏ･ Ｓａｓｅ ｃ鵈aelSolnt｀ｅ８tl・ａtｅ
+χ，S鈿nslt!vlty゛p01nl est・ａtｅ　･'
+F&p
+χＬＯ
+Surry
+ＣＣ
+１
+ｓ辟ry
+巧gｕ脾13.１ Ｂｅｎｅｎts（5f accide貳ma・gemeiit strategles，
+７
+ＧＴＧ
+（…Ｔ卜Ｘ
+.乱｢fy
+一一一一一一…一一
+11111“~Ir
+－‐－‐‐－ＩＩ’！―
+Ｉ－－－Ｌ
+り
+13，Resｏｕrｃｅ Ｄｏｃｕｍｅｎt
+Table 13.1　むU11ty ｏｆ ＮＵＲＥＧ,・50.PRA prｏｃｅss tｏ ｏtheｒ plant stｕdies.
+　　　　　　　Ｅχａｍｐ】ｅ Ｒｅsｕlts
+
+l，Methods(ｅ,g。ｕｎｃｅyla・ty，ｅ)lcitatｊｏｎ， ｅvｅxlt tree/
+　　faｕlt trｅｅ)　　　　　　　　　　　　，
+2， ｑ13neral persｐｅｃtlｖｅs 【Ｑ･g･，pｒjncipa】conlribｕtｏrs tｏ
+　　ｃｏre dam・e frｅqｕｅｎｃy ・d ｒlsk)
+3，S叩portl・datａ ｂａsｅ ｏｎ ｄｅsipfeatｕrｅs，０ｐｅrａtional　匸　　c・racterj・csｌ ａｎｄ ｐｈｅｎｏｍ・010gy(ｅ･g･. ｈydrogen
+　　generａtｉｏｎ ｉｎ ｃ・dmage accidents， 叩ｍtjo・
+　　data)
+4.Ｑｕantkatiｖｅ resｕlts (ｅ･g･I core dam・8 11eqｕｅｎｃy，
+　　ｃｏｎtl!ｉｎｍｅｎt ｐ＆lbｒｍａｎｃｅ，ｒlik)
+　　　　　　　　Ａｐｐ・cab・ty
+Ｃｌａss ｏｆ Ｐｌａｎｌs　　Ｐｌａｎt Ｐｏｐｕlat1０ｎ
+high
+
+med・ｍhigh
+1０Ｗ
+ツ」
+medlｕｍ
+ＩＯＷ
+Sitｅ“spec・c reqｕirｅｍｅｎts and d直er・gｕU・ty rｅ-qｕlrｅｍｅｎts oftｅｎ ｌｅａｄ tｏ ・ｎｍｃａｎt dlfferｅｎｃｅs ・sｕpport systｅｍ ｄｅslgns (ｅ,g。 ａｃ ｐｏｗｅrl dQ poｗeｒ，sｅrｖｉｃｅ ｗａtｅr)tｈａt ｃ飢sｉｐｍｃ鴎tly innｕｅｎｃｅ tｈｅrｅsｐｏｎsｅ ｏｆ the plant tｏ ｖａr10ｕs pot・tjal accI-ｄｅｎt-lnitlathlg eｖｅｎts. Ｆｕrther， differｅｎt operａ･tional practices， lnclｕdi・ｍａｉｎt・・・ａｄｖitlesａｎｄ tｅｃｈ・qｕｅs for ｍｏ・t・・tｈｅ ｏｐｅratｌｏｎａｌ ｒｅ･
+1１ａｂｍty ｏｆ ｃｏｍｐｏｎｅｎt8 0r systｅｍs ｃａｎ ｈａｖe a slg-・ncant・nｕｅｎｃｅ ｏｎ tｈｅ ・ｋｄｈｏｏｄ ｏｒ seｖerjty ｏｆａｎ ａｃｇｉｄｅｎt，
+
+13,２,2　Gｕｉｄａｎｅｅ ｆｏｒIAccldent Ｍａｎａｇｅｍｅ・
+　　　　Stｒａtｅｇｉｅs
+Cｅrtain prｅｐａrａtｏry ａｎｄ rｅｃｏｖｅry ｍｅａsぼｅsc皿betａｋｅｎ ｂy tｈｅ ｐｌａｎt ｏｐｅr卵ｎｇ ａｎｄ tech・ｃａＯtafftｈａt ｃｏｕld’ ｐrｅｖｅｎt ｏr s址ｎ・c・tly加ltigatｅ the
+cｏｎsQqｕ・ｃｅs ｏｆ ａ seｖｅra accldent， Ｂroadly de-ｎｎｅｄ，帥ch “accident ｍａｎ・ｅｍｅｎtl' tncIｕdes tｈｅｍ・脚rｅs tａｋｅｎ ｂy the plant･staif tｏ (1)】)rｅ郭ｎtｃｏrｅ ｄａｍａ鈩，(2)tｅｎ・・tｅ tｈｅ ｐｒogrｅss Ｏｆ ｃｏredamage if it b・ins ａｎｄ rｅtａｉｎ t・corｅ・thln theｒｅ・,tｏr ｖｅssel， (3)malntａｉｎ ｃｏｎtahlm・t int・rity韶Io・齠po・ble，・ｄ ｈａｎy (4)mi・ｍtzｅ tｈｅｃｏｎsｅqｕｅｎｃｅs of・fslte releases， ln addidon, acc1-ｄ・tｍａｎ・ｅｍｅxlt incIｕｄｅs ｃｅrtａｉｎ ｍｅａsｕrｅs t・・ｎｂｅｆｏrｅ the occｕrrａｃｅ ｏｉ ａxl eｖｅｎt (ｅ.g･，・prｏvedtrａ・lng for sｅｖｅｒe accld・ts，・・ｗμe or prｏｃｅ‘dｕrｅ ｍｏｄ・catｌｏｎs)tｏ・c・哨tｅ・ｐｌｅｍｅｎtation ofaccldent ｍａｎａｇｅｍｅ・strategles.瑚th aU出esefactｏrs tａｋｅｎ togetｈｅr， accldent ma・gem・t isｖ・ｗｅｄ ａs ａｎ ｉｍｐｏ幽ｎt ｍｅａｎs ｏｆ ａｃｈｉｅｖing‘・ｄｍａ・tainj・ａ ｌｏＷ rjsk frｏｍ sｅｖｅro accidents;
+
+Ｕｎｄｅr the 6t・f programｙａｃｃｉｄｅｎt manag・・tprograms ｗjll be developed and ≒)ｌｅｍｅｎtｅりby
+　　・censｅｅs，Ｔｈｅ ＮＲＣ ｗjU focｕs ｏｎ ｄｅｖelopi・the　　regｕlatｏry frａｍｅｗｏrk ｕｎｄｅr ｗblch the lndｕstry　　progXams ｗI・be deｖeloped and jmp1qｍｅｎted，ａs　　ｗen as prｏｖidi・an indepe・ent assｅssｍｅｎt of　　JIcensee-prｏｐｏsed　accident ｍａｎａｇｅｍｅｎt capa-　　b・ties ａｎｄ strａteがes，ＮＵＲＢＧ-1150・s ｂｅｅｎ　　ｕ肺d by tｈｅ ＮＲＣ stalf tｏ sｕppoft t・deｖek)pm・t　　of the accid・tｍａ・ｇｅｍｅｎt program， ＮＵＲＥＧ-　　1150 metｈｏｄs ｐrｏｖlde a methodological frａｍｅ，
+　　ｗｏrk that ・nbet】sed tｏ ｅｖalｕａte particｕl・　　臑rategies,ａｎｄ the cｕrrｅｎt rｅsｕltS pｒｏｖide sｏｍｅ ｊｎ･　　sights intｏ the efficacy of strａtｅ幽s in place or that　　might ｂｅ ｃｏｎsldered at tｈｅ ＮＵＲＥＧ-U50 plants･　　Ｔ・s，tｈｅ ＮＵＲＢＧ-1150 methods ａｎｄ xQsｕlts ｗin　　l sｕpport a sta・rｅv10ｗ of】lcensee accident ｍａｎ-　　agement sｕbmitt幽，
+
+　　ＰＲＡｉ・ｏrｍ・ｏｎ ｈａs ｂｅｅｎ 咄ed・tｈｏ ｐａ８t tｏ ｊｎ-　　aｕ・ｃｅ ａｃｃｉｄｅ姚ｍａＤ・ｅ珀如t心ａtegies; hoｗｅｖｅｒ，
+　　tｈｅ ｍｅthods ｕsｅｄ ｌｎ ＮＵＲＥＧ-11SO can brl・　　added deptｈ ａｎｄ ｂrｅａｄth tｏ the pｒocess. alo・　　ｗjth a deta・edl eｘplicitlreatｍ・t of ｕncertainties.
+　　'【ｉｅ鈿tegrａted natｕrｅ ｏｆ tbe methods js pa・cｕ･　　larly jmportａｎtl slnce actｊｏｎs taken dt・・early　paｒts of all accldent can affect latｅr acddent prｏ'　　鈩ｅ・on and oflslte c・sｅqｕｅｎｃｅs. Ｆｏr e鴆mple，
+　　ａｎ ａｃｃｉｄｅｎt ma・ｇｅｍｅｎt sIrａt・y at ａ ＢＷＲ ｍａy　　inり01ｖe ope・・ａ ｃｏｎtａ・ｍｅｎt ｖ・t.This aclion　　can affect sｕch tｈ・gs as the systｅｍ rｅｓｐｏｎsｅ ａｎｄ　　ｃｏre damage frｅqｕｅｎｃy， the retｅｎtｉｏｎ ｏｆ radioac･　　tiｖe mai・al ｗitbln tｈｅ ｃＱｎta・ｍｅｎｌ， ａｎｄ 山ｅt・，
+　　1・of rａｄｉｏｎｕclide rｅｌｅ・es(ｗhich impacls ｅｖacｕ^　　ａtｌｏｎ strａt・ies)，lt is po・b16 that ａｃ面ｍtｏ　　redｕce tｈｅ ｃｏre damage frｅqｕｅｎｃy ean yleld　　accldent seqｕｅｎｃｅs ｏＨｏｗｅr tfeqｕｅｎｃy bｕt ｗith　　mｕch higheｒ ｃｏｎsｅqｕences. AI】tｂｅse factｏrs need　　to be considered ・concert ｗhen developi・13-３　　　　　　　　　　　　　　　　　ＮＵＲＥＧ-1150
+９丶
+ＳＸ
+13，Ｒｅsｏｕrce Do郊ｍｅｎt
+appropriatｅ ｖｅｎtlng strａt・ies，Ｔｈｅ treatｍｅｎt of・1certａｉｎties Is ａｎｏther ｋｅy ａspect of accldentｍａｎ・ｅｍｅｎt. Ｇｅｎｅrａ・y，procedｕrｅs arｅ ｄｅｖe1-oped basｅｄ ｏｎ “ｍｏst肚ely” ｏr ”ｅｘpected” ｏｕt-comes， Ｆｏr sｅvｅrｅ ａｃｃｉｄｅｎts， t・ｏｕtcomes arｅｐａ・・laｒly ｕｎｃｅrtain， ＰＲＡ ｍｏｄｅｌs ａｎｄ rｅ叺】lts，sｕch as tho肺prodｕced in tｈｅ ａｃｃｉｄｅｎt progres-sｉｏｎ ｅｖｅｎt trees， ｃａｎ ｉｄ・tify possible altｅｍ・ｖeoｕtｃｏｍｅs for importａｎt ａｃｃｌｄｅｎt seqｕences. Ｂymaldng this i・Ｑrｍａtｌｏｎ ａｖa・able tｏ ｏｐｅrａtｏrs andrｅsｐｏｎsｅ tｅａｍs， ｕｎ・pectｅｄ ｅｖ・ts・ｎ ｂｅ rｅｅｏｇ･ｎ!ｚed ｗｈｅｎ they ｏｃｃｕr， ａｎｄ ａ ｍｏr６ ｎｅχible 即･proach tｏ sｅｖe羚accidents c・be deｖeloped， Ｔ・rｅｃｅｎt trｅｎｄ圦）ｗａ・symptｏｍ･based，as opposedtｏ ｅｖ・卜based，procedｕr・is ｃｏｎsistｅｎt ｗith thisneed for ｎｅｘlbmty，
+Tｏ ｄｅｍｏｍtratｅ the potｅｎtial bendls ｏｆ ａχl acci-ｄｅｎtｍａｎａ帥ｍ・tｐrogrａｍμｏｍｅ ｅ;cample cal・-latｉｏｎs ｗｅｒｅ ｐｅrforｍｅｄ， a8 docｕｍｅｎted ・Refer-ｅｎｃｅ １３,20，Ｆｏr thls ・kial dem・睹・ｏｎ，thesecalcｕlatｉｏｎs ｗｅrｅ 】i・ted tｏ th0 1ntｅｍａｌ･ｅｖｅｎt ａｃ-ｃｉｄｅｎt sｅqｕence po・ｏｎ ｏｆthe a・lysis.Ｆｕｒther，tｈｅ ｎｕmerical rｅsｕlts presｅｎted are “pojnt e・-matｅs” of tｈｅ ｃｏre damage frｅqＵ・cy as opposedtｏ ｍｅａｎ ｆrｅqｕｅｎｃy ｅstimatｅs， Selected eχamplesfrｏｍ the i・・】ａ・lysis ａｉｅ ｐresｅｎted beloｗ，
+Effect of FIreｗａteｒ Systｅｍ ａt Ｇｒａｎｄ Ｇｕ】f
+
+
+The first ＮＵＲＥＧ－1150 analysis of tｈｅ Ｇrandnll・ｐｌａｎt(Ｒｅt 13.21)did not ａ‘edtt ｕsｅ ｏｆ thefirｅｗａtｅr system foｒ ｅｍｅ・ｅｎｃy ｃ００１ａｎt jnje＆i・becaｕsｅ ｏｆ the ・aｖailabmty 01 0perａt・g proce-ｄｕres for jts ｕ鈴in t111s ｍｏｄｅ ａｎｄ the dj・cｕltlesin physIca】ly ｃ・lgｕring its operatｉｏｎ， ８０ｗeVer，s・ｃｅ that tｉｍｅ， tｈｅ・ｃｅｎs叩has made sig・licantsyｓtｅｍ ａｎｄ ｐrocedｕrａｌ ｍｏｄ・catｉｏＤs、Ａs a rｅsｕlt，the fireｗａtｅr systｅｍ ａt Ｇrａｎｄ Ｇｕ１１ ｃａｎ ｎｏｗ beｕsｅｄ ａs ａ ｂａｃｋｕp 80ｕrｃｅ ｏ・ｏｗ-pｒessｕrｅ ｃ００１ａｎt・jectｌｏｎ tｏ tｈやreactｏr ｖessel. The system ｗｏｕldbe聊ed for 10ng-tｅrm accident seqｕ・ｃｅsl i,ｅ。ｗｈｅrｅ扣ak卯ｐ ｗａtｅr ｗas prｏｖided by ｏthel‘ 囘ec-tｉｏｎ systｅｍsIく〕r sｅｖｅral hoｕfs beforｅ thelr sｕbsｅ-qｕｅｎt failｕre， Ｔｈｅ訛ｅｗater syslem prima・y aldsthe plant dｕrl・stａtion blackoｕt conditｉｏｎs ａtld 18con61derｅｄ ａ 】ａst rｅsｏｒt effort，
+AI! eｘａｍ・ａtｉｏＤ・s ｂｅｅｎ xnade of the benefit ofthesｅ・ｃｅx芻ee modinCat１０ｎs tｏ tｈｏ Ｇrand Oｕlfplant，Ａs shoｗn in F18ぽe 13,1，thesｅ ａｎａｌysessｈｏｗed tｈａt tbe tｏtal corｏ ｄａｍａ粐frｅｑｕｅｎｃy ｗ韶redｕced frｏｍ ４Ｂ-6 tｏ ２Ｂ-6 per reactｏr yｅａr be‘caｕsｅ ｏｆ these cha・ｅs.
+NＵＲＥＧ-1150
+Effect ｏｆ Ｆｅｅｄ ａｎｄ Ｂｌｅｅｄ ｏｎ Ｃｏre l)ａｍａｇｅ
+ｌ'rｅqｕｅｎｃy ａt Sｕrry
+Ｔｈｅ ＮＵＲＥＧ-1150 a・lysjs for Sｕrry・clｕdes theｕse of feed and bleed c00hg for thosｅ sｅqｕ・cesin ｗhich all feedｗａtｅr tｏ the stｅａｍ ｇｅｎｅrａtｏrs js10st(thｕs ｃａｕsI・their loss ａs heat rｅｍｏｖal sys“tｅｍs).Feed卸d bleed c0011・rｅslores heat rｅ-ｍｏｖaほｏｍ the c・ｕ・g吻hi)・s・1小ctｌｏｎ(HPI)t０ １ｎｊｅｃt intｏ the rｅａｃtｏr ｖ・el and thepoｗｅr-ｏｐｅrated relief ｖalvｅs(ＰＯＲＶs)ｏｎ theprｅssぽjｚer tｏ ｆｅｌｅａsｅ steam and regｕlatｅ rｅａｃtｏrｃ００１ａｎt systｅｍ ｐr・8ｕrｅ･
+
+Ａｎ ｅｘａｍｌｎａtｌｏｎ ｈａs ｂｅｅｎ ｍａｄｅ tｏ ｄｅtｅrｍｉｎｅ tｏｗhat eｘtｅｎt feed and bleed co01・g decreases ｃｏredamage frｅqｕency at Sｕrry. Ｔｈｅ ｃｕrｒent Sｕrry加ｏｄｅ・ncIｕdes tｗo basIc ev如ts represｅｎti・fa小ｕre modes for feed and bleed coohg ・tｈｅ ｅｖ・tｏｆ ａ ｌｏss of al・eedｗatｅr.'ｎｌｅse modes a・ｏｐｅrａ“tｏr faUｕrｅ to i・date blgh･prｅ呷re・Jectｉｏｎ ａｎｄｏｐｅratｏｒ faUｕrｅ to prｏｐｅrly ｏｐｅratellhe FORVs，ｌｎ ｏrdeμｏ ｅｘａｍｉｎｅ the impact ｏ・ｅｅｄ ａｎｄ ｂｌｅｅｄｃ００１・g， botｈ ｂａsｉｃ ｅｖｅｎts ｗｅrｅ ａssumed to alｗaysoccｕr. Ａs sｈｏｗｎ ・Fjgｕre 13.1， tbe rｅsｕltj・tｏtａｌｃｏrｅ ｄｇｍａｇｅ ｆｌｅqｕｅｎｃy for Sｕrｒy 【if鈿edndb】ｅｅｄ ｃ００１・g ｗｅrｅ ｎｏt ａｖailable)tｈｅｎ・creasｅsby rｏｕghly a factｏr of l.3，Thatis，tｈｅ ａｖajlab・jtyof tｈｅ ｆｅｅｄ ａｎｄ ｂｌｅｅｄ ｃｏｌｅ ｃｏ０１ｊ・opt１０ｎ ｉｎ theSｕrry desｌｐａｎｄ ｏｐｅrａtion is ｅstimated tｏ redｕcecore dama8e frｅq籾ｎｃy frｏｍ ４Ｂ-5 t０ ３Ｂ-5 perreactｏr yeaｒ･
+
+ＧａsＴｕrblne Gelierａtｏr Ｒｅｃｏｖｅry Act１０ｎ ａt
+Sｕｒｒy
+
+Ｔｈｅ ｐrｅsｅｎt ＮＵＲＥＧ－1150 mode11・and analyslsof the Sｕrry plant haｖｅ ｎｏt ｃｏｎsidered the be助一蠢ts of ｕsｌｎｇ ｏｎsite gas tｕrbine generatｏrs for re･covｅry jn tｈｅ ｅｖｅｎt ｏｈt・on blackoｕt accidenls，Ｂｏtｈ ａ ２５ ＭＷ ａｎｄ ａ １６ ＭＷ ｇａs tｕlbi・ｇｅｎｅra-tｏr ａrｅ ａ・Uable to prｏｖｉｄｅ ｅｍｅ・ｅｎｃy ac poｗｅr tｏ.・ｅty-relatｅｄ ａｎｄ ｎｏｎ-sａｆｅty‘felated e4ｕlpm印t･Theseg・ｅrａtｏrs ｗｅrｅ ｎｏt jncIuded in the analysisbecaｕsｅ，as・rrｅ・y conlgｕxed，they ｗｏｕld notbe aｖaUable to miUgatｅ ｊｍｐｏ幽ｎt accid・t sｅ-ｑｕｅｎｃｅs.　　　　　几
+
+Ａｎ ｅｘａｍ・ａt10n bas be・made･of tlle elfect ｏｎｃｏrｅ ｄａ・age frｅqｕｅｎｃy at Sｕrry ・incIｕdl・the8as tｕｒｂｊｎｅ ｇｅｎｅratｏrs as ａ ｍｅ汕s of recoｖeryfrｏｍ stｄｏｎ ｂｌａｃｋｏｕt sｅqｕｅｎｅｅs. Ｔｏ &Ivecreditfor t・add妲ｏｎ ｏｆ ｏｎｅ ｇｅｎｅratｏr for ｅｍｅ・ｅｎｃyａｃ ｐｏｗｅrｊt js assumed that Sｕrry plant persｏ・elhaｖｅ tｈｅ ａｕthority tｏ start the gas tｕfb・es ｗhenrｅqｕlrｅｄ Ｂｎｄ that ｌ ｈｏt】r is rｅqｕIred tｏ 幽rt tｈｅｇａs tｕrblnes ａｎｄ ｅｎｅ・lzｅ tｈｅ safety bｕses， ln theanaly・s，the gas tｕrblnes ｗerｅ， assｕｍｅｄ to beavaUable 90 μΓｃ・t･01 t・tｉｍｅ，
+13-4
+1．000E-０3
+1.000E-０４
+1．000E-０6
+1.０００Ｅ－０６
+ＰＣＶ
+χ卜卜｛｝
+Pｅａｅｈ :ａｏttｏｍ
+ＦＷＳ
+琴トトトφ
+GrａｎｄＧulf
+t3，R6sｏｕrce Do・ｍｅｎt
+Lｅgｅｎd
+PＯＶs Ｐr・ａry Ｃｏｎtａｌｎｍｅｎｌ ｖｅｎtlnOFWSs FIrｅｗａtｅrey８tｅｍ
+ＦａＢs Feed and Bleed
+CCI Crｏｓｓ-００ｎｎｅｃtｓ
+ＧＴＧs Ｇａｓ 'njrｂｌｎｅ Ｇｅｎｅ・tｏｆ
+Ｏｄ∃ａsｅ ｃａse polnt ｅsIlmale
+X s Ｓｅｎａｌtlvlty ｐ０１ｎｌ ｅａtｌｍａtｅ
+F＆B
+ｙＴＯ
+Surry
+ＣＣ
+１
+Surrｙ
+Fjgｕre 13,１ Ｂｅｎｅｎts of accident ｍａｎ・ｅｍｅｎt strat・ies，
+　　　　　　　　　　　　　13-5
+ＧＴＧ
+（…ｙ卜火
+Surry
+NＵＲＥＧ-1150
+－－
+13.Ｒｅ８０ｕrｃ６ Ｄｏｃｕｍｅｎt
+The ｕsｅ ｏｆ tｈｅ ｏｎsite 8as tｕib・ｏ ｗａs ｅstimated tｏredｕcg corｅ ｄａｍ・e freqｕｅｎｃy fｒｏｍ ３Ｂ-5 tｏ２Ｂ-5 per rｅａｃtｏr yeaｒ･
+High･ｒｒessｕｒe lnjectｉｏｎ ａｎｄ ＩＡｕｘ・ａry Feed･ｗａtｅr ＣrｏssｃｏｎｎｅｃＩs ａt Sｕrｒy
+
+The Sｕrfy Ｕ・tl宀ｎt is ｃｏμf1μed tｏ rｅｃｏｖerfrｏｍ ｌｏss 01 eltｈｅr the higb･ｐrｅssｕte i巾ct・(HPI)systｅｍ ｏr tｈｅ ａ・・ary feedｗatｅr (AliW)systｅｍ ｂy ｏｐｅrａtｏｒ'lnitlatｅｄ ｃrｏssｃｏｎｎｅｃtｉｏｎ tｏtｈｅ ａ・Ionoｕs ｓｖstｅｍ ａt Ｕ・t2，Wh・ｅ these ac･
+U・tlandU・t ２ ＨＰｌ ａｎｄ ＡＦＷ syslenls forｃrｏsｓｃｏＴｌｎｅｃt ｌｎｊｅｃtion is ｍｏｄｅｌｅｄ ａＳ ａ rｅｃｏｖｅryactｌｏｎ，
+
+Analysis of the jmpoltａｎｃｅ ｏt crｏssconnect iχljec-ｄｏｎ ａt Sりｒry・clｕdes枷ｏ ｐａｒts･ Fjrst， ｃredit foｒｃrｏssｃ９・ect ｉｎｊｅｃtｉｏｎ ｗas rｅｍｏｖed frｏｍａｌｌ ａｐ-pli・ble domi・ｎt seqｕｅｎｃｅsI ｗbich ｗｅrｅ tｈ呷re-q圜ｎ曲ed，Ｓｅｃｏｎｄ，sｅqｕences that ｗｒe pｒｅｖi-ｏｕsly sｃrｅｅｎｅｄ ｏｕt of tｈｅ ａ・ly出ｗｅ爬ｃｈｅｃｋｅｄｌｏｄｅte町・ne if tｈ・ｗｏｕld becomedo・・ｎt in theabsｅｎｃｅ ｏｆ ｅｆｏssco・ect囘ectl・，Ａｓ sｈｏｗｎ ｉｎＦｊ鈩re 13,1j tｈｅ ｐ０１詆estlmatｅ ｏｆ tｈｅ tｏtａｌ ｃｏrｅｄａｍａｇｅ ｆrｅqｕ・ｎｃy ｗltｈｏｕt ｃrｏssｃｏｎｎｅｃts is IB-4。ｅｏｍｐａred tｏ tｈｅ ｖalｕe of 3B-5 fOr jntemally initl-atｅｄ ｅｖｅｎts jn the basｅ ・sｅ.
+？rｌｍａry Ｃｏｌt・ｎｎｌｅＤt Ｖｅｎt・g at Ｐｅａｃｈ
+Ｂｏttｏｍ
+
+'ｎ１８μｊｍａｒy ｃｏｎ・ｎｍｅｎtｖｅｎ・g(ＰＣＶ)systｅｍ ａtPeach l!ｏttｏｍ ｊs ｕsed to preｙｅｎt prjmary ｃｏｎt・ｎ･ｍｅｎt　ｏｖｅrpressｕrizatlon　dｕrj・　accident　se‘･qｕｅｎＱｅs ln ｗｈｉｅｈ ａｌｌ ｃｏｎtａｌｎｍｅｎt ｈｅａt rｅｍｏｖａ・s】ｏst，Ｍｏst seqｕenc6s of tbls type ・ｖolve fanｕrｅ ｏｆthe rｅsldｕal ・ａt rｅｍｏvil syStｅｍs， Becaｕsｅ ｏｌ tｈｅｄstｅｎｃｅ ０１ this ｖｅｎt』・・pab・ty，ｎｏ陶ch acci･dentseqｕ・ｃｅs ａｐｐｅａでed韶do・ｎａｎt in 出ｅＮＩＪＲＥＧ-1150 a・ly8・10r Ｐｅａｃｈ Ｂｏttｏｍ，
+The effect of the ｔＣＶ systｅｍ ｏｎ the core damagel\eqｕ如ｃy ａt Peach Bottｏｍ ｗ鷁detｅr・ned by ｅｘ･a珀hl・S the seqｕ・ｃ銘scrｅｅｎｅｄ ｏｕt in tｈｅＮＵＲＥＧ-11SO a・lysis that・c椥ded由ｅ ＰＣＶsys“tｅｍ ｌs ａｎ ｅｖｅｎt (ｐrｊｍａ咄y the‘sｅqｕｅｎｃｅs inｖojｖ・gloss ０１ ｃｏｎtａｊｎｍｅｎt ｂｅａt yｅｍｏｖal)，Ｃrｅｄｉt for the】?ＣＶ sysｌｅｍ Ｗａs ｒｅｍｏｖed frｏｍ tｈｅ卵seqｕ・ces，ｗhich ｗｅrｅ tｈｅｎ sｕmmed and added tｏ tｈｅ ｃｕr･
+rｅｎtｐｏ・t・tlmatｅ ｏｆ 出ｅ ｃｏre dama8e freqｕency，Ａs shoｗｎ ・Figｕre 13,1，this resｕlts in a po・t郎t珀altｅ ｏｆ tｈｅ Ｐｅａｃｈ Ｂｏttc)ｍ ｃｏｒe da珀・e frｅ-
+NＵＲＥＧ-1150
+qｕｅｎｃy ｗi出ｏ叭ｃｏｎta・ｍｅｎt ｖｅχ11』・of gE-6，ａｂｏｕt　a　factｏr　of　2,6，・cｒ6ase　oｖｅr　theNIJRBG-U50 ｖalｕe of 4B－6，
+
+13,2.3　χｍｐrｏｖ・ｇ Ｃｏｎtａｉｎｍｅｎt PerfoｒｍａｎｃｅＴ・ＮＲＣ ｈａs performed an assessｍｅｎt of tｈｅｎｅｅｄ to imprｏve the capab・tles ｏｆ ｃｏｎtalnmentst脚cl珥ｅs tｏ ｗitｈ出nd sｅｖｅre accidents (Ref.13.1).S!aff efforts foeｕsed ln・・y ｏｎ ＢＷＲｐｌａｎts ｗitｈ ａ Ｍａyｋ ｌ ｃｏｎta・ｍｅｎt，folloｗed by tllerｅｖieｗ ｏｆ ｏtheｒ ｅｏｎtａ・ｍ・t types. This prｏ鈩lmｗａs・tｅｎｄｅｄ tｏ ｅｘａｍｌｎｅ ｐｏtｅｎt・ｌｅＤ・nced plantａｎｄ ｃｏｎt・ｎｍ・t capab・ties and procedｕres ｗitbregard tｏ Ｂｅｖｅrｅ ａｃｃｉｄｅｎt ・tigatｌｏｎ，ＮＵＲＢＧ-1150 prｏｖided j・ｏrmatｌｏｎ that seｒｖed tくj加c脚ａt･tent１０ｎ ｏｎ ａreas ｗherｅ ｐｏtｅｎtjal contａｉｎｍｅｎt per'forｍａｎｃｅ　ｉｍｐrｏｖｅｍ・ts　・ght　be　rｅａｈｅｄ，ＮＵＲＢＧ-1150 as ｗｅ・as ｏther fecent ylsｋ stｕdieslndlcate that ＢＷＲ Ｍ鮮k l rjsk ls do・・ated bystatｉｏｎ ｂｌａｃｋｏｕt ａｎｄ ａｎticipated transｉｅｎt ｗitｈｏｕtscram(ＡＴＷＳ)accldent seqｕ・ces. ＮＵＲＥＧ-1150 fｕｒtｈｅr ｐｒｏｖided a model foｒ ａｎｄ shoｗedthe benefk of a ・ｒｄｅｎｅｄ ｖｅｎt for Feach BottQm(diseｕssｅｄ ａｂｏｖe and dlsplayed ・Figｕre 13.1)･Ｔｈｅ staff紬ｃｕrrｅｎtly pｕrsｕl・rｅ・at(χy ａｃtｉｏｎstｏ rｅq・rｅ ｈａrｄｅｎｅｄ ｖｅｎts ・a11 Mal゛k ,l plantsIｕs・ｇ ＮＵＲＢＧ-1150･and o山er ＰＲＡs in tｂｅ ｃｏst-ｂｅｎｄtａ啣lｙ由.　　　　　　　　　　，
+
+Ｔｈｅ ＮＵＲＥＧ-1150 accident proglession a呻ly出mode18 ｗerｅ ｕsed by tｈｅ staff and its ｃｏｎtractｏrsin tｈｅ ｅｖalｕatｌｏｎ ｏｆ ｐｏssｉｂｌｅｃｏｎta・ｍｅ吭・-prｏｖｅｍｅｎts for thg PWR i・ｃｏｎｄｅｎsｅr ａｎ!I BWRMark l・desigχ】s，Ｔｈｅ rｅsｕlt of the staff rｅｖieｗs ofthese designs (and a110thers ｅχcept the Mark l)ｗas tbat potｅ!ltja凵mprｏｖｅｍｅｎts ｗｏｕld best bepｕrsｕed as part of the indlvidｕal plant ｅｘamjna･t10n piocess (discｕssed・Section 13,2,1)，
+
+13.2,４　Ｄｅtｅｒmi・ｎｇｌｍｐｏｒtａｎt Ｐｌａｎt
+　　　　Ｏｐ６rａt１０ｎａｌ Ｆｅａtｕres
+ＮＵＲＥＧ－115()ｗjU prｏｖide a sｏｕrｃｅ ｏｆ・ｏ・a･ilon for ・ｖｅ・gat・g tｈｅ ｉｍｐｏrtａｎｃｅ ｏｆ ｏｐｍ-donal safetｙ jssｕｅs tbat 加ａy・se dｕrl・day‘tｏ“day plant ｏｐｅtａtｉｏｎs， ？ｈｅ ＮＵＲＢＧ-1150 models，ｍｅtｈｏｄs， ａ・ｘｅ・ts haｖｅ ａｌrea勿been・ed tｏ
+13-6
+analyｚｅ the importanee of ｖenti・of the sｕppres･610n po01， the jmpoｒtａｎｃｅ ｏｆ ・epi・tｈｅ ＦＯＲＶs瞬d atｍｏsphedc dｕｍｐ ｖalｖｅs ｕnblocked， tｈｅ ｌｍ-port・ｃｅ ｏｆ ｏｐｅrational charactｅ由t・of tｈｅ ｊｃｅｃｏｎｄｅｍｅｒ ｃｏｎtａｊｎｍｅｎt deslgn， the jmportan・ofoperａtｏr rｅｃｏｖｅry dｕr】・ａｎ ａｃｃ１４ｅｎt鱆qｕｅｎｃｅ，and tｈｅ ・poｒtａｎｃｅ ｏｆ ｃrｏssties betｗｅｅｎ systｅｍs･Thesｅ邨erａtlonal卸d system charact・・cs，asｗｄ ａs ｍａｎy ｏtllers， ａre described inl detall inC・pters 3 thrｏｕgh 7， Ｆｏr ｅχample， ｃｈａractｅrjs-tics of t・Sｕrry plant desip 睇d operation that
+１
+ｊ
+－● ●
+8．ＰＥＲＳＰＥＣＴＩ・S ＯＮ ＦＲＥQＵＥＮＣＹ ＯＦ ＣＯＲＥ ＤＡＭＡＧＥ
+8.1・trod以ｃtiｏｎ
+tllere js sｕbstａｎtial p】ant-tｏ‘plant ｖarjab・ty ａｍｏ・impoｒtant aceldent seqｕences･
+C・ｐters 3 thrｏ・h 7 haｖｅ 圜ｍｍ・zed tｈｅ ｃｏrｅ
+ｄａｍ・e frｅqｕｅｎｃｉｅs・dlｖidｕal】yforthe跏e plants　I Flgｕrｅs 8,5 thrｏ・h 8,8 prｏvlde the rｅsｕlts of tlleassｅssed・thls slｕdy. Si・ficant d・ｅrｅｎｃｅs　ｅｘterｎ・-event analyses， and Figｕres 8,9 thfoｕｇｈａｍｏ・the plants can be sｅｅｎ ｌｎ tｈｅ resｕlts， both　　8,12 glｖｅ the brｅａｋｄｏｗｎ ｏｆ thesｅ ａ躪lysｅs accord-・terｍs of the corｅ ｄａｍａ辟frｅqｕｅｎｃｌｅs ａｎｄ the　　i・tｏ tｈｅ ｐrlncipal types of accjdent seqｕｅｎｃｅs･pa・叩lar ｅｖｅｎts that ｃｏｎ・bｕtｅ ｍｏst tｏ those frｅ･
+qｕ・c・.Ｔｈｅse d・ｅrｅｎｃｅs ａre dｕｅ tｏ ｐｌａｎt･spe･　　8,３　ＣＯｍｐ汨11帥ｎ ｗitｈ ＲｅａＣtｏｒ Safety
+ｃ・c dlfferences ・tｈｅｐ・t deslg”s al!d °p・｀　　　　Stｕdy　　　　　　　　　　　∵
+tlonal practｌｃｅs. De咽tｅ the plant-sｐｅｃ頂c natｕreof tｈｅ stｕdy， lt is possible tｏ ｏｂtａ・・po吻ｎtper’sｐｅｃtiｖｅs,that・ａy・ｖｅ・p11catｌｏｎs for a la・ｅr
+nｕｍｂｅｒ of plants ａｎｄ ａｌsｏ tｏ ｄｅs・be the types ofP】ａ皿‘spec・ｃ ｉｅａtｕｌｅs that ａrｅ 甌ely tｏ ｂｅ ｌｍｐｏr‘tatlt at ｏtｈｅr plaDts, Ｔｈｉs chaptｅrprｏｖides sｏｍｅ ０１thesｅ ｐｅr・)ｅｃtjｖｅs.
+
+8.2　Sｕｍｎｉａｒy ｏr ＲｅＳｕltｓ
+
+Ａs disｃｕssed tｎ Ｃｈａｐtｅr 2， tｈｅ ｃｏre dam・e fre-qｕｅｎｃy is ｎｏt ａ ｖalｕｅ tｈａt ｃａｎ ｂｅ ｃａｌｃｕ】ated ｗithabsoIｕtｅ ｃ町ねjnty ａｎｄ thｕs is best charact・ｚedby a probab・ty dlstrlbｕtｌｏｎ， lt is therｅｆｏre dls･・ssed・thls rｅｐｏｒt in tｅｒｍs ｏt tｈｅ ｍｅａｎ， ｍｅｌｄｊａｎ，and ｖａｄｏｕs perｃ・tle ｖalｕes， Ｔ恥ｅ ｌｎtemal･ｅｖｅｎt ｃｏre damage frｅqｕｅｎｃｉｅs ａrｅ 川ｕ蚶atedgrａ肖ca・y jn Flgｕr6 8.1 (R4 811 thrＱ・h 8.5)，゛rhe figｕrｅ ｄｏｅs ｎｏt inclｕde tｈｅ ｃｏｎ・bｕtｌｏｎs ｏｆｅｘtｅｍａｌ ｅｖｅｎts,' ｗhich are dlscussed ・Sectlon8,4，
+ln Figｕre 8,1 the loｗｅr ａｎｄ ｕpper ｅｘlrｅｍｊties ofthe b黻s rｅｐrｅsｅｎt tｈｅ ５tｈ ａｎｄ ９５th perｃｅｎ・es 01the distdbｕtｉｏｎs， ｗitｈ tｈｅ ｍｅａｎ ａｎｄ ｍｅｄｌａｎ ｏｆｅａｃｈ ｄ・・bｕtｉｏｎ ａ】sｏ shoｗｎ. Thｕs， the bars in-cIｕｄｅtｈｅｃｅｎtra190perｃｅｎtofthedlstｒibｕtlom Otsｈｏt】ld be rｅｍｅｍｂｅred tｈａt the dls・bｕt１０ｎs酊ｅｎｏtｕ・forｍ ｗlthhl tｈｅse bars)ｙｎｌｅse flgｕrｅs shoｗthat the ra・ｅ ｂｅtｗe・tｈｅ ５１ｈ酊ld 95tｈ ｐｅrｃｅｎ･懴ｅs ｃｏｖeTsfrｏｍ ｏｎｅ tｏ tｗ０ ０rdeis ｏｆｍａｐｉtｕdefoｒ the fiｖe p】ants，Ｔｈｅre js alsｏ signlflcant ｏｖerlap゛”｀゜・the jls・b・゜11s･ ８s disｃｓsed l?゜loｗt Th?reader由ｏｕld rｅｆｅｒ to References 8.1th・jS118.5for detailed discｕ・ｏｎ ｏｆthe dis・・tｉｏｎs，
+
+Figｕrｅs 8,2 and 8.3 shoｗ tｈｅ ｃｏｎtribｕtｉｏｎs of t・p由ｌｃｉｐａ】types ｏｆ ａｃｃｉｄｅｎts tｏ the mean･ ｃｏｌｅｄａｍａｇｅ ｆrｅqｕｅｎｃy for ｅａｃｈ ｐｌａｎt， Figｕre 8,4a】soprｅsｅｎts thjs breakdoｗｎ， bｕt ｏｎ ａ rｅｌａtiｖｅ scale、Ｔｈｅsｅ匈ｕyｅs sｈｏｗ that sｏｍｅ types ・accid・ts，sｕｃｈ ａs stａtion blackoｕls， ｃｏｎ・b砒ｅ tｏ tｈｅ ｃｏradamage frｅqＵ・cies for all the plantsＳ ｈｏｗｅｖｅrl
+Fjgｕrｅs 8.13 and 8,14 sｈｏｗ 血ｅ ｉｎtｅｍａｌ ｃｏrｅｄｍａｇｅ ｆreqｕｅｎｃy dis・bｕt・s ca・lated in 畄spigsｅｎt stｕdy for Sｕrｒy ａｎｄ Ｐｅａｃｈ Ｂｏtt・ａｌｏ・ｗlth dis・bｕt・s syｎtｈｅs・d fr・the ReactｏrS由ty Stｕdy (Ｒｅｆ， 8.6).ｗhleh a】sｏ ａｎａｌyzed ‘Sｕrry and Peach 汨ｏttｏｍ. The Reactｏr SafetyStｕdy ｐrｅsented rｅsｕ11s in temls of medians bｕtnot means， lt can be sｅ・tha・he median8 are10ｗｅr ln the prｅsｅｎt ｗｏrｋ. altho・ｈ ｏｂsｅｒｖａtｉｏｎ ｏｆ画ｅ ｏｖｅrlap of the rａ・ｅs sｈｏｗs that tｈｅ ｃ・・ets'ｍｏｉｅ si帥・cant for Ｐｅａｃｈ Ｂｏttｏｍ tｈａｎ ｆｏr Sｕrry･Ｔｈｅrｅ ａre tｗｏ・po幽ｎt teasｏｎs for the d・ｅr･ｅ・ｅs betｗｅ・tｈｅ ｌｅｗ fjgｕres and thosｅ ｏｆ theReactｏr S・ety Stｕdy. The fifst js the lfact t・tprｏｂａｂｍstlc risk analyseB (ＰＲＡs)ａrｅ sｎａｐshots intｉｍｅ，ln these casｅsl tｈｅ snapshots ａｒe tak・aboｕt 15 yeafs apart. Ｂｏth plants ｈａｖｅ ｉｍｐｌｅ-ｍｅｎted・rdｗare珀od・cations and proceduralimprｏｖｅｍｅｎts ｗitｈ the 卵ted pｕｒposｅ ｏｆ ・ｃreas-・g卸fety，ｗhjch drlvｅs core dam・efrｅqｕｅｎｃ・doｗｎｗａrd，
+
+Ｔｈ６ sｅｃｏｎｄ reasｏｎ ｊs that the stａtｅ ｏｆ the aｒt ・applying probab・・ｃ ａｎａｌysls ・ｎｕclear poｗeｒplant appUcat10跏ｈ韶advａｎｃｅｄ sI即泪・ｎtly sｊｎｃｅthe Reactｏr Safety Stｕdy ｗa8 pDrforｍｅｄ. Ｃｏｍｐｕ-tatio・l techniqｕｅsarｅ ｎｏｗ ｍｏrｅ sophisti・ted，ｃｏｍｐｕt・g poｗｅr has increased ・０rｍｏｕsly，ａｎｄｃｏｎsｅqｕｅｎtly the leｖel of detａｎ ｊｎ ｍｏｄｅＵ・・s・ｃrｅａsed，ln sｏｍｅ ｃａsｅs, tllesｅ ｎｅｗ melhods havｅrcdｕｃｅｄ ｏr eliminated preｖio哨analyUcal conser-ｖatis・s，Ｈｏｗeｖｅr，neｗ types Q・aUｕrｅs・vｅ ａ１sobeen dlscovefed. Ｆｏr ｅｘａｍｐｌｅ， the yeais ・ｅｘpe-lie衂ｅ ｗith probab・stlc analysｅs ａｎｄ ｐｌａｎt ｏｐｅrａ-t１０ｎ ｈａｖｅ ｕｎｃｏｖｅred the reactｏr co01ant ｐｕｍｐsea・ajlｕrｅ scenarjo as ｗell as lntｅrsystｅｍ ｄｅｐｅｎｄ-encles，ｃｏｍｍｏｎ-mode fa・ｕremecha・s抽s，・doth6【jtｅx跼tbat ｗerｅ ｌｅss ｗe】l recog・zed at tｈｅtlme of tbe Reactｏr Safety Stｕdy. 01 coｕrse， thissa聊ｅ ｅｘp・ence・s alsｏ ・coｖeied neｗ ｗａys inｗhich rｅｃｏｖery can be acllieved dｕr・g由ｅ ｃｏｕrseof a possible core damage sｃｅｎａr10 (ｅｘcept for thｅ
+8-1
+NＵＲＢＧ-1150
+？♂－１－－ｉ
+8.Ｃｏrｅ Ｄａｍａ辟Ｒｅqｕ・cy
+1.0E－0３
+ＣＯＲＥＤＡＭＡＧＥ
+ＦＲＥＱＵＥＮＯＹ
+1.0E－０4
+1．０Ｅ－０6
+1．0E-06
+１．０Ｅ４０７
+8ＵＲＲＹ　　ＰEＡＣＨ　　　　　　　BＯＴＴＯＭ
+[ﾖﾄＭｅａｎ
+阡打仟。
+ＧＲＡＮＤ ＳＥＱＵＯ訊Ｈ ＺＩＯＮＧＵＬＦ
+-E］Ｍｅdiａｎ
+Nｏtｅs: Ａs dlsｃｕssｅｄ ｉｎ Ｒｅｆｅr・ce 8,7，ｃｏre dam・e freqｕｅｎｃ・be10ｗ IE-5 per reactｏr yｅａr shoｕld　　　be ｖieｗed ｗitｈ ｃａｕUon becaｕsｅ ｏｆ the remai・・ｕｎｃｅrtａ・tles ｊｎ ＰＲＡ (ｅ,9。eients ｎｏt ｃｏｎ｀　　　sldered)･
+
+　　　？'ind・tｅs rｅ・lcｕlatｅｄ Ｚｉｏｎ ｍｅａｎ ｃ・damage frｅqｕｅｎｃy basｅｄ ｏｎ rｅｃｅｎt plant ｍｏｄ・ca-　　　tｌｏｎs(sｅｅ Ｓｅｃt・7,2.1)･
+
+　　　　　Figｕrｅ ８４　１ｎtｅｎｌａｌ ｃｏrｅ ｄａｍａ帥frｅqｕ・ｃy rａ・ｅs(5th to 95th per・ｎt・es)，
+
+
+ＮＵＲＢＧ-U50　　　　　　　　　　　　　　　　　　8－2
+ｙノ
+
+
+
+
+
+
+１．／
+ｔ０００Ｅ-ＯＳ
+1.0001-0６
+t000屁･０7
+1.０００Ｅ･０8
+　　　　　Ｐｅ・ｃｈ １０１１０ｍ屈圜ｓ犹r１０Ｎ ｅＬ岶KouTl圖LｏｏA
+8，Ｃｏrｅ ｐａｍａｇｅ Ｆrｅqｕ・叮
+Grａｎｄ Ｇｕ・
+匪l gｗs
+・窟Ｔ畆NalEN？
+Figｕre 8,2 13WR princlpal con・bｕtｏrs tｏ ｊｎtemal core damage frｅqｕencies.
+1.０００Ｅ･０3
+1.000E-０4
+1.０００Ｅ・０６
+1.0001-０６
+　　　　　Ｓｕrrｙ　　　　　　8eqｕｏyah国１８Ｔ醪|ｏＮ ＢＬＫｏuTI需lgｗ8
+・靆TRANs・ΞNT　　圄廻sNＴF LｏｅA
+　　　　ｚ１０ｎ圀圜ＬｏｅＡ
+・lｓEＡＬ LｏｃA
+Nｏtｅs: Ａs discｕssed ・Ｒｅｆｅrｅｎｃｅ ８,7，c・dmage frｅqｕ飢c・be】ｏｗ IB-5 per reactｏr ygar s】loｕld　　　be ｖieｗed ｗitｈ ｅａｕti・bec・ｅｏｆt・y・al咄lg・ce・・eS in PRA (ｅ,g･. eｖent８ ｎｏt c・亠　　　sldeled)･
+
+　　　“＋”・dj・tｅs recalcｕ・・.mean sｅａｌ ＬＯＣＡ ｐ】ant dam・ｅ stａte frequｅｎｃy basｅｄ ｏｎ xｅｃｅｎt　　　plant modlfi・t10ns(sｅｅ Ｓｅｃｌｉｏｎ ７,2,1)｡
+
+　　　　Figｕre 8,3　PWR pr・cipal contrlbｕtｏrs tｏ ・temnl core damage frｅqｕencies，
+8-3
+NＵＲＥＧ-1150
+‐－
+8，Ｃｏrｏ Ｄａｍａ帥Ｆrｅqｕｅｎｃy
+SＥＱＵＯ｀叭Ｈ
+8ｓnoNBLla《ｏｕT
+nu町
+Z1０Ｎ
+SURＲＹ
+TRAii扣ENT
+　　　　　　　　　　　　　　　(Xi＆iND
+　　　　　　　　　　　　　　　郭糺以Ｘ圦
+
+
+
+
+
+
+
+l跋　“｀゛゛'7
+PＥＡｃＨＢｏ゛r罵)Ｍ
+GRＡＮＤ ＧULF
+TUBERUpT;
+
+饂･lS朧朧‘　　　　　J澀,朧朧……｀帋ぼ’蔕冖
+Figｕre 8.4 PrlnQipal contrlbｕtｏrs t０ １ｎtｅｍａｌ ｃｏre damage frequenc・，
+NＵＲＢＧ-1150
+8峭
+Ｘ
+９
+い
+
+　ｊ丶yS
+ＰｎｏＢＡβＩＬ‐ＴＹｏＩＮ６ＩΥΥ
+Ｐｎｏ彜Ａａ‐ＬＩＴＹＤＩＮ８Ｉフｙ
+1.0E-08　ｔOE-0７
+8.Ｃｏrｅ Ｄａｍａｇｅ Ｆrｅqｕｅｎｃy
+1.・-OG　10E-05　1.0E･04　1,０Ｅ-OS　1.0E-02ＣＯＲＥ ＤＡＭAＧＥ ＦＲＥＱＵＥＮＣＴ
+'“゛"ｓEIsＭ１０,L・ERMona　一一･sEIsＭＩｃ,EPRI　一一一FIRE
+Fjgｕre 8,5 Sｕrｒy ｅｘtemal-ｅｖｅｎt core damage freqｕｅｎｃy distdbｕtｉｏｎs，
+　　　　　　　ｔOE-Oe　l,0E･07　1,0E-06　1,0E･06　1,0E･04　1.0E･03　ｔOE-０２
+　　　　　　　　　　　　　　　ＣＯＲＥ ＤＡＭＡＧＥ ＦｎＥＱＵＥＮＣy
+
+　　　　　　　　’　一一sEIｓＭＩｃ,L・ＥＲＭｏＲＩ　一一sEIsＭＩｃ,EPnl　!-一一F旧ｌ
+
+Ｎｏtｅ:　A8 discｕssｅｄ ｌｎ Ｒ・ｏrｅｎｃｅ ８,7，ｃｏre dam・e freqｕ・cles boloｗ IE-5 peｒ renclor year shoｕld　　　:j;Sj諮ad・th eaｕdon bec咄帥ofthe羚mai・・ｕncertal・esｉｎ ＰＲＡ （ｅ･g･，ｅｖｅｎｌs ｎｏt ｃｏｎ“　　　　Fjgｕre 8,6 Peach Bottｏｍ ｅχtｅｍａｌ-ｅｖｅｎt core damage freqｕｅｎｃy dtstrjbｕtｉｏｎs，
+8-5
+NＵＲＥＧ-1150
+χノ
+8，Ｃｏrｅ Ｄａｍａｇｅ Ｆrｅqｕｅｎｃy
+1,0E-03
+ｔＯＥ-０４
+1.０Ｅ-06
+１,０Ｅ･０６
+1.0E-０7
+Nｏtｅl
+INＴERＮＡＬ
+　SIΞISMIOL・ERMORIﾖ
+G剳SMIQ　IP囮
+E卜Ｍｅａｎ　ﾓ］Med・
+F・E
+Figｕre 8,7 Sｕrry intemal｡ and eχtemal-eｖｅｎt ｃｏre damage frｅqｕｅｎｃy ranges，
+ｔＯＥ-０３
+tOE-04
+ｔＯＥ-０５
+ｔＯＩΞ－０６
+tOE-０７
+1.0E・0８
+IＮＴＥＲＮAL
+　SEISＭ1０LIＶEＲＭＯRE
+SＥISＭ1０　EPRI
+FI咄
+　　　　　　　　　　　　　　　日･Ｍｅａｎ　･EI M，dlan
+
+Asd・cｕssed in R・ｅrｅｎｃｅ ８,7，ｃｏre damage frｅqｕｅｎｃｉｅs be10ｗ IE-5 per reactｏr year shoｕldbe ｖieｗed ｗitｈ ｃａｕtion becaｕsｅ ｏｆ the rｅｍ・・・ｕnceitainties ｉｎ ＰＲＡ (ｅ,g･l eｖｅｎts ｎｏt ｃｏｎ-sldered)，
+
+Ｆ・ｕ狛8.８ Ｐｅａｃｈ Ｂｏttｏｍ ｉｎtｅｍａ１-ａｎｄ ｅｘtｅｍａｌ-ｅｖｅｎt ｃｏrｅ ｄａｍ・e frｅqｕｅｎｃy ｒａ・es･
+ＮＵＲＥＧ-1150
+8-6
+‐－－
+－‐－－‐－‐Ｆ
+！－‐
+ＪＳ
+ＳＵＲＲＹ
+8，Ｃｏre Damage Freqｕｅｎｃy
+　ＰＥＡＣＨ ＢＯＴＴＯＭ
+φi－
+Figｕre 8,9 Pf・clpal contribｕtｏrs tｏ seisｍｉｃ ｃｏre dam・e frｅqｕencles，
+SＵＲＲＹ
+ｅＴｕｏＫ･ｏＰＥＮ　　ｐｏｎｖ
+PEＡＣＨ ＢＯＴＴＯＭ
+　　L08a oFoFFelyl; Ｐｗｏ
+TｎＡＮsIEＮＴ
+Figｕre 8,10　Principa・on・bｕtｏrs tｏ 絎ｅ ｃｏre damage freqｕｅｎｃ・，
+8-7
+NＵＲＢＧ-Ｕ50
+8，Ｃｏrｅ Ｄａｍａｇｅ.Ｆrｅqｕｅｎｃy
+ＡＵＸ ＢＬＤＧ
+００ＮＴＲＯＬ ＲＯＯＭ
+CASLE叺U口'＆ＴＵＮＮＥＬ
+ＥＭＥ取、ＳＷＩＴＣＨＧＥＡＲ
+０
+10
+２０
+　　S0　　40
+ｘIE･7PIΞｎｙＥ癶刋
+6０　　６0　　7０
+Fjgｕre 841 Sｕrｒy mean fiｒｅ ｃｏre dam・e frｅquｅｎｃy by 丗e area.
+　　ＥＭＥＲ ８ｗＧＥＡｎ ｎＭ ２Ａ　　ＥＭＥＲ ｓｗＧＥＡＲ ｎＭ ２Ｂ　　ＥＭ巨ＲｓｗＧＥＡＲ ＲＭ ２ｃ　　ＩΞMIΞＲ ｓｗＧＥＡｎ ＲＭ ２Ｄ　　ＩＭ錨Ｒ ８ｗＧＥＡＲ ＲＭ ａＡ　　ＥＭＥＲ ８ｗＧＩ∃Ａｎ ＲＭ ａＢ　　ＥＭＥＲ ｓｗＧＥＡＲ ＲＭ sｃ　　ＥＭＥＲ ｓｗＧＥＡｎ ＲＭ ａＤ　　，　　ｃｏＮＴＲｏＬ Ｒ００ＭｃＡＢＬＩ ｓＰＲ庇AＤIＮＧ Ｒ００Ｍ
+０
+10　　20　　e0　　40　　60　　e0　　70　　　　　　　　ｘ佃４ｐＥ詞￥Ｅ＆n
+Nｏtｅ;
+As dlscｕlisｅｄ ｉｎ Ｒｅｌｅrｅｎｃｅ ８.7，core dama粐frequencles beloｗ IB-5 per rｅａｃtｏr yeaｒ shoｕldbe ｖleｗed ｗith caUti・becaｕsｅ ０１ the remal・・ｕnceｒtａｌｎtles jn ｔＲＡ (ｅ･g。ｅｖｅｎts ｎｏt con･sidered)･
+　　　Figｕre 8.１２ Ｐｅａｃｈ Ｂｏttｏｍ ｍｅａｎ ｆｉrｅ ｃｏrｅ ｄａｍ・e frｅqｕｅｎｃy by fire area，
+NＵＲＢＧ-t150
+8-8
+へ
+執･
+-
+ｔＯＥ!・０３
+ｔＯＥ-０４
+ｔＯＥ-０６
+tＯ耐-０６
+TＨIS ＳＴＵＤＹ
+8.Ｃｏrｅ Ｄａｍａ辟Ｆreqｕｅｎｃy
+nＥＡｃＴｏＲ sＡＦＥＴＹ　　　　８ＴｕＤＹ
+日･Ｍｅａｎ　｛E｝Ｍｅdlａｎ
+Figｕre 8,13 Comparisｏｎ ｏｆ Ｓurry intemal cote damage freqｕｅｎｃy ｗitｈ Ｒｅａｃtｏr Safety　　　　　　Stｕdy･　　　　　　　　　　　　　・　　　　　　　　　　　　　　　　　，
+1.0E-oal.０Ｅ･04ｔoE－os'1.0E-０６１.0E･０７
+TＨIＳ ＳTUＤＴ
+REＡＣTＯＲ ＳAFＥＴＹ　　　　ＳＴＵＤＹ
+　　　　　　　　　　　　　　　　　　　　日･Ｍｅａｎ　{Ｉ Ｍｅｄｌａｎ
+
+Ｎｏtｅ:　Ａs dlscｕssｅｄ ｉｎ Ｒｅｆｅrｅｎｃｅ ８,7， ｃｏrｅ ｄａｍ・e frｅqｕｅｎｃ・beloｗ鈿-5 per rｅａｃtｏr year shoｕld　　　be vjeｗedｗitｈ ｃａｕtjon becausｅ ｏｆ the ｒｅ琅al・ng ｕｎｃｅｒ・・ｅs in P11A (ｅ,11。ｅｖｅｎts ｎｏt ｃｏｎ･　　　sidered)･
+
+
+Figｕre 8,14 Comp・sｏｎ ｏｆ Ｐｅａｃｈ Ｂｏttｏｍ ｌｎtemal core dam・e frｅqｕｅｎｃy ｗitｈ Ｒｅａｃtｏr Safety Stｕdy，
+8-9
+NＵＲＥＧ-1巧0
+ｉｌ卜－－ｒ－－－
+ｉ
+‐‐‐‘
+ｆ
+.l
+８
+Cｏrｅ
+Dａｍａgｅ
+Freqｕｅｎｃy
+recove・of ac p6ｗｅr， tｈｅ Ｒｅａｃtｏr Safety Stｕdydld not ｃｏｎ８１ｄｅr r6coｖｅry actｉｏｎs)，Thｕs， tｈｏ ｎｅtｅｆｆｅｃt of incIｕdi・thesｅ ｎｅｗ tｅｃｈ・qｕｅs and eｘ-ｐｅrｌｅｎｃｅ ｉs plant sｐｅｃｍｃ ａｎｄ ｃａｎ shift ｃｏre dam-age frｅqｕｅｎｃｉｅs ln ekher higher ｏr loｗer dh･ec，tｉｏｎs，
+lｎ tbe case of tbe Sｕrry analysis， tｈｏ ＲｅａｃtｏrSafety Stｕdy foｕnd tｈｅ ｃｏｒｅ ｄａｍ・e frｅqｕｅｎｃy tｏｂｅ　ｄｏｍ・ａted　by　10ss-ｏＦｃｏｏｊａｎt　acｃidｅｎ18
+(ＬＯＣＡsj， Ｆｏr tｈｅ
+prｅsｅｎt stｕdy， stａtion blackoｕt
+accidents ａrｅ ｄｏｍｊｎａｎt,'ｗhUe tｈｅ ＬＯＣＡ４ｎｄｕｃｅｄｃｏre dam・e fｒｅqｕ・cy js sｕbstａｎtla・y redｕcedfrｏｍ that of tｈｅ Ｒｅａｃtｏr Safety Stｕdyl particｕlarlyfor the sｍａｎ ＬＯＣＡ ｅｖ・ts，Thjs occｕrred in spltｅｏｆ ａ te・01d incxeasｅ・the sｍａＵ ＬＯＣＡ Ｉ・tiat・geｖent frｅqｕｅｎｃy eslimatｅs， ｗhlch ｗas ａ resｕlt ofthe jnc】ｕsｊｏｎ ｏｆ rｅａｃtｏr c001ant pｕmp sea】faU･Ｕres， ０ｎｅ reasｏｎ ｆｏr the redｕcUon 】ies in plantｍｏｄ・・tＪｏｎs made sｊｎｃｅ tｈｅ Ｒｅａｃtｏr SafetyStｕdy ｗａs ｃｏｍＰｌｅted， Ｔ・se modjncatｌｏｎs 白110ｗfor the crｏssｃｏｎｎｅｅt１０ｎ ｏｆ the high-pl‘essｕrｅ safetylnjectｉｏｎ systｅｍss aｕｘｍ鮮y feedｗａtｅr systems， ａｎｄrelｕeli・ｗateｒ stｏrａｇｅ tanks betｗｅｅｎ the tｗｏｕｎ鉦s at the Sｕｒfy sitｅ， Thesｅ ｃrｏsstles prｏｖide aｒeliable altｅrｎａtiｖｅ ｆｏｒ rｅｃｏｖｅry of system fanｕrｅs.Thｕs， the plant ｍｏｄ・ｃ・ｏｎs(tｈｅ ｃrｏssｏｏｎｎｅｃ-tｉｏｎs)haｖe drtｖｅｎ ｌｈｅ ｃｏrｅ ｄａｍ・e frｅqｕ・ｃｉｅsｄｏｗｎｗａｒd，bｕt ｎｅｗ ＰＲＡ ｉ・ｏｍａtｉｏｎ(the hl小6『sma』】ＬＯＣＡ ｆrｅqｕｅｎｃy)has dtiｖｅｎ them ｕpｗard，ln this ｃａsej tｂｅ ｎｅt effect is ａｎ ｏｖｅra11 redｕctｉｏｎｊｎ tｈｅ ｃｏre damage frｅqｕｅｎｃy lor jntｅrnal eｖents，
+lｎ tｈｅ ｃａsｅ ・Ｐｅａｃｈ Ｂｏttｏｍ， tｈｅ Ｒｅａｃtｏr SafetyStｕdy foｕnd tｈｅ ｃｏrｅ ｄａｍａ鈩frｅqｕency tｏ ｂｅｃｏ珀p出ｅｄ ｐrｊｍａrily ｏｆ ＡＴＷＳ ａｃｃｌｄｅｎt seqｕencesａｎｄ ｏｆ tｘ節si・加・th lo・4eim fahre 01 decayｈｅａt rｅｍｏｖal， The prｅsent stｕdy ｃｏｎｃｌｕdes thatstａti叩blackoｕt scenarios ａre domhlant， Ｔ・pos“
+・bmty ｏｆ ｃｏｎtａｉｎｍｅｎt ｖｅｎtingsｏｍｅ ｐｒｏｂａｂｍty ｏｆ ｃｏrｅ ｃｏｏｌ・・
+and anoｗi・forafter ｃｏｎtａｉｎｍｅｎt
+failｕrｅ ｈ闘ｃｏりsiderａｂｌy redｕced tｈｅ slgn・c卸ceof tｈｅ ｌｏ・４ｅｒｍ ｌｏss ｏｆ ｄｅｃａy・at rｅｍｏｖａｌ ａｃｃｉ-ｄｅｎt6，1n ad(Uti・，the plant has i・plementedsｏｍｅ ＡＴＷＳ・prｏｖｅｍｅｎts， althoｕｇｈ ＡＴＷＳｅｖgnts ｒｅｍａｊｎ ａｍｏ・tｈｅ ｄｏ・ｎａｎt acCid・t sＱ･qｕ・ce types. Ｍｏrｅｏｖer， ｍｏre mOdem neｕtronicand lherｍａｌ-hydrａｕUc Simｕlatｉｏｎs of tｈｅ ＡＴＷＳsｅqｕｅｎｃｅs・ｖｅ ｃａｌｃｕlated 10ｗｅr ｃｏｉｅ ｐｏｗｅr leｖelsd丗j・tｈｅ ｅｖｅｎtl a】k)Wi・ｍｏre opportｕ・ty formitlp向ｎ sｕｃｈ ａs tｈrＯ・htheｕsｅ ｏ・ｏｗｉ)ressｕrｅ・jecllon sysle加s. Thｕs， for Ｆｅａｃｈ Ｂｏttｏｍ， botｈａｄｖａｎｃｅs・ＰＲＡ ｍｅthodology ａｎｄ ｐｌａｎt ｍｏｄ・･cat１０ｎs ｈａｖｅ ｃｏｎ・bｕted to a redｕctｌｏｎ ・tlle estl-
+matｅｄｅｖｅｎts.
+cｏrｅ
+NＵ'ＲＢＧ-1150
+damage frｅqｕｅｎｃy from lntｅｍal
+8-10
+χｎ sｕｍ珀ary，therｅ・ｖｅ ｂｅｅＤ redｕcUons jn thecore dam・e frｅqｕencies for both plants sjnce theReactｏr Safety Stｕdy. The lredｕｃｄ６ｎ ｊｎ ｃｏre dam，age frｅqｕｅｎｃy for Peach Bottｏｍ ｌs ｍｏrｅ signln-・ｎt tｈａｎ ｆｏr Sｕｒｒy; hoｗｅｖey， there ls stｍ ｃｏｍｌｄ-‘ｅrable oｖerlap of the ｕｎｃｅrlal!1ty ra・es of 由etｗｏstｕdies.The conclｕs１０ｎ to be drａvn is that theha・ｗaro and pｒocedｕrａｌ ｃ・・es加ade,slnce山ｅＲｅａｃtｏｒ Safety Stｕdy appear tｏ ・ｖｅ redｕeed tｈｅｃｏro damage frｅqｕｅｎｃy ａt thesｅ tｗo p】ants，ｅvｅｎｗｈｅｎ ａｃｃｏｕｎti・for ｍｏre accｕra'te failｕre dataand rｅｎｅｃt・ｇ ｎｅｗ sｅqｕｅｎｃｅs ｎｏt identified ・tｈｅＲｅａｃtｏｒ S・ｅty Stｕdy (ｅ･g･， the reactｏr c0011ntpｕ呷sｅａｌ ＬＯＣＡ).
+
+8.4　PeｔSpeCUｖｅS
+8,4,1
+χｎtemal-Ｅｖｅｎt Ｃｏｒｅ Ｄａｍ・ｅｐrobab・ty l)is・ｂｕtｉｏｎs
+The corｅ ｄａｍａ帥frｅqｕencies prodｕced by ｄｐ政Ａs inherｅｎtly haｖe la・ｅ ｕnceｒtai・es，There･，foｒｅ，ｃｏｍｐａrlsｏｎs of frｅqｕｅｎｃ・b叭ｗｅｅｎ ＰＲＡsｏr ｗlth abs01ｕte lim・ｏｒ goals arｅ ｎｏt slmply amattｅｒ・ｃｏｍｐａrl・tｗｏ叩ｍｂｅrs，ltis ｍｏｒ6 ap-propriatｅ t０ ０ｂsｅrｖｅ ｈｏｗ ｍｕch of the probab・tydis・bｕttｏｎ Ｕｅs be10ｗ a giｖｅｎ ｐｏ・t，ｗh・ｈ trａｎs-lates・tｏ ａ ｍｅａsｕｒｅ ｏｆ the probabmty that thepo・t・s ｎｏt ｂｅｅｎ ｅｘceeded. F6r ｅχample， if themedian ｗerｅ ｅχactly ｅqｕal tｏ the point in qｕes‘tｉｏｎ，half of the dls・bｕtlon ｗｏｕld ・e aboｖe andhalfbeloｗthe po・t，ａｎｄ tｈｅrｅ ｗｏｕld be a 50 per-ｃｅｎt probabmty t・t the point had not be皓ｅｘ-eeeded，
+Similarly，ｗｈｅｎ ｃｏｍｐａr・ｇ ｃｏre damage frｅqｕen-cies ｃａｌｃｕlated for tｗｏ ｏr ｍｏre plants， lt is ｎｏtsｕfncient tｏ simply compare tｈｅ ｍｅａｎ ｖalｕes ofthe probabmty dlstrlbｕtｉｏｎs. lnstead，ｏｎ６ ｍｕst
+comparｅ tｈｅ ｅｎtire dis・bｕt１０ｎ.lf one pla・s dis，・bｕtｉｏｎ ｗｅｒｅ ａｌｍｏst ｅｎti・y beloｗ that of an･ｏther，tｈ呱tｈｅrｅ ｗ(囮ld be a high probab・ty thatthe f・t plant ・d a loｗｅr core damage freqｕe・ythan the sｅｃｏｎｄ， Seldom紿thlsthecasりhoｗｏvｅr,.Ｕsually，the dis・bｕtio砌ha粕ｃｏｎsiderａｂｌｅ ｏｖｅｒ-
+】apl and tｈｅ ｐrobab戝y吮at ｏｎｅ ｐｌａｎt ・sahigh町ｏr 10ｗer ｃＱre da珀・e fleqＵｅｎｃy than 洳-ｏther ｍtjst be ca】eUlated，Referｅｎｃｅs 8,1 thrｏｕgh'8.５ ｃｏｎtａｉｎ ｍｏrｅ ｄｅ・ledl・ｏrｍａt１０ｎ ｏｎ the dis-・bｕt１０ｎs that ｗｏｕld sｕppoft sｕch calcｕlat１０ｎs.Altｈｏｕgh the distｒibｕtｉｏｎs ａrｅ ｎｏt compared indetail he￡ｅ，tｈｅ ｏｖeilap of sｕｃｈ ｃｏre dam・efrｅqｕｅｎｃy dis・bｕtｉｏｎs ls ｃ】early shoｗn jn Fjgｕre8,1.Ｆｏr ｅｘａｍｐｌｅｌ ｏｎｅ ・ｎ ｈａｖｅ rel・ｖely Mghco・ldence t・t tｈｅ ・ley・1･ｅｖent core dam・efrｅqｕｅｎｃy foｒ Ｇrand GｕIHs loｗｅr 山an that olSeqｕｏyah or Sｕrry. Ｃｏｎｖersely。lt ｃａｎ readny besｅ・　that　the　differ・ces　in　core　dama舮
+‐ＩＩ。
+Ｗ●
+一一－
+freqりency betｗｅｅｎ Ｓｕrry and Seqｕｏyａｈ ａrｅ ｎｏtｖｅry・・nc睇t.　　十
+lｎte11)rｅtatｌｏｎ ｏｆ ｅχtrｅｍｅｌy 10ｗ ｍｅｄｌａｎ ｏr ｍｅａｎｃｏre dama辟frｅqｕ・ｃｉｅs(〈IE-5〉ＩＨｏｍｅｗhat dif-ft卯lt.Ａｓ discｕssed ・Section 1.3 and ・Refer-
+eｎ叩8,7，therｅ ａrｅ・・t・ｏｎs・踟ｅ scope of thestｕdy that ｃｏｕld lead to actｕaI core dam・e fｒe･qｕ・ｃｉｅs higher tｈａｎ thosｅ ｅ・ｍａted，ln additｉｏｎ，tｈｅ ｕｎｃｅrtａｌｎtles ・tho sｅqｕｅｎｃｅs ・clｕded in thestｕdy tｅｎｄ tｏ ｂｅｃｏｍｅ ｍｏr６ １ｍｐｏｒtant ｏｎ ａ ・a'面e Bcalo as tｈｅ ｆrｅｑｕ皓ｃy d6creases， Ａ ｖｅryIoｗｃｏrｅ ｄａｍａｇｅ ｆrｅqｕeney is eｖident for ＧＴａｎｄ Ｇｕlfｗith the median of the distribｕtｌｏｎ ｉｎ the ra・ｅｏｆｌＥ゛6 per reactｏr year. Ｈｏｗｅｖｅｒ， it is incompletＱtｏs・ply叭atｅ t・t tｈｅ ｃｏre damag6 frｅqｕｅｎｃy forthjs plant is that 10ｗ s・ｃｅ the 95tｈ ｐｅrｃｅｎtile eｘ-ceeds IE-5 per rｅａｃtｏr year･ Ｔｈｕsj 痲ｈｏｕgh tｈｅｃｅｎtral tｅｎｄ・cy of the caIcｕlatlon ls ｖｅry loｗ，therｅ 'ls still a finite probab・ty of a higher cored“”lage frｅqｕ・ｃyl pa・ｃｕl・y ｗhQn consid・・that tｈｅ scope of the stｕdy does ｎｏt ・clｕde cer･tａ・typeｓ of accidents as discｕssed ・Sectlon l,3，
+8,4.21）rinclpal Contribｕtｏｒｓl to Ullcertａ・tｙ　　　　ｉｎ Ｃｏrｅ Ｄａｍａｇｅ Ｆrｅqｕｅｎｃy
+ln Sect10n 8,4j，ａ・lysell are d18c啣黯ｄ ｃｏｎｃｅｍ･lng 60me of the issｕes ａｎｄ ｅｖｅｎts that ｃｏｎtribｕtetｏ tｈｅ ｍ・・tｕｄｅ ｏｆ tｈｅ ｃｏｒ６ ｄａｍａ黔frｅqｕｅｎｃy･ＧｅｎｅraUy1 10r the accid・t frｅqｕｅｎｃy ana】ysls,thejssｕｅs that ｃｏｎtribｕtｅ ｍｏst tｏ the mag・tｕde oftｈｅｆrｅqｕｅｎｃy ａrｅ ａ】sｏ tｈｅ ・ｕｅs山ａtc・・bｕtｅ ｍｏsttｏ tｈｅ ｅstimated ｕｎｃｅrtainty. , Ｍｏrｅ ｄｅtail con･ｃｅr・・tｈｅ ｃｏｎ・bｕtlo・of・・ｏｕs parａｍｅters tｏtｈ６ ｕｎｃｅｒtａtｎty ・ｃｏｒedamag6 fｒｅqｕｏｎｃy ｍａy bofoｕnd in Refet・ces 8,1 tｈrｏｕgh 8,5，Persｐｅｃtlｖｅsｏｎ tｈｅ ｃｏｎtribｕＵｏＤs of accldent frｅqｕ・ｃy・ｕｅstｏtｈｅｕｎ・rtainty・risk may bo foｕnd in Chaptｅr12，
+　8,4.３ Ｄｏｍｉｎａｎt ＡｃｃＳｄｅｎt Seqｕen・Ｔypes
+
+　Ｔｈｅ・rioｕs ａｃｄｄｅｎt seqｕｅｎｃ６s tｈａt (５０ｎ・bｕte tｏ'the tｏtａｌ ｃｏre damage freqｕｅｎｃy can be grｏｕped　by ｃｏｍｍｏｎ ｆａｃtｏrs ・tｏ ｃａtｅｇｏries. ０１ｄｅr ＰＲＡs　ｇｅｎｅxa・y dldthis in tｅrly)s ofthe ・itjat・g eｖent，
+　ｅ･g･， transientl sma・ＬＯＣＡ,la・ｅＬＯＣＡ，C・rｅｎt　ｐractice alsＱ ｕsｅs catｅｇｏries， sｕｃｈ ａs ＡＴＷＳｌ sｅａｌ　ＬＯＣＡ， ａｎｄ statｊｏｎ ｂｌａｃｋｏｕt， Ｇ・ｅrａ・y，these　・t・ｏrles ａrｅ ｎｏt eqｕａｌ ｃｏｎ・bｕtｏrs tｏ the tｏtａｌ　ｃｏrｅ ｄａｍ・e frｅqｕｅｎｃy･ ln practice， foｕr ｏr fiｖo　sｅqｕｅｎｃｅ ｃａtｅｇｏ・s，sｏｍｅtｌｍｅs，f6ｗｅr，ｕsｕa11y　ｃｏｎ・bｕtｅ ａ・ｏst ａ・the core dama粐frｅqｕｅｎｃy･　Ｔｈｅsｅ ｗj・be rｅｆｅrred tｏ ｂｅｌｏｗ as tｈｅ ｄｏ・ｎａｎt　p】ant damage slates (PDSs)，
+8-11
+8.Ｃｏrｅ Ｄａ怕・ｅ Ｆreqｕｅｎｃy
+lt shoｕld be noted that the sele・ｏｎ ｏｆ ｃａtｅｇｏrlesisｎｏtｕ・qｕe・ａ ｍａtｈｅｍａtlcal s卯se，bｕt・stead18 a conｖe・ent ｗａy tｏ 黻ｏｕp the rｅsｕlts. lf thecore dam・e freqｕｅｎｃy ls tｏ ｂｅ ｃｈａｎｇｅｄ， chan81ngsｏｍｅth・ｇ ｃｏｍｍｏｎ tｏ the dominant ＰＤＳ ｗI・
+haｖe tｈｅ ｍｏst effect. Thｕs，jf a pa・・lar plant・d a relatiｖely high core damage frｅqｕ・ｃyａｎｄａｐａ・cｕlar 8rｏｕp of seqｕｅｎｃｅs ｗｅｒe high， a valｕ-able・sight intｏ that plant゛s safety prｏｍｅ ｗｏ・dbe obtal・d，
+
+lt shoｕld alsｏ ｂｅ ｎｏted that the jmport汨】ce oft1】ebjghest lrｅqｕｅｎｃy ａｃｅｉｄｅｎｌ seqｕencQs sｈｏｕld･ beeo・ldered in rｅｌａＵｏｎship tｏ the,tｏtal corｅ ｄａｍ，・e freqｕｅｎｃy, Ｔｈｅ ｅχjstence of a highly do・・ｎtａｃｃｉｄｅｎt seqｕｅｎｃｅ ｏr FDS does ｎｏt (?f itself implytｈａt ａ safety problem eｘ16ts， Ｆｏr ｅｘａｍｐｌｅ， Uaplan・1ready・d an eχtremely 19W eStjmated coredamage l\ｅqｕｅｎｃy，tｈｅ ｅ汕tｅｎｃｅ ｏｆ ａ s・gle，do・ｎａｎt PDS ｗｏｕ!d ・ｖｅ・ttle砌ｎ笛c呷ｃｅ.Slmi･l・y,if a pl卸tｗｅrｅｍｏｄ・ed sｕch that tho doml･ｎａｎtFDSｗｅrｅｉｌ・ｎａtｅｄ ｅ・・y， tｈｅ ｎｅｘt high･est ＰＤＳ ｗｏ・ｄ ｂｅｃｏｍｅ tｈｅ ｍｏst domj・ｎt ｃｏｎ，・bｕtｏy，
+
+Ｎｅｖerthel咄ijt is tbe stｕdy of tｈｅ ｄｏｍ・ａｎt FDSand the imporｌａｎt lahrｅs that ｃｏｎ・bｕtｅ tｏ t110seseqｕ・ces that ptｏｖjdes ｕnderstandl・ofｗhylhecore damage frｅqｕｅｎｃy is high or loｗ ・atiｖｅ tｏｏtherp】ants and desired go凾，Thlsｑｕａ】jtａtiｖｅ ｕｎ･dersCandi・of tｈｅ ｃｏre damage frｅqｕｅｎｃy is ｎｅｃ･es卵ry tQ make practical ｕsｅ ｏｆ tｈｅ ＰＲＡ rｅsｕ】tsand・prｏｖｅ the plants， ・ｎｅｃｅssaly･
+
+Giｖｅｎ tl山bac・rｏｕnd，the dominant ＰＤＳs forthe跏ｅ stｕdjes ａｒｅ ・ｕstfated jn Figｕrｅs 8,2，8.3，帥d8.ｔ Additional discｕssi・ of thesｅ ＦＤＳs c節be 10ｕnd jn Chaptｅxs 3 tbrｏ・h7，Seｖera1 0bsｅr･vati・s ｏｎ thesｅ ＰＤＳs ａｎｄ their ｅｌｆｅｃts ｏｎ thecore damage frｅqｕency ｃａｎ,be made， ａs djscｕssedbe】ｏｗ，
+
+Boill・　Ｗａtｅr　Ｒｅａｃtｏr　邯rsｕs　ＰｒessｕｒSxｅｄＷａteｒ Ｒｅａｃｌｏr
+
+lt ls ｅｖtdont frｏｍ Ｆ・ｕre 8.1 that tｈｅ tｗo pa・cｕ-lar ＢＷＲs ・匐s 6tｕdy haｖｅ ｉｎtｅｍａｌ,ｅｖｅｎt coredam・e frｅqｕｅｎｃy dis・bｕtｌｏｎs山at ａre sｕbstan-tjaUy loｗｅr than 出ｏsｅ ｏｆ the thrｅｅ ＰＷＲs. WhUeitｗｏｕld be ・appropdatｅ tｏ ｃｏｎｃｌｕde that ａｌｌ ＢＷＲs・ｖe 10ｗｅr ｃｏre damage freqｕ如cies tｈａｎ ＰＷＲs，jt lis ｕsefｕl tｏ ｃｏｎslder,ｗｈy tｈｅｃｏredam・eh･e-qｕencies arｅ ｌｏｗｅr for tｈｅse pa・cｕlar ＢＷＲs.
+
+Ｔｈｅ ＬＯＣＡ ６ｅqｕences， oftｅｎ ｄｏｍｌｎａｎt ln tｈｅＰＷＲ ｃｏrｅ ｄａｍａｇｅ ｆreqｕｅｎｃｉｅs， ａrｅ ｍｉｎｏｒ con･trlbｕtｏrs jn t・・sｅ ｏｆ tｈｅ ＢＷＲs， Tbis is ｎｏtsｕrp由i・in ｖieｗ of tｈｅ ｆａｃt that ｍｏst }3Wlls・ｖｅｍａｎy ｍｏre systｅｍs tｈａｎ ＰＷＲs for ・joct・g ｗatｅr
+NＵＲＢＧ-1150
+.4
+８
+Cｏrｅ
+Dａｍagｅ
+Frｅqｕｅｎｃy
+dlrｅｃtly・tｏ the reactｏr ｃｏｏｌａｎt systｅｍ to prｏｖｉｄｅｍａｋｅｕp.　Ｆｏr　ＢＷＲs，thls・cIｕｄｅs tＭ・Ioｗ･pressｕrｅ ｅｍｅ・ｅｎｃy ｃｏrｅ ｃ００Ｕｎｇ (ＢＣＣ)systems(ＩｏＷ-pressｕrｅ 'co01ant lnjectlon and loｗ･prｅssｕrｅｃｏre spray)，ｅａｃｈ ｏｆ ｗｈｌｃｈ ｊs 皿ｕltilrajn; tｗｏ匐画一prｅssｕrｅ ｉｎｊｅｃt１０ｎ systｅｍs (reactｏr ｃｏre is０１ａt１０ｎｃｏｏｌ・μnd eitｈｅr high-prｅssｕrｅ ｃｏｏｌａｎt洲ｅｄｏｎ゛Ｍ凾'p゛ess”『゜ｃｏｉｅφΓａy』;ａ・･呷aUy sｅｖｅyalotber a齔ｅrｎ・ｖｅ刈郷・ｏｎ Ｓystems， iｕCh as thｅ
+cｏｎtrｏｈｏｄ ｄrlｖe hydxａｕlic systａｍ， ｃ・d・sａte，sｅ・ce ｗａtｅr， firｅｗａtｅｒ，etｃ，ｌｎ ｃｏｎtra6t， ＰＷＲ８ｇｅｎｅｒaUy・ｖe one bigh,prｅs8ｕ狛ａｎｄ ｏｎｅ ｌｏｗ-prellsｕrｅ ＢＣＣ syｓtｅ!ｎ (botｈ ｍ・titr・ｎ)，plｕs ａ sｏtｏｆａｃ・ｍ・atｏrs.Ｔｈｅ ＰＷＲ ＢＣＣＳ ｄｏｅs・ｖｅ ｃｏｎ･右lderable redｕｎｄａｎｃy， bｕtｎｏtａsｍｕaas tbat ０１ｍｏst ＢＷＲs，
+
+Ｆｏr匐a・'types・trａｎsI・t ｅｖｅｎts， tｈｅ ａｂｏ・ai，gｕｍｅｎts also hold， ＢＷ砌tｅｎｄ t(l havｅ ｍｏre Sys'tｅ珀s that (1an prｏｖide decay heat rｅｍｏｖal thanPWRs，Ｆｏr trａｎs・ｎt ｅｖ・ts that lead tｏ ・s ofｗａtｅｒ・ｖｅｎtｏry dｕｅ tｏ stｕck-open ｒｄｅｆ ｖalｖｅs ｏrprimary systｏｍ ｋａ・辟.ＢＷＲs・ｖｅ ｎｎｍｅrｏｕssysｌｅｍs tｏ ｐｉｏｖide ma・ｕｐ. ＡＴＷＳ ｅｖｅｎts節dstａti・blackoｕt ｅｖｅｎtsj as dlscｕssed beloｗ， affectboth l)ＷＲs ａｎｄ ＢＷＲs，
+BＷＲs・ｖｅ汕tｏrlcaljy ｂｅｅｎ ｃｏｎsiderｅｄ ｍｏrｅsｕbjecttｈ汕l'ＷＲstｏＡＴＷＳ ｅｖｅｎts. This perｃｅｐ，tＩｏｎ ｗas pa・y dｕｅ tｏ the fact that sｏｍｅ ＡＴＷＳｅｖｅｎts・ａ ＢＷＲ ・Vo】ｖｅ ａｎ・ｅrtｉｏｎ ｏｆ ｐｏs111ｖｅｆｅａｃtＭty･ Ｅｘceptlfor tｈｅ ・frｅqｕent【】ccｕrr・ｃｅ ｏｆａｎ ｕｎｆａｖｏｒable moderatｏr temperatｕrｅ ｃｏｅｍ･ｃｉｅ訛，ａｎ ＡＴＷＳ ｅｖent ｉｎ ａ ＰＷＲ ｉs sｋ)ｗｅr，a110ｗ-・ｇｍｏｆｅ丗ne for・tigatlｖe aCtｉｏｎ.
+k spitｅ ｏｆ this histｏrical per叩ectiｖｅ ｆｏr ＡＴＷＳｊtis ｅｖident fｒｏｍ Ｆｉｇｕrｅs 8,2 and 8.3 that tｈe
+S怕tjon blackoｕt accidents ・ｎ・bｕte a hlgh p・ｃｅｎtａｇｅ ｏｆ tｈｅ ｃｏre dam・e freqｕｅｎｃy for the13WRs.Ｈｏｗｅｖｅr，ｗｈｅｎ ｖieｗed on an abs01ｕt６sｅａｌｅ，slation blackoｕt has a hlgher frｅqｕｅｎｃy atthe PWRs than at 出ｅ ＢＷＲs， Ｔｏsｏ加e eｘtｅｎt thjsls dｕe 10 deslp c・吮r如ces betｗｅｅｎ ＢＷＲs andPWRslead・gtod・elent sｓeeptibmtles.Ｆｏr・･ample，・啝tlon blackoｕt ａ・ｄｅｎts，ｐＷＲs arｅｐｏt・tlaUy ｖｕ・ｅrable tｏ rｅａｃtｏr ｃ()ｏ・lt pｕmpsｅａｌ ＬＯＣＡs f01k)ｗI・10ss oheal co011・,lead・gt０ １０ss ｏ・ｎｖｅｎtｏ・ｗjtｈ ｎｏ ｍｅthod for prｏｖid・ｇｍａｋｅｕP･ ＢＷＲ８， ０ｎ ａｌｅ ｏther・nd， haｖｅ ａt le睇ｏｎｅ・jectｊｏｎ systｅｍ that doeｓ.ｎｏt ｒeqｕlre acpoｗｅr. Whi】ｅ・portantｊt ｗｏｕld be incorrect tｏ・ply that tｈｅ ｄｉｌｆｅrｅｎｃｅs ｎｏted aboｖe ayｅ tｈｅｏ・yｃ・slderａtj・sthatdrjvｅ the ｖarlaUons ・thecol‘e damage frｅqｕｅｎｃy. Frobably 皿０re・po心ｎtis the elec・ｅ ｐｏｗｅr systｌxn d・胼ａt each pla砒，ｗhich ls la・ely independent 01 the plant type･The statｊｏｎ ｂｌａｃｋｏｕt･ freqｕｅｎｃy !s Ioｗ at Peach卩01tom becaｕsｅ ｏｆ the prｅs・ce of foｕr d・elsthat ｃａｎ ｂｅ shared betｗeen ｕ・ts 'ａｎｄ ａ ｍａｉｎtｅ･na・e progrａｍ tllat led tｏ 卸０rder Qf magnitｕderedｕｃtｌｏｎ ｌｎ tｈｅ ｄｉｅsel genefatｏr fajlｕrｅ rａtｅｓ，Ｇrand Gｕlf・s essｅ・aly lbree trａｌｎs of emer･gency ac poｗｅr for ・ｅｕ・t,ｗltｈ ｏｎｅ ｏｆ the tra・Bbel・both diｖｅrsｅ 飢d lndepende腱frｏｍ tｈｅｏtber tｗ０， Ｔｈｅse c・ractｅrjstlcs 01 the elec・c
+pｏｗｅr
+systｅｍｉｎ tｈe
+de・ｎtendtｏ ｄｏ・ｎａtｅ ａｎy differ･reactｏｒ deslgn， Ｔｈｅrｅｆｏrｅ，ａ ＢＷＲ
+柚ces in the reactｏｒ （leslgn. ･ｎｌｅrｅ１０rｅ，ａ ｕｗｘｗith a beloｗ ａｖｅrａ辟elec・ｃ ｐｏｗｅr systｅxｎ ・1-ab・ty coｕld be eｘpected tｏ ・扣a higher stａt10nblackoｕ卜・dｕｃｅｄ ｃｏre damage frｅqｕe・y tllan aPWll ｗith an aboｖｅ ａｖｅra8e elee・ｃ ｐｏｗｅr system.
+Fｏr botｈ ＢＷＲs and pWRsj tlle analyses ・di・tetｈａt， alo・ｗith elec・ｃ ｐｏｗer， ０tｈｅr sｕpport sys･te扣s，sｕ由as se・ce ｗatｅr， 缸ｅq・le jmportant，Be・Ｕsｅ thesｅ systｅｍs ｖary c叩slderably ａｍｏ・
+ATWS frｅqｕencies foｒ the tｗｏ ＢＷＲs ａrｅ ｎｏt dfa.･　　Be・Ｕsｅ thesｅ systｅｍs ｖary c叩slderably ａｍｏ・ｍ・cally bigher than for tbe l)ＷＲs.'rherｅ缸ｅ　　ｐｌａｎts，caｕtｌｏｎ ｍｌ】膸be eｘe・sed ｗｈｅｎ飛ak・gsｅｖｅral reasｏx】sforthis.Ｆ・t, ｐｌａｎt procedｕres for　　s叫tｅｍｅＤts aboｕt ｇｅｎ・c classes of plants， sｕch asdea】i・ｗitｈ ＡＴＷＳ ｅvｅｎts りaｖe been mod旧ｅｄ　　ＰＷ砌ｖefs・ＢＷＲs.０ｎｃｅ slgnjflcant pl節t-ｏｖｅr the past sｅｖｅral year8･ and (lperａtｏr trai・・.，spec111c ｖｕh・涎)ilkles a鴆ｒｅｍｏｖed， sｕpport‘sｐｅｃ・ca・y lor thesｅ ｅｖｅｎts has ・prｏｖed slg・fl-　　systemodliｖen seqｕｅｎｃｅs丶vm probably doml朋tｅｃａｎtly. Second， t・abj11ty tｏ ｍｏｄｅｌ ａｎｄ ａｎａｌyzｅ　　the core dam・e frｅqｕency of both types ｏｆＡＴＷＳ ｅｖｅｎts has・ｐrｏｖed.Ｍｏre modem　　plants，B01h types Qf plants haｖｅ 釦ｍｃｌｅｎt redｕｎ-xleｕIrｏ・c and thel知al'hydrａｕUc sjmｕI・ｏ踟of　　daney and dlｖｅrsky sｏ ａs tｏ ｍａｋｅ ｍｕltlple jnde-tｈｅ ＡＴＷＳ sｅqｕ・ces・ｖｅ ｃａｌｃｕlatｅｄｌｏｗer ｃｏr６　　ｐｅｎｄｅＤt lanｕr鄒ｕ・i・ly. Sｕppoｒt sy威em fanｕrespoｗer leｖeIs dｕri・tｈｅ ｅｖｅｎt than predicted ・　　introdｕｃｅ ｄｅｐｅｎｄｅｎｃｌｅs ａｍｏ・tbe systｅｍs and・ｅ ｐａst. Ｆ”吋１１ｅｒl tｈｅ８ｅ ｃａｌｃｕl・ｏ・・dlcatｏ that　　tｈｕs ｃ呷ｂｅｃｏｍｅ ｄｏｍｌ・ｎt，
+ｋ)ｗ'prｅssｕrｅ・jectｌｏｎ syｓtｅｍs ・n b6 ｕsed ｗlthoｕt
+rｅ即lti・in slgn・ｃａｎt poｗｅr ｏsdlatｌｏｎs， thｕs al･　　Ｂｏｍ・ＷａtｅxヽＲｅａｃtｏｒ Ob・rｖａt１０１s
+loｗ・ｇ ｍｏrｅ ｏｐｐｏrtｕ・ty lor mitig・ｏｎ.Ｎｏtｅ tjhat
+for both BW励ａｎｄ ＰＷＲs the frｅqｕｅｎｃy of ｒeac･　　Ａs sh・哨・Fjgｕre 8,1，the intemal,ｅｖ・t ｃｏrｅtｏr prｏtectｉｏｎ system fallｕrｅ ｉｅｍ・ｎs hjghly ｕｎ"　damage frｅqｕencies for Peach Bottｏｍ ａｎｄ Ｇrａｎｄｃｅr・ｎ.'ａｅrｅｆｏrｅ， a11 compaiisｏｎs ‘ ｃ・c町・・　　Ｇｕlf are eχtrｅｍｅｌy･Ioｗ， Ｔｂｅrefore， eｖen tｈｏｕ鰤ＡＴＷＳ shoｕld be made ｗitｈ ｃａｕtｉｏｎ.　　　　　　　ｄｏｍｉｎａｎt plant damage statｅs and con・bｕtl・
+NＵＲＥＧ-1150
+8-12
+Ｊ
+一一・
+fa11ｕrｅ ｅ叫ｎts can beid・t・ed,theseitｅｍs画０・ｄｎｏt ｂｅ ｃｏ・derｅｄ ａs sａｆｅty prｏｂｌｅｍs for the tｗｏ‘planls.・factj thesｅ ｄｏｍｉｎａt・皀踟ctｏrs sho・ｄｎＱt be oｖｅremphas・ed beeaｕsｅ， for ｃｏre danlagefrequｅｎｃ１６s beloｗ IB－5，1t is posslb】e that ｏtherｅｖｅｎts ｏｕtside tｈｅ sｃｏｐｅ ｏｆ thesｅ ・temal･ｅｖｅｎtａｎａｌys銘ａrｅ tｈｅ ｏｎ邨tｈａt ａｃtｕally ｄｏｍｌｎａt９， 1nthe casｅs of thesｅ tｗｏ ｐｌａｎts, the real perspectiｖｅsｃｏｍｅ ｎｏt frｏｍ ｌｌｎｄｅrstandlng ｗｈy pa・ｃｕlar sｅ-qｕ・ces ｄｏｍｌｎａtｅ， bｕt rａther ｗhy aU types of sｅ-ｑｕ・ces ｃｏｎsidered・the stｕdy・ｖe loｗ frｅ-qｕ・cies for tｈｅsｅ ｐｌａｎts，
+
+Ｐrｅｖ10卿ly it ｗas ｎｏted that ＬＯＣＡ ６ｅqｕ・ccs canbe eｘpected tｏ ｈａｖｅ Ｉｏｗ I\ｅqｕｅｎｃｌｅs at ＢＷＲs be･･ｃａｕBe of tｈｅ ｎｕｍｅrｏｕs 8ystｅｍ８ ａｖailable tｏ ｐrｏ･ｖide c001ant・ｊｅｃtｉｏｎ. Ｗｈｊｌｅ ｌｏｗ for both plants，tｈｅ ｆrｅqｕｅｎｃy ｏｆ ＬＯＣＡｓ is higher for 】)each Bot-tｏｍ tｈａｎ １０ｒ Ｇｒａｎｄ Ｇｕlf. This is pl'i“1゛ljly ｂｅ-・ｕsｅ Ｇrａｎｄ Ｇｕlf ls ａ ＢＷＲ-6 design ｗitｈ ａ ｍｏ-tｏr･drlｖen higb-pr岬跏rｅ ｃｏre 8prａy 8ystem. rａtｈｅrtllan.a stｅａｍ･driｖen hjgh･prｅssｕrｅ ｃｏ０１ａｎt ｉｎｊｅｃ･tｌｏｎ systｅｍ ａs is Ｐｅａｃｈ Ｂｏttｏｍ， Ｍｏtｏr-(Ｍｖｅｎsys'tems are typi・lly ｍｏrｅ reUable tｈａｎ stｅａｍ･drlｖｅｎsystems ａｎｄ， ｍｏrｅ ｉｍｐｏrtａｎtlys can operａte oｖｅrtｂｅ ｅｎtirｅ yａ・ｅ ｏｆ ｐrｅssｕres ｅｘperienced ・ ａＬＯＣＡ seqｕｅxl・.
+lt is ｅｖldent from Figｕrｅs 8.2 and 8,4t・t statｉｏｎｂｌａｃｋｏｕt p】ａys ａ ｍａｊｏr rｏｌｅ ・the intemal･ｅventｃｏｒe dama辟frｅqｕｅｎｃｌｅs for Peach Bottｏｍ ａｎｄＧｒand Gｕlf. Ｂａｃｈ ｏｆ tｈｅse plants ・s featｕrｅs tｈａt
+tｅｎｄ tｏsｏｍｅ ｏｆＢ丶・Ｒｓ，
+redｕce the stａtion blackoｕt frｅqｕ・ｃy，ｗhich ｗｏｕld not be prｅs・t'ａt ｏtｈｅr
+Gｒａｎｄ Ｇｕlt， llke aU BWR-6 pla・s，is ｅqｕippedｗitｈ帥ｅｘtra diesｅ１ ８ｅｎｅrａtｏr dedi・ted tｏ tｈｅＭｇｈ-ｐressｕrｅ卯rｅ sprａy systｅｍ･ Ｗｈｎｅ ｅｆｆｅｃtjｖelyprｏv!di・ａ thjrd trａ・of redｕｎｄａｎt ｅｍｅ・ｅｎｃy ａｃｐｏｗｅr　for decay heat rｅｍｏｖal， tｈｅ ｅχtra dieselalso pｒｏｖides diｖｅ・tys based on a differｅｎt dieseldesjgn and,plantl【jc・ｏｎ rｅ】atiｖｅ tｏ tｈｅ ｏther tｗodigse18，Ｂｅｃａｕsｅ ０１ tｈｅ ａspect of d1ｖｅ・ty。tｈｅ卸aly山neglectｅｄ ｃｏｍｍｏｎ･caｕsｅ ｆａ・ｕfes ａｆｆｅｃt-・g aU tｈree diesｅｌ ｇｅｎｅrａtｏrs， Ｔｈｅ ｎｅt ｅ・ectis ahighly rｄａｂｌｅ ｅｍｅ・ｅｎｃy ａｃ ｐｏｗer ・pab・ty. lnthose ｕ・lkely casｅs ｗｈｅre all three dies61 generａ-tｏrsfa・,Ｇrａｎｄ Ｇｕlf rｄｅｓ ｏｎ ａ stｅａｍ-ｄriｖｅｎ ・ol･ａｎt ｌｎｊｅｅtｉｏｎ system that ・n lｕnetｉｏｎ ｕｎtil tｈｅ６tａt10n batteries ａre depleted， ＡＩ Ｏrand Gｕ】fthebatterjes arｅ sjzed to last for ｍａｎy hoｕrs pilor todepletｉｏｎ sｏ t・t仇ｅre is a blgh probab・ty of ｒｅ･coｖer・ｇ ａｃ ｐｏ'ｗｅr prlor tｏ ｃｏre dam・e，ln addi-t１０ｎ， there is a diesel･dr・n firｅｗａter systｅｍａｖaUable that ・ｎ ｂｅ ・ed to prｏｖlde co01ant・jeetｌｏｎ ｊｎ sｏｍｅ sｅqｕ・ｃｅsinｖｏＭ・the loss ｏｆａｃ ｐｏｗｅr.
+8-13
+8.Ｃｏｒｅ
+Dａｍａ辟
+Frｅqｕｅｎｃy，
+Pｅａｃｈ Ｂｏttｏｍ ｌs ａｎ ０１ｄｅr ｍｏｄｅｌ ＢＷＲ t・t doesnot・ｖe a diｖｅrse diesel generａtｏr f【】r the high-prｅssｕrｅ ｃｏrｅ spray 8ystｅｍ， Ｈｏｗｅｖｅｉ，０tｈｅr fac-tｏrs ｃｏｎttibｕtｅ to a 】ｏｗsta11・blackoｕt freqｕencyat Peach Bottｏｍ， Peach B()ttｏｍ ｉs ａ tｗ０４ｍｌt site，ｗllh foｕr diesｅ１ ８ｅｎｅrａtｏrs aｖajlab】ｅ，Ａｎy ｏｎｅ ｏｆtｈｅｌｏｕr diesels can prｏｖlde sｕ・clent capaclty lopoｗｅr botｈ ｕ・ts・tｈｅ ｅｖｅｎt 01 a 】ｏss of of齠tｅｐｏｗer，がｖ・th衂apprｏｐriate crｏs・es ｏr 10ads喞ppi・betｗｅｅｎ Ｕ・ts 2 and 3 are ｕsedｙnllshjgh】eｖｅ】of redｕｎｄａｎｃy js sｏｍｅｗ・tｏ・sｅt by aless redｕndant sｅrｖice ｗａtｅr sy砿ｅｍ tl】at prｏｖjdesｃ００ｈｇ tｏ tｈｅ ｄｉｅsｅｌ ｇｅｎｅratｏrs， Sｕbtleties in thede砌n are 6ｕch t・t jf a certａｉｎ ｃｏｍｂｉｎａtion ofdiesｅｌ ｇｅｎｅrａtｏrs fal】s，the se・ce ｗatｅrsystｅｍｗ・fa・，caｕsI・tｈｅ ｏther dlesels to fail. ln addl-tｉｏｎ，stａtｉｏｎ ｄＱ ｐｏｗｅr js needed tｏ start the dle-sｅ】s，(Ｓｏｍｅ ｅｍｅrgency djesｅｌ ｇｅｎｅｉａtｏr systｅ・，sｕch as those at Sｕrｒy. ・ｖe a separａte dedlcateddc poｗer systｅｍ ｊｕst for stａrt・g pｕrposｅs,)lnspitｅ ｐｆ these factｏrs， the redｕｎｄａｎｃy ln tｈｅｐｅａｃｈ Ｂｏttｏｍ ｅｍｅ・ｅｎｃy ａｅ ｐｏｗｅｒ systｅｍ ｉs ｃ・-sldeyable，　　　　　　・
+While there ls redｕndancy in tｈｅ ａｃ ｐｏｗｅr systemdesign at Ｐｅａｃｈ Ｂｏttｏｍ， tｈｅ ｍｏst s阯ｎ・cant fac-tｏr・the loｗ e・mated station blackoｕt fre･
+qｕｅｎｃy relates tｏ the plant-spec・c data analysIs，TI廸plant-spec・ｃ ａｎａｌysis detｅrｍｉｎｅｄ that,･b6-caｕse of a hj8h･qｕa・ty ｍａ扣le・ｎｃｅ ｐrogram， thedlesel geneｒａtois ａt Ｐｅａｃｈ １３０ttom had apprｏχ1-ｍａtely ａｎ ｏrder ｏｆ ｍ・・tｕde gl･・tｅr ｒeUab・tythan at an aｖｅrage plant, This factｏr directly ・nｕ-ences the frｅqｕｅｎｃy･
+
+F・ａ・y， Ｐｅａｃｈ Ｂｏttｏｍ， ・ke Ofand Gｕlf， has sta-tｌｏｎ ｂａtteries t・t ａrｅ 由ed lo last sｅｖｅral hoｕrs lntｈｅ ｅｖｅｎt that the dlesel generａtols do fal】，Witｈ膾ｏ stelim-ｄriｖｅｎ systｅｍs to prｏｖide c{}ｏｌａｎt injec-
+tｉｏｎ ａｎｄ sｅｖｅral hoｕrs tｏ
+to battｅ・dePletｉｏｎ，theqｕｅｎｃy is fｕrtｈｅr redｕced.
+recoｖｅr ａｃ ｐｏｗｅr priorにsI・ｏｎ ’b】ａｃｋｏｕt fre-
+Uｎ・ｋｅ ｍｏst ＰＷＲs， tｈｅ rｅsｐｏｎsｅ ｏｆ ｃｏｎtａ・ｍｅｎtis oftｅｎ ａ ｋｅy in deter・・・the core damage ￡re-qｕｅｎｃy for ＢＷＲｓ. Ｆｏr ｅχamPle， at Peach Bottｏｍ，tｈｅre arｅ ａ ｎｕｍｂｅr of ｗays ・ｗhich containmentｃｏｎｄｌＵｏｎs ｃａｎ ａｆｆｅｃt ｃ００１ａｎt ・jecU・systｅｍs･Hi泓pr・ure in contａ・ｍ・t can lead tｏ ｃＩｏsｕreof prlmarｙ systｅｍ ・1ef ｖa・s，thｕs fa11・g 10ｗ-pressぼｅ・jectｌｏｎ systｅ・，ａｎｄ・ｎ啝０ １ｅａｄ tofaUｕrｅ ｏｆ steam･drlven high･prｅssｕrｅ ｉｎｊｅ・ｏｎsys･狆ｍs dｕｅ to high tｕrb・ｅｅ汕卸st backprｅssｕrｅ，Hlgh sｕpprｅssｉｏｎ ｐｏｏｌ tｅｍｐｅ誥毎rｅs ｃ飢aIso Jeadtｏ the failｕre of systｅｍs that ａrｅ recircｕI・ngｗatｅr frｏｍ tｈｅ 叺lpprｅ・ｏｎ ｐｏ０１ tｏ the rｅａｃtｏｒc001ant systｅｍ， lftｈｅ ｃｏｎta・ｍｅｎt ｕIUmately f・Is，ｃｅrtａｉｎ systｅｍs can fa・becaｕse of tｈｅ １０ss of net
+NｕＲＢＧ-ｎ50
+．･　｜；　ｊｌ　・
+8，
+Cｏrｅ
+Dａｍage
+Frｅｑｕ・cy
+positiｖe sｕｄｏｎ ｈｅａｄ ・tｈｅ s叩prｅssion p001， ａｎｄａ】sｏ仙ｅ rｅａｃtｏr,bｕjld・g js sｕbjected to a harshstｅａｍ ｅｎｖirｏｎｍｅｎt alat can lead to fa11ｕrｅ ｏｆｅqｕｊｐｍｅｎt 1qcated therｅ，
+Dｅ叩itｅ tｈｅ ｃｏｎｃｅｍs des・bed ln thｅ
+pr・ｏｕs
+parigraph，tｈｅ ｃｏre damage frｅqｕｅｎｃy for l)ｅａｃｈＢｏttｏｍ ｌs relatiｖely loｗ， ｃｏｍｐａred tｏ tｈｅ ＰＷＲs，Ｔｈｅrｅ ａrｅ tｗｏ ｍａｊｏｒ rｅａsons for匍s，Ｆ・t,ＰｅａｃｈＢｏμom hasthe ab・ty tｏ ｖｅｎt tｈｅ ｗｅtｗell thrｏｕgha6･ｉｎｃｈ ｄｌａｍｅtｅｒ steel Pipe， lfhｕs redｕｃ・g tｈｅ
+eｏｎtａ{ｎｍ・t prｅssｕrｅ ・tｈｏｕt卯bject・gtｈｅｒｅａｃ-tｏr ｂｕjld・g tｏ stｅａｍ. Ｗｈｌｌｅ･this ｖ・t ｃａｎｎｏt be山ed tｏ ・tigate ATWS and statk珀blackoｕt sｅ-qｕences. jt is ｖalｕable jn redｕｃ・g the freqｕency　　　　　　　　　　　　　　　－　　　　i●
+ofma・ｏtｈｅr sｅｑｕences， Ｔｈｅ sｅｃｏｎｄ ・poxiantfeatｕrｅ ａt Peach 汨ｏttｏｍ ｉs tｈｅ ｐrｅsence of tｈｅｃｏｎtｒol加d dxlｖｅ systｅｍ， ｗhich is ｎｏt afiected byｄｈｅr high prｅssｕrｅ ・ｃｏxltａ・ｍｅｎt ｏr ｃｏｎtａ・･ｍｅｎt fahrｅ， ０山昿ｐ】ants of the BW■.4 des収ｎｍａy ｂｅ ｍｏ羚ｓｕsｃｅｐtible tｏ ｃｏｎｌａｉｎｍｅｎt･ｒｅｌａtedpfoblelns lf they ｄｏ ｎｏt ・ｖｅ simjlar ｆｅａtｕies. Ｆｏｒｅｘａｍｐｌｅ，sｏｍ６ｐ】ａｎts ｈａｖｅ ｄｕｃtl・，as ｏｐｐｏsed tohl!ｒd plp・g aｖaUable for ｖｅｎt・g.Ｖ卯血gtｈrｏ・hdｕｃtｗｏrｋ ｍａy】ead tｏ ・ysｈ stｏａｍ ｅｎｖiｒｏｎｍｅｎtsand eqｕｌｐｍｅｎt failｕrｅs in the rｅａｃtｏr bｕndl・,゛'ｎｌｅ Ｇrａ亶ld Gｕlf design is ｇｅｎｅra】ly ｍｕch le韶sｕs｀ｃｅｐtll勣tｏ ｃｏｎtａｉｎｍｅｎt-related prｏｂｌｅｍs tｈａｎＰｅａｃｈ Ｂｏttｏｍ. Ｔｈｅ ｃｏｎt・ｎｍｅｎt ｄ６sjgn andeoｕｉＤｍａｎt 10cati・s arｅ sｕch t・t ｃｏｎtａｌｎｍｅｎt
+tｏ the additional redｕｎｄａｎｃy ａｖanable ・the・･jectｌｏｎ systｅｍs. ln addltｌｏｎ tｏ tｈｅ ｎｏrmal high･prｅssｕrｅ・jection capability， Sｕ吋ean brｏ・le tｏtｈｅ ｏther ｕ・t at tｈｅ sitｅ ｆｏr ａｎ ａｄｄＭｏ朋I sｏｕrceof hl小-prｅssｕrｅ・jectｉｏｎｙrhjs redｕce8 tｈｅ ｃｏredamage frｅqｕｅｎｃy dｕ夸tｏ ＬＯＣＡs and alsｏ ｃｅｒ・ngｒｏｕps of trans1・ts inｖｏＭ・stuck･open renefｖalves，　　　　　　　　　　　　・　，
+ln add旧ｏｎ，at Seqtxｏyah there iβａｎｏtｅｗｏrthｙ ｅｍｅ・ｅｎｃy ｃｏre c001・g
+part・la吩・ｅractlｏｎ
+　　　　　”　　　ﾐy　w　　　　　　　w
+ｗilh cont・ｎｍｅｎt en幽eered safety featｕrｅs ・10ssべ】IL,c001ant accid・ts，・this(Ｉｃｅ ｃｏｎｄｅｍｅr)ｃｏｎtａ・ｍｅｎt deslgn， the contａ・ｍｅｎt sprａys atｅ如t・ｕltically ac妲ａted at ａ ｖｅry 10ｗ prｅssｕrｅ set･polnt，ｗhlch ｗoｕ】d be eｘceeded lor ｖ妣ｕｄy a】lsma】Ｉ ＬＯＣＡ ｅvents， Ｔｈｉs sprａy actｕatｊｏｎ， lf nottｅrｍ・ated by the operatｏr can lead‘tｏ ａ rapid de･pletｌｏｎ ｏｆ the refｕel・g ｗａtｅr stｏx・ｅ tａｎｋ ａt Se･qｕｏyah･Thljs･ａｎ　ｅａrly　need tｏ　sｗltch　tｏrecir卯latｉｏｎ ｃｏ０１・gl釉y oc・r. Ｐｏ・ｏｎs of thlssｗilchoｖer process arｅ ｍ如聰l at Seqｕｏyah.and，becaｕsｅ ｏｆ tｈｅ timing and poss鶻ｅ stress鈿lc・dl-tｌｏｎs，leads to a sigDifica訛ｈｕｎｌａｌ ｅrrｏr piobabjl･lty･111ｕs，ＬＯＣＡ-type seqｕｅ・ｅs arｅ tｈｏ ｄｏｍ・antaccldent sｅqｕｅｎｃｅ type at Seqｕｏyah，
+Stａtｉｏｎ ｂｌａａｏｕt-type sｅqｕences haｖｅ ｒel・ｖelysI・lar frｅqｕｅｎｃt叩ａt aU thｒｅｅ ＰＷＲs， Stat１０ｎ，blackoｕt sｅqｕ・ces ｃａｎ ・ｖe ｖｅry differｅｎt char，aCte出Ucs ａt ＰｙＲs than at ＢＷＲｓ， ０ｎｅ ｏｆ the
+eqｕipm・t 10cati・s arｅ sｕch t・t ｃｏｎtａ・ｍｅｎt　　aCte出t・ａt ＰＷＲs tｈ睇at BWlls， ０ｎｅ ｏｉ themptｕrｅ・ll not rｅsｕlt・djscha・ｅｏｆ跏am jntｏ　ｍｏst impoｒtant nnd・鈩of the stｕdy is tｈｅ ｊｍｐｏr･tｈｅ ｂｕ11di・ｃｏｎtai・ng tｈｅ safety syst・s，Ｆｕr-　tance 01 reactｏr ｃｏｏｌａｎt pｕmp seaHaUｕ・.Ｄｕr･theｒ，the hlgh-prｅssｕrｅ ｃｏrｅ spray syst・is de-　　i・st・on blackoｕt. al】ｃｏｏｈｇ tｏ the 6eals js 10st叱ｎｅｄ to fｕnetｉｏｎ ｗitｈ ａ satｕrated sｕpprｅssion　and there is a 血nlf・ｎt probal)11畑thatthey ｗ111po01 sｏ that it ls ｎｏt affected by c・・ｎｍｅｎt fail-　　ｕllimately faU， lead・g to an jl!dｕｃｅｄ ＬＯＣＡ ａｎｄ　　　　　　　　　　　　　　　　　　　　　　ミ　　ｉ■　　　　　-　　　-ﾐﾐ＝　ｄ　　。４
+・ｅ.ｌ・aUy，therｅ町ｅ ｏtｈｅr syitems tｈａt ｃａｎ ｐrｏ･　　Iossｏ・ｎｖｅｎtｏry. Becaｕsｅ ｔＷＲs ｄｏ ｎｏt・ｖｅ sys･ｖide c001ant・ｊｅｃtｉｏｎ ｕs・g ｗａtｅr sｏｕrｃｅs ｏther　　tｅｍs capable of prｏｖidl・ｃｏ山ｎtma・ｕp ｗlthoｕt
+vide c001ant・ｊｅｃtｉｏｎ ｕs・g ｗａtｅr sｏｕrｃｅs ｏthertｈａｎthes叩prｅssｉｏｎ ｐｏｏｌ, Thｕs，c・tａｌｎｍｅｎt faU･ｕre js ・atlｖely be・８ｎ ａs far ａs syl;tｅｍ 邨ｅｆａtl・Is ｃｏ・emed， and there is ｎ０ ０ｂｖioｕs need lorｃｏｎta・ｍｅｎt ｖentj・･
+Prｅsst・ｚｅd
+Wａtｅr
+Ｒｅａｃtｏｒ
+Obsｅrｖａt１０ｎs
+The thｒｅｅ ＰＷＲｓ ｅｘａｍ・ed‘in this stｕｄy爬flectｍｕｃｈ ｍｏrｅ ｖａｒiety jn tｅrｍs ・ｄｏｍｈｌａｎt plant
+　　　　w　　　　　　　■■
+ａｃ ｐｏｗｅrl core damage ｗj11 rｅ・t jf poｗｅr ls ｎｏtrestｏred，The seal LOCA redｕces the tｌｍｅ ａｖa・-able tｏ ｒestｏrｅ ｐｏｗｅr 如d thｕs jncrゆasｅs tho stａ･t１０ｎ ｂｌａｃｋｏＵＭｎｄｕced core damage aeqｕｅｎｃy･Neｗ seals baｖｅ ｂｅｅｎ ｐrｏｐｏse｀d for WesU・hoｕsｅＰＷＲsａｎｄ ｃｏｕld redｕｃｅ tｈｅ ｃｏ￡e dam・e fre･qｕｅｎｃy jf ・plemented，altho・h they ・ght alsoincreasｅ the llkdh00d that any re囮】ting accldenls
+mｕｃｈ ｍｏrｅ ｖａｒiety jn tｅrｍs ・ｄｏ・・ｎt plant　　ｗｏｕld occｕr ａt h亅ｇｈ ｐrｅssｕre. ｗhich ・s・p】ica，damage states th・tｈｅ ＢＷＲs， Wh・e the sｅ-　tｊｏｎs for the aCcldent pr・teｓｉｏｎ ａｎａｌysis， (Seeqｕｅｎｃｅ ｆreqｕ・ｃｉｅs缸e generally 10ｗ for ｍｏst 01　　Sectｉｏｎ Ｃ,14 0f Appendlχ Ｃ ｆＤr ａ ｍｏre deta・edthe pl・t dama8e 向tｅs，il js ｕsefｕl tｏ ｕnder向nd　　discｕssＩｏｎ ｏｆ rｅａｃtｏr ｃｏｏ】ant seal perfol‘ｍａｎｃｅ.)
+the plant dama8e slatｅs. il js ｕsefｕl tｏ ｕnd町向nd　　discｕssｌｏｎ ｏｆ rｅａｃtｏr ｃｏｏ】ant seal perfol‘ｍａｎｃｅ.)ｗｈy the ・ｄａtｉｏＤs ａｍｏ・the planls ｏｃｃμΓΓed．
+　　　　　　　　　　　　　　'　　　　　....　　ＡＰａｒtlｒｏxｎthe g・erlc rｅａｃtｏr ｃｏ０１ａｎt p””1匙肥ａｌＦｏｒ ＬＯＣＡ seqｕｅｎｃｅsl the freqｕency is slgn・-　　qｕe・ｏｎ，statｉｏｎ ｂ】ａｃｋｏｕt frｅqｕencies at§ぶ;sｃａｎtly loｗｅr ａt Sｕｒｒy than at tｈｅ ｏtller tｗｏ ＰＷＲs，　ａre dotｅr・ned by the plant･spec・c elect吻Ａ ｍａｊｏr poｒtｉｏｎ ｏｆ tllis differｅｎｃｅ ｉs directly lled　　poｗｅr sysｌｅｍ ｄｅslgn aDd the deslgn of other　　　　　　　　　　　　　　　　　　　　　　　　　sｕpport systｅｍs. 汨qttｅry depletｉｏｎ tｉｍｅs 10r tl冷冫i;i冫i;ｉｉ‘prｅsen勿ｕnde心kl・xｅｐｌａｌｏry ａｃＵｏｎ ｌｏ　　　　thrｅｅ ＦＷＲsｗｅrｅｐrojected tｏ ｂｅ shortｅr than for，
+　i°吩11y°・id l'jp° v9”ls in a11βＷＲ Ｍａrk lpl叨lsI　　　　the tｗｏ ＢＷＲ１１， Apa・cｕIBr ch覗Ictｅrlstlc of the
+NＯＲＥ(卜1150
+8-14
+１
+j｀
+Sｕrry plant is a grａｖity-fed sｅｒｖice ｗatｅyｗitｈ ａ ｃａ・1 that maｙ dｒa・dl・・stａtk】ｎｏｕtl tｈｕs fai】・ｇ ｃｏｎtａ・ｍｅｎt ｈｅａt rｅｍｏｖal，
+訟Ｗhｅｎ
+pｏｗer js yestｏred， the canal mｕst be rｄ・ed・-fore contａ・ｍｅｎt heat ｒｅｍｏｖａＩ ｃ節be rｅstｏred.
+Tｈｅ ｄｏｍ・ant ａｃｃｌｄｅｎt sｅqｕｅｎｃｅ tyｐｅ ａt Ｚ１０ｎ ｊsｎｏt ａ stａtioxl blackoｕt， bｕl it ・s ｍａｎy sl・】aｒchaiactｅ・・cs，Ｃｏｍｐｏｎｅｎt　ｃｏ０１ｊ・　ｗａtｅr　isｎｅｅｄｅｄ ｆｏr.叩ｅｒａtｉｏｎ ｏｆ the charが・pｕmps・dhjgh-ｐ・surｅ sａｆｅty刎ecti・pｕmps at Ｚｉｏｎ， Ｌｏssof co加ｐｏｎｅｎt ｃｏｏｌ・g ｗater (ｏr loss of sｅ・ceｗａtｅr， ｗhlch ｗ・ｈ山ｏ rｅxlder ｃｏｍｐｏｎｅｎt ｃｏｏ・・ｗａter・ｏｐｅrable)ｗ・rｅ・t・】Ｏss of山ｅse hl小一ｐrｅssｕrｅ systｅｍs. Thls jn tｕｍ ｌｅａｄs tｏ ａ ｌｏss ofrｅａｃtｏｒ ｃｏｏｌａｎt ｐｕml)sｅａ凵njectｌｏｎ，S・ｕltａｎｅ-ｏｕsly，】ｏss ｏｆ ｅｏ加ｐｏｎ・t ｃｏ０１tng ｗater ・|凾ｏｒｅsｕlt・Ioss ０１ｃｏｏ・ngtｏthethe・lal ba・er heatｅｘｃｈａｎｇ町s foｒ tｈｅ ｒｅａｃtｏｒ ｅ００１ａｎt p”゛ｐ sｅａｌs，lll・ｌ tｈｅ rｅａｃｌｏｒ ｃ００１ａｎt ｐ”ｍｐ seals ｗ・10seboth･fOims ｏｆ ｃｏ０１１・.Ａs ｗith statlon blackoｕt，Ioss･０１ ｃｏｍｐｏｎｅｎt ｃ００１・g ｗａtｅr ｏr sｅｒｖｉｃｅ ｗａtｅrｃａｎ ｂｏtｈ ・ｕse a sｍａＵ ＬＯＣＡ (by s軸l faUｕrｅ)and disable the syStｅｍs ｎｅ'eded tＯ ｍｉtigate it, Ｔｈｅｉｍｐｏｒtａｎｃｅ ｏｆ this sｃｅｎａr10 1s ｊｎｃreased fｕr出erbytｈｅ ｆａｃt tbat tｈｅ ｃｏｍｐｏｎｅｎt ｃ００・ng ｗater systｅｍａｉ Ｚｉｏｎ， ａ辧Ioｕｇｈ ｉt ｉsｅs ｒedｕnd鴎t pllm鈿ａａｄｖalｖｅs，ddｖｅrs　its　noｗ thｒｏｕｇｈ　ａ　ｃＯｍｍｏｎｈｅａｄｅｒ.Ｔ・・ｃ・sｅｅ ｆｏｒ the Zk)ｎ ｐｌａｎt・sｍ・eproeedｕｒal changes and js alsｏ ｃｏｎsid・ng boththe ｕsｅ ｏｆ ｎｅｗ sｅａｌ ｍａtｅ由ls ａｎｄ the ・stａ・・ｏｎｏｆ ｍｏｄｉ勁atｊｏｎs tｏ tｈｅ ｃｏｏ・・ｗａtｅr systｅｍs･Thesｅ ｍｅａsｕrｅs， ｗｈｉｃｈ肪e discｕssed in morｅ ｄｅ-tail jn Chaptｅy 7j ｒedｕce,the impoｒt喞ce of thjsｃｏｎtribｕtｏr.
+
+ÅTWS frｅqｕ・cies arｅ ｇｅｎｅrally loｗ ａt aU tllrｅｅ ｏｆ出ｅ ＰＷＲs､ 7111s js dｕe tｏ tｈｅ ａssessed ｒe・bl・ty oftｈｅ shｕtdoｗｎ systems ａｎｄ the ljke・h00d that ｏｎｌysloｗ･ａｃt・g，Ioｗ-ｐｏｗｅｒ-leｖｅｌ ｅｖenls ｗ・ｒｅsｕlt，
+
+MI】jle of loｗ frｅqｕｅｎｃy. it js ｗｏrth llot・g thatjnterfaC・g･systｅｍ ＬＯＣＡ (Ｖ)and stｅａｍ ｇｅｎｅra･tｏrtｕbe加ptｕrｅ(ＳＧＴＲ)ｅｖｅｎts ｄｏ ｃｏｎ・bｕtｅ slg-ｎ・cantly tｏ rjsｋ ｆｏr tｈｅ ＰＷＲsｙnlls js becaｕsｅ出ｅy inｖolｖｅ ａ ｄｊｒｅｃt path for fission prodｕｃts tｏｂypass ｃｏｎtａｉｎｍｅｎｌ. ７ｈｅｒe arｅ ｌａrge ｕｎｃｅrtaintleS・the analysｅs of thesｅ tｗｏ ａｃｃｌｄｅｎt typesl bｕt山ｅsｅ ｅvｅｎts can be impoれａｎt tｏ rlsk eｖｅｎ ａt fｒｅ-qｕ如cies that ｍａy ｂｅ ｏｎｅ ｏr tｗｏ ｏrders ｏｆ ｍ・・-tｕde 10ｗｅr than other sｅqｕｅｎｃｅ types.
+Dｕrlng tｈｅＰＷ砌haｖｅ
+past毎ｗ year8， ｍｏst Ｗｅstｉｎｇｈｏｕsｅｄｅｖｅ】ｏｐｅｄ ｐｒocedｕres fQr ｕsl・feｅd
+and bleed coo・ng and sｅｃｏｎｄａry systｅｍ ｂｌｏｗ･doｗｎ to cope ｗltｈ １０ss ｏｆ ａ・feedｗａter.Thesｅｐrocedｕrｅs ha粕led tｏ sｕbstａｎtlal redｕｄｏｎs ・the frｅqｕ・cies of transient seqｕｅｎｃｅs invQIｖ・g
+8-15
+８
+Cｏrｅ
+Dａｍ・ｅ Ｆreqｕency
+the】ｏss ｏｆ ｍ・ｎ ａＤｄ ａt・Uary feedｗatｅr. Apprｏ･prjate credjt foｒ thesｅ ａｃtｊｏｎs ｗas glv・・thes・ａ・lysｅs.Ｈｏｗｅｖｅｒ，tｈｅr6 arｅ ｐｌａｎt-spec・c fea-tｕrｅs that ｗill ・fect the sｕｃｃｅss ratｅ ｏｆ sｕch ac-ｄｏｎs，Ｆｏr ｅχａｍｐ】ｅ，the 10ss ｏｆ ｃｅrta・poｗｅrsｏｕrces(possibly ｏｎｌy ｏｎｏ ｂｕil)○r ｏtｈｅｒ囘ppoｒtsy眦emS　can fa・　poｗｅr･opefated ie】lel ｖalｖｅs印ＯＲＶs)０r ａtｍ・p￥ric dｕmp・Ivｅs ｏr thejrb10ck ｖaIｖｅs ａt sｏｍｅ ｐ】ants， ｐrecIｕ(・・the ｕse offeed and bleed or sｅｃｏｎｄａry 8ystｅｍ Ｍｏｗdoｗｎ、Flants ｗltｈ ＦＯＲＶs lhat 帥nd t0 1eak may ｏｐｅratefor sipjf・ｎt periods of tｌｍｅ ｗith the blockｖalｖes ｃＩｏsed， thｕs ｍａｋ・g feed and b】eed less rｅ-Uable，０ｎt・ｏther ｈａｎｄｊｆ ｃｅｒtａ・poｗｅr fajlｕresａre 6ｕch tbat邨ｅｎ ｂ１０ｃｋ ｖa1ｖｅs ・ｎｎＤt be cIosed，
+th昿they ｃａｎｎｏt ｂｅＰＯＲＶs.Thｕs，botｈ
+op叮・ng prａｃtlcesab池y ａssessｍｅｎtbleed coo・・.
+used tｏ ・Ugate stｕｃｋ･'t)p・tｈｅ system desｉｐ ａｎｄ ｐｌａｎt
+can be impo心ｎt tｏ theof actｉｏｎs sｕch as fｅed
+8,4.4　Eｘterｎａｌ Ｅｖｅｎts
+reU･aｎd
+T・frｅqｕｅｎｃy of Col'e da扣age・it・ed by ｅｘtｅr-nal eｖｅｎts ・sbe・analyｚed for tｗｏ ｏｆ the plants垣tll・stｕdy. Sｕrｒy and Feach Bott・(Ref， 8.1(Part 3)and Ref. 8.2 (Pait 3)).Ｔ・ａｎａｌysls ｅｘ･･ａ・叨d a broad rａ・ｅ ｏｆ ｅχtｅｍａｌ ｅ衵ｎtS，e,g･，
+e衵ｎts，e,g･･劭d ｖ０1caｎiｃ
+・ht・・，airc・tｊｍｐａｃt，tｏｍａｄｏs，and ｖｏ・・ｃａｃtはy(Ｒｅｆ， 8.8).Ｍｏst of thesｅ ｅＶｅｎts ｗere as･
+sessed to be ・slg・ficant ｃｏｎ・bｕtｏrs by means ｏf
+bｏｕnd・g analy8es， Ｈｏｗｅｖｅr，sejsmic eｖe吻andfirｅs ｗｅrｅ ｆｏｕnd tｏ ｂｅ ｐｏtｅ・ａ・y ｍａｊｏr ｃｏｎ・bｕ-tｏrs and tbｕsｗｅrｅ ８ｓlysed ・det゛・･　，
+Figｕrｅs 8.7 and 8,8 shoｗ the resｕlts of the corｅｄａｍ・e frｅqｕｅｎｃy ａｎａｌyｓis for 8・ｓｍｌｃ-ａｎｄ丗ｅ-i・tlatｅｄ ａｃｃｉｄｅｎts， ａs ｗｅ】l as intemally initlatｅｄａｃｃｉｄｅｎts，for Sｕrｒy and Peach 130ttｏｍ， rｅspec･tiｖely. Ｂｘa・ｎ・ｏｎ・tｈｅse figｕrｅs 鹵ｏｗsthatthecofe damage freqｕｅｎｃy dlstrjbｕtｌｏｎs of the eχter-nal evｅｎts 町e comparable tｏ those of the jnter・leｖｅｎts，lt is ｅｖident that tｈｅ ｅｘtｅｍａｌ ｅｖｅｎts arｅslg・nca琲ln the tｏtal safety prｏｍｅ ，0f thesepjants，
+Seisｍｌｃ Ａｎａｌyｓis ObsｅrlyａtiｏＭ
+The ana】y画ofthe・8mjcany induｃｅｄ ｃｏre dam-age freqｕｅｎｃy beがｍ ｗith the atim・ｏｎ ｏｆ th6seismic・zardl that ls， the・・Uh00d 01 eｘceod-i・di・ｅrｅｎt ｅａrtｈqｕake grｏｕnd,ｍｏt10n leｖels ａtthe plant site. This js a dimcｕ】t，highly jｕdgmental・ｕel ｗjth little datａ to prｏｖide v・ficat１０ｎ ｏｆ the・rk)ｕs prｏｐｏsｅｄ ｇｅｏｌｏｇｉｃ ａｎｄ seism010glc models.The sｃｉｅ・ｅs of ge010gy 卸d sejsｍｏｌｏｇy・ｖｅ z10tyｅt prodｕced a model oｒ grｏｕp of models ｕｐｏｎｗhich an eｘperts agree， This stｕdy did ・t itself
+NＵＲＢＧ-1150
+Ｉｉ『。－ＩＩ
+４－４
+１
+8，
+Cｏrｅ
+Dａｍａgｅ
+prodｕｃｅ sｅ畑ｍiｃ
+Frｅqｕency
+・zard cｕｒｖｅsl bｕt ・stead ｍadｅ
+usｅ ｏｆ sels・ｃ・zard cぽｖｅs 10r ｐｅａｃｈ Ｂｏttｏｍａｎｄ Ｓｕ】Ｔy that ｗｅrｅ ｐａrt ｏｆ ａｎ ＮＲＣ･fｕndedLaｗrence Ljvｅｒｍｏｒｅ Ｎａtｉｏｎａｌ Ｌａｂｏratofy projecttllat rｅsｕ・d・sｏ・・c・ｚard cｕrｖes for aU 咄･
+cｌｅａrt・ｎs
+pｏｗｅｒ plant sitｅs east ・t】】ｅ Ｒｏｃｋy Ｍｏｕｎ-(Ｒｅｆ， 8,9)･
+　ln add妲ｏｎ，他ｅ Ｂｌｅｃtrｉｃ Ｐｏｗｅｒ ｋｅsｅａrch ln・tｕtｅ　(ＢＰＲＩ)ｄｅｖeloped a separatｅ set of models (Ｒｅｆ，
+　8,10)，Ｆｏr ｐｕ叩ｏsｅs ｏｆ ｃｏｍｐ】etｅｎｅss鵑ｄ ｃＱｍ･　p・sｏｎ，the・s・cally lndｕｃｅｄ ｃｏrｅ ｄａｍ・e fre-・qｕｅｎｃｉｅs ｗｅrｅ ａ】so ealcｕlated based ｕｐｏｎ the　EPRl method8. Ｂｏtｈ sｅts of resｕlts, ｗｈｉｃｈ ａre p爬-　s・ted in Figｕrｅs 8j tｈrｏｕgh 8.8，ｗｏrｅ ｕ8ed ・　this 8tｕdy. Ｍｏrｅ ｄｅ・led d・ｃｕssｉｏｎ ｏｆ ｍｅtｈｏｄs　ｕsed・the seisｍｉｃ ａｎａｌysis is ｐrｏvided ・App・-　dtｘＡ;Secti・Ｃ,・of Appendlｘ C prｏｖideii more　detａ・ed perspe・ｖes ｏｎ tｈｅ sｅ・・c・ｕｅ ａs ｗelt，
+4s ｃａｎ ｂｅ sｅｅｎ ｊｎ Ｆｌｇｕｆｅs 8,5 and 8,6，the s・pesof tｈｅ seisml・lly lndｕｃｅｄ ｃｏｒe damage probab肚ydlstχlbｕtk)ｎs ａrｅ ｃ・siderably ditferｅｎt frｏｍ tｈｏs命oftｈｅ・temallyj・由ted and nrｄ・tjated eｖｅｎts.駟paｒticｕl缸l tｈｅ ５th t0 95th perｃｅｎtne ya・e is・ｕch larger for tｈｅ seisｍｌｃ ｅｖｅｎts. ln additｉｏｎ， ａscan be sｅ・・Fjgｕres 8,７ ａｎｄ ８,81 the ｗjde dls･p・ty betｗｅ・tbe me節ａｎｄ tｈｅ ｍｅｉａｎ ａｎｄ the10・tｊｏｎ ｏｆ tｈｅ ｍｅａｎ rel叫ｖely high in the di・･bｕttｏｎ姐dl・tｅ ａ ｗide dls・bｕtｉｏｎ・th a tail atthe high end blt peaked mｕｃｈ ｌｏｗer doｗｎ， (TblsIs ａ rｅsｕlt of tｈｅ ｕｎｃｅrtａ汕ty・the selsmlc haｚａyd'ｃｕｒｖｅ.)
+
+lt ｃａｎ ｂｅ ｃｌｅａrly se・t・t the dlffer・ce betｗeentｌｌｅ ｍｅａｎ ａｎｄ ｍｅｄｊ卸ls an ・pDｒtant djst・ｄｏｎ･Ｔｈｅ ｍｅａｎ １s tｈｅ ｐａrａｍｅtｅr ｑｕｏted most oftｅｎ, ｂｕtthe bｕlk of the dis・bｕtｉｏｎ鈿ｗell be10ｗ tｈｅｍｅａｎ.Ｔ・s，alth(・gh tｈｅ ｍｅａｎ ｉs the “ｃｅｎtｅr ofμaｖjty” of tbe djs・bｕtｌｏｎ(ｗh・ｖieｗｅｄ ｏｎ ａ ｈ･eaｒ rａtｈｅr tｈａｎ １０ｇａrilhmic scale)，it is ｎｏt ｖｅ印rｅＤrｅsｅｎtatiｖｅ ｏｆ the dis・bｕljon as ａ ｗh01e， ln-･
+6aｒ・tｈｅr than log・lh・ｃ scal。).it is ｎｏt lrｅｐrｅsｅｎtatiｖｅ ｏｆ the dis・bｕljon as ａ ｗh01e，
+・ad,･紅ls the】ｏｗｅr ｖａ・s tbat arｅ ｍｏre prob･able，Tho hjgher ｖ由ｅs ａｆｅ ｅstｉｍａted tｏ ・ｖｅ ｌｏｗｐrｏｂａｂ・ty， bｕt， becaｕsｅ ｏｆ thelr grｅａt dislancefrｏｍ tｈｅ ｂｕlk Qf the distdbｕtk)ｎ，tｈｅ ｍｅａｎ ｉs“pd6d ｕp” tｏ ａ rｅ】・ｖely hjgh.ｖalｕｅ，lnac邸ｅsｕｃｈ ａs this， it is pa・cｕI・y ｅｖident t・t tｈｅ ｅｎ-tlre dls・bｕt１０ｎ，ｎｏt jｕst a 61・le parameter sｕchas lhe me皿０r tｈｅ ｍｅｄｌａｎ， ｍｕ6t ｂｅ ｃｏ鄙ldeｒｅd
+when disc啣sI・the yｅsｕlts of tｈｅ ａ・】y幽.
+
+1，Sｕｒry Seiｓｍｌｃ Ａｎａｌysls
+
+Ｔｈｅ ｃｏrｅ ｄａｍａ眇fieqｕ・ｃy probability disttlbU-llons，ａs ｃａ】cｕ】ａted ｕs・g the Liｖｅrｍｏrｅ ａｎｄ ＢＰＲｌｍｅthods， ｈａve a la・e degrｅｅ ｏｆ ｏｖe啣p，ａｎｄ thed暦ｅrences betｗｅｅｎ tｈｅ ｍｅａｎs and medians ｏf
+NＵＲ】EG-1150
+the tｗｏ ｒｅsｕlthlg dis・bｕtｉｏｎs arｅ ｎｏt ｖｅｒy me飢･・gfljl becaｕsｅ ｏｆ the 】ａ・ｅ ｗidths 01 1he tｗo djs・-bｕtｉｏｎs／
+
+Tjle bre咏doｗｎ ｏｆ the Sｕrry sejsmic analysls jntoprjnclpal contrjbｕtｏrs ls加asonab】y sI・lar lo theｒｅs・t8 0f otｈｅr sels・ｅ ＰＲＡs for ｏther ＰＷＲs, ゛ｎｌｅtｏtａｌ ｃｏre damage 11‘eqｕｅｎｃy ls domiDated by lossｏｆｏｍ・poｗｅr trａ・si・ts iesｕlhg lrｏｍ Ｓ靤・-cally・dｕced fanｕres of山ec酣a・c・sｕlatｏrs・tｈｅsｗitchyａrd，Thls do・ｎａｎt ｃｏｎtribｕtｌｏｎ ｏｆ ｃｅ-rａ・ｃ・・atＯr fanｕres ・sbeenfoｕnd・ｖjrtual】yall sels・ｃ ＰＲＡs tｏ ｄａtｅ，
+
+Ａ sltｅ-specmc・t 81gn・ｃａｎt ｃｏｎtrjbｕtｏr tｏ tl!ｅｃｏre damage frｅqｕｅｎｃy ａt S暝ry is fa・ｕfe oftheanchoi・e ｗelds of tbe 4 kV b榔es，Ｔｈｅse busesplay ａ ｖital role in prｏｖidl・ｅｍｅ・ency ａｃ ｅｌｅｃ・“ｃａｌｐｏｗｅrs・ce offsitｅ ｐｏｗｅr as ｗe11‘as‘ｅｍｅ・ｅｎｃyｏｎsite poｗｅr passes thrｏ・ｈ these bｕses, Althoｕ小tｈｅ亠ｗｅｌｄｅｄ ａｎｃｈｏrages ・ｖｅ ｍｏrｅ tｈａｎ ａｄｅ･qｕate capacity ａt tbe safe shｕtdoｗｎ ｏａ咄qｕake(SSB)】ｅｖel. t・yｄｏｎｏt・ｖｅ sｕ譱c・tｍａｒglntｏｗith幽・【・由hlgh rｅ】iab茴y)eaｒthqｕakes ln the狛ｎ粐ｏ・()ｕｒ dmes tｈｅ ＳＳＢ， ｗhich aｒｅ ｃｏｎ・・t-・g tｏ tｈｅ ｏｖerall sejsm14 Core dama8e freqｕency1‘ｅsｕlts，
+
+Sim・啣，ａ sｕbstａ・ａｌ ｃｏｎ・bｕU・ls Ｍsｏｃ・edｗith fajlｕrｅs of the･dieselleneratｏrs飢d associ一献ed】ｏａｄ ｃｅｎtｅr anchぽ・e fanぽes，Thesｅ ａｎ-choｒ・ｅs alsｏ ｍａy ｎｏt ・ｖｅ sｕfncient ・pacjty tｏｗjthsland earthqｕakes ａt leｖels of foｕr t・es tbeSSB.
+
+Ａｎｏther ａxｅａ ｏｆ ｇｅｎｅrlc intｅrｅst js tｈｅ ｃｏｎ・bｕ-tion dｕｅ tｏ ｖe・cal flat,･bottｏ皿ed stOr・e tａｎｋs，e･g･，refｕｄ・ｗatｅr st・・ｅtａｎ・・d condematestＱrage tａｎ・，Becaｕsｅ ｏｆ the Datｕrｅ ｏｆ tｈｅｉr ｃｏｎ一助ｕrat10n and field qrecll・ｐractices，脚ch tankｓ・ｖｅ ｏｆten been calcｕlated tｏ ・ｖｅ rel・ｖelysmaUeｒ ma・ｊｎ ｏｖer血e SSE tｂａｎ ｍｏst ｃｏｍｐｏ'ｎｅｎts ｉｎ ｃｏｍｍｅrｃｌａｌ ｎｕclear poｗｅy pla・s，01ｖｅｎthat ａＵ ＰＷＲs in tｈｅ Ｕ咄ed Statｅs ｕsｅ山ｅ refｕel･i・ｗａtｅr stｏya8e tank as tｈｅ ｐｄｍａ・sｏｕＴｃｅ ｏｆｅｍｅ・ｅｎｃy injectｌｏｎ ｗａtｅr 【ａｎｄ ｕsｕal】y the s０１ｅsｏｕrｃｅ ｕｎtll the recirｃｕlation phasｅ ｏｆ ＥＣＣＳ ｂｅ-glns)，鰄・ｅ ｏｆ the rｅ戝ieUIlg ｗater stｏr・e詒nkcan be e冲ｅｃted to be a sｕbst卸tial con・bｕtｏr tｏthe sejsmically jndｕced core damage ffeqｕｅｎｅy，Z.1?ｅａｃｈ Ｂｏttom Selsmlc A・lysls
+
+Ａｓｃ・be 6een ln Rgｕre 8.9，the domi・ｎt ｃｏｎ-tribｕtｏr jnl the seisｍｉｃ ｃｏre damage freqｕｅｎｃya・ly由is ａtfaml・t seqｕence bfo・ht aboｕt byloss・offsitｅ ｐｏ姆r. Ｔｈｅ ｌｏss ・offsltｅ ｐｏｗer isdｕｅ tｏ ・s・ca11y jndｕced faUｕrｅs ｏｆ ｏｎsltｅ ａｃｐｏｗｅr. Ｐｅａｃｈ Ｂｏttom has foｕr ｅｍｅrgency diesｅl
+8,･16
+｜
+口゛｀卜
+レ丶
+8，Ｃｏrｅ Ｄａｍａｇｅ Ｆｒｅqｕｅｎｃy
+8ｅｎｅrａtｏys， aU 8hared betｗｅｅｎ the tｗｏ ｕx11tss ａｎｄ　　sｃｅｎ・o js ｅvident ・Figｕre 8.11，ｗhich brea・仮)ｕｒ stａtlon battｅrles per ｕ・t，Thｕs，tlle爬ls a　　doｗn lhe llrｅ･lndｕced core damage frｅqｕｅｎｃy byhigh degrｅｅ ｏｆ redｕｎｄａｎｃy. Ｈｏｗｅｖｅr， aU djesels ・　Iocatｌｏｎ ｉｎ the plant. ?でｈｅ ｍｏst sig・ficlntphys・1rｅqｕｋｅ ｃＱｏ１１・ｐrｏｖided by tｈｅ ｅｍｅ・ｅｎｃy sｅ・ce ・ Iocation js tｈｅ ｅｍｅrｇｅｈｃy sｗilcbgear rｏｏｍ， lnthlsｗａtｅｒ systeml and falｕre lo prｏｖide this ｃｏｏ・ng .　rｏｏｍ， cable trａys Ior the tｗｏ redｕndant poｗerｗUI rｅsｕ】t・fanｕre of al】Ioｕｒ diesels.　　　　　　trａ・s ｗｅrｅ ｒｕｎ ｏｎｅ ｏｎ top of tｈｅ ｏther ・th ap'　　　　　　　　　　　　　　　　　　　　　　　　Ｄrｏｘjmatｅ】ｖ 8 1nches ・ｖｅ・cal sｅＤａrａtｊｏｎ・ａ
+　　　　　　　　　　　　　　　　　　　　　　　ｐrｏχjmatｅ】y 8 1nches ・ ie・cal separａtｊｏｎ・ａＴｈｅre is ａ ｖａrlety of肺is・ｃａＵy・dｕced eqｕlp-　ｎｕｍｂｅr of plant ａrｅａsl ｗhich glｖｅs rl卯叙)tｈｅｍｅｎt faU丗齠tltａt ｃａｎ ｆａＵ tｈｅ ｅｍｅｒｇｅｎｃy sｅ・ｉｃｅ　　ｃｏｍｍｏｎ ｖｕｌｎｅrab・ty of thesｅ tｗｏ systｅｍs dｕｅ t4〕ｗａtｅｒ systｅｍ ａｎｄ ｒｅ囮lt・ａ st・ｏｎ ｂｌａｃｋｏｕt，　絎ｅ.1n additｌｏｎ， tｈｅ Ｈａｌｏｎ ｎrｅ-sｕpprｅssｉｏｎ sys･Ｔ・se inclｕde failｕrｅ ｏｆ tｈｅ ｅｍｅ・ｅｎｃy ｃｏｏｌ・g　　tｅｍ・thls rｏｏｍ ｉs ｍａｎｕally actｕａted，
+tｏｗｅr，fa・ｕrｅs of the 4 kV bｕses (in the 餘ｍｅ
+ｍ亠亠ｒａs・s foｕnd'at Sｕrｒy》，ａ・・ｕｒｅｓoftｈｏＴｈｅ(lthgｒ pr叫吋jE!!xl鬯ｕt?リｎsp呷呷ly ａｃ-ｅｍｅ・ｅｎｃy sｅｒｖIce ｗａter pｕmps ｏr the emerｇｅＤｃy　　tｕａted prｅssｕrjzｅr ＰＯＲＶ， lntｈｊＨｃｅｎ球０，1jre-rｅ･dlesｅｌ ｇｅｎｅrａtｏｒｓ tlle・ie1ｖｅs，Ｔｈｅｖ・()ｕs ｃｏｍｂｉ-　　latｅｄ ｃｏｍｐｏｎｅｎt damage ・tｈｅ ｃｏｎtrol rｏｏｍ ｌｎ-ｎ・(珀s of the・failｕres reBｕlt in a la・ｅ回mber　　ｄｕdes ｅｏｎtf01 poｗerlfor ａ ｎｕｍｂｅr ・s・ｅty sys-・ｎｎtｅｎ・・ailｕrｅ ｍｏｄｅs ａｎｄ・ｖｅ rjsｅ tｏ ａ rela-　　tems， ＦｕU credit ｗas 81vｅｎ ｆｏr ・depeｎdｅｎcｅ ｏf
+　　ｏｆｐｏtｅｎtia・a・ｕrｅ ｍｏｄｅs and giIvｅ rjse to a rela-　　tiｖely hlgh frｅqｕｅｎｃy ｏｆ ｃｏre dama粐based・　　station blackoｕt， Ｎｏｎｅ ｏｌ thesｅ ｅqｕｉｐｍｅｌt fa・ｕre　　p加bablUtles is sｕb幽ｎtia・y greatｅr than ｗｏｕld be　　impUed by tｈｅ ｇｏｎ・ｅ緬gUity datａ ａｖaUab】ｅ･　　Ｈｏｗｅｖｅｒ，the崘h probab・ty ｏｆ ｅχceedan帥of　　la・ｅr eaｒthqｕake8 (ａs pre8・bed by the haｚard　　cｕfｖｅs for thls sitｅ)rｅsｕlts jn sI・ｎｃａｎt ｃｏｎ・bｕ･　　t１０ｎs of tｈｅsｅ ｃｏｍｐｏｎｅ・s tｏ the seis・c rjsk.
+
+　　li゛iｒｅ Ａｎａｌysis Obsｅrｖａtlo瑚
+
+　　Ｔｈｅ ｃｏrｅ ｄａｍ・ｅ】lkelihood dｕｅ to a 吩ｅ・ａｎy　　particｕlaｒ ａｉｅａ ｏｆ tｈｅ ｐｌａｎt dep・ds ｕｐｏｎ the ffe･　　qｕｅｎｃy of ignitjon of a flrｅ ｉｎ the 紅ａａ，the　　amoｕｎt ａｎｄ xlatｕyｅ ｏｆ ｃｏｍｂｕstible mat・al・t・t　　・ｅａ. tｈｅ ｎａtｕrｅ 呷ｄｅｍｃａｃy of the 丗ｅ･s叩pr邨‘　　sＩｏｎ systｅｍs・that ａyea， ａｎｄ the jmpoitａｎｃｅ ｏｆ　　tｈｅ ｅqｕlpmeχlt located ln that area， as ｅｘpressed　　in the potｅｎtlal of the loss of that ｅqｕipment tｏ　　・啣ｅ ａ ｃｏｒe dama8e accldent sｅqｕ・ce. Ｔ・　　ｍｅtｈｏｄs ｕsed・the絎ea・lysis arｅ ｄｅs・bed・　　Api)・dlｘ A and ・Ｒｅｆｅrｅｎｃｅ ８.7; Sect１０ｎ Ｃ,12　　0f Appendlχ Ｃ ｐrｏｖides addit10nal perspecUｖｅs ｏｎ　　the fiｒｅ ａｎａｌysis，
+
+　　1，Sｕrｒy ？|rｅ Ａｎａｌysiｓ
+
+　　Rgｕre 8.10 shoｗs tbe do・ｎａｎt ｃｏｎ・bｕtｏrs tｏ　　ｃｏre damage jｒｅqｕｅｎｃy re脚lti・fｒｏｍ tｈｅ Ｓｕrry　　nrｅ ａｎａｌysis. Ｔｈｅ ｄｏｍｉｎａりt ｃｏｎ・bｕtｏr ls ａ trａｎ-　　sient rａｕld・ln a rｅａｃＩｏr ｃ００１ａｎt pｕmp sｏａｌ　　ＬＯＣＡ，ｗhich・ｎ ｊｅａｄ tｏ ｃｏｒe dama粐.Ｔ・sce-　　narｉｏ　ｃｏｎslsts　of　a　ljｒｅ　ｉｎ　ｌｈｅ　ｅｍｅ・ｅｎｃy，sｗltchgear ｒ００ｍ that dam・ｅs poｗｅr ｏr ｃｏｎtrｏｌ　　ｃａｂ】es鈿r the high･prｅssｕrｅ・jectｉｏｎ ａｎｄ ｃｏｍｐｏ･　　ｎｅｎt ｃｏｏｈｇ ｗater pｕmps. No additlonal rａｎｄｏｍ　　ｆａ・ｕrｅs arｅ.req・red for thjs scenaｒlo to lead tｏ　　ｃｏrｅ ｄａｍａｇｅ. lt shoｕld be' ｎｏted that ｃredit ｗａs　　81ｖｅｎ ｆｏr ｅχisll・血e-sｕpprｅ・ｏｎ systｅｍs and for　　rｅｃｏｖｅry ｂy ｃr・sｐｏｎｎｅｃti・hlSh･prｅssｕre injec-　　t10n fｒｏｍ tｈｅ ｏther ｕ・t，Ｔｈｅ ｌｍｐｏｒtａｎｃｅ ｏｆ thjs
+the rｅｍｏtｅ 由ｕldoｗｎ ｐａｎｅ・rｏｍ tｈｅ ｃｏｎtrol rｏｏｍｅｘｃｅｐt・the casｅ ｏｆ ＰＯＲＶ ｂ】ｏｃｋ ｖalｖes; djscｕs･sｉｏｎsｗi山ｕtnity persｏｎねel・dicated that ｃｏｎtr01poｗｅr for the8e ｖalｖｅs ｗ紹ｎｏt jndependentlyｒoilted.
+
+2，ｒｅａｃｈ ｌＱttｏｍ ＦＩｒｅ Ａｎａｌysls
+
+詞舮re 8,10 shoｗs the mechanisｍs by ｗhich firｅｌｅａｄs tｏ ｃｏｒｅ ｄａｍａｇｅ ｉｎ tｈｅ Ｐｅａｃｈ Ｂｏttｏｍ ８ｎａｌy･sjs.Stａtion blackoｕt accidenls arｅ tｈｅ ｄｏｎ)・劭tｃｏｎtrlbｕtｏr，ｗitｈ sｕbstan幽I con・bｕtｌｏｎs alsｏｃｏ・・from fjrｅ,lndｕｃｅｄ trａｎslents ａｎｄ ｌｏssｅs ofoflsltｅ ｐｏｗｅr. 'ｎｌｅ relatiｖｅ ｉｍｐｏｒtａｎｃｅ ｏｆ the ｖarj･ｏｕｓ physical Iocatｉｏｎs is sboｗｎ ｉｎ 葯gｕre 8.12，1凵s ｅｖldent frｏｍ 詞gｕre 8j2‘that ｃｏｎtrｏ】rｏｏｍ伽ｅs ａre of considerable sig・ｎｃａｎｃｅ ｉｎ the firｅａｎａｌysIs of thjs plant. Fiｒｅs ｉｎ ｌｈｅ ｃｏｎtr01 rｏｏｍｗｅre diｖlded intｏ tｗｏ sｃｅｎ・ｏs，ｏｎｅ ｆｏｒ iires i・ti･ａt・g jn the rｅａｃtｏr ｃｏre isｏ】ｄｏｎ ｃ００】1・(ＲＣＩＣ)systｅｍ ｅａｂｉｎｅt ａｎｄ ｏｎｅ ｆｏr a11 0tｈｅrs， Ｃredltｗasがｖ・foｒ aｕtｏｍａｄｃ ｃycli・of thg RCIC systｅｍｕｎｌｅss the flre j・tiated ｗithin蛎ｅｏｎtr01 panel，Ｂｅｃａｕsｅ・t・cab・ｅt ｃｏｎｎｇｕrａtｊｏｎ ｗI山ln thｅ
+cｏｎtrbl rｏｏｍ， the nrｅ ｗas
+and damageｗｈｅrｅ the fifoｒthe po・ｗitｈｉｎ thｅ l
+r００ｍ ｉs c(jnｕｎｕｏｕsly occｕｐｌｅ(1･ tioｗｅｖｅr. sｎｏｕlathes6 efforts fa・，ｅｖ・ｗith high ｖｅｎtil・ｏｎ ratｅs，
+8-17
+出ｅse sｃｅｎ・ｏs ｐｏstｕlatｅ ｆｏrｃｅｄ ａｂａｎｄｏｎｍｅｎt oftｈｅ ｃｏｎtrol rｏｏｍ ｄｕｅ tｏ sｍｏｋｅ ｆrｏｍ the fire andsｕbsｅqｕｅｎt plant ｃｏｎtrol frｏｍ the rｅｍｏte shｕt-doｗn pane1，
+The cable spread・μ００ｍ ｂｅｌｏｗ tｈｅ ｃｏｎＵ･ol ｒoomis significant bｕt ｎｏt ｄｏｍｉｎａｎt､ln tｈｅ ｎrｇ ａｎａｌysjs，Ｔｈｅ sｃｅｎａｒ10 0f・tｅrｅst ls a firｅｊｎｄｕｃｅｄ trａｎs・ｎtcoｕpled破h fire-related fajlｕrｅs of tｈｅ ｃｏｎtrolpoｗｅr for the hlgh-pressぼｅ ｃｏ０１ａｎt iｎjecUｏｎ
+NＵＲＢＧ-1150
+l゛･1･
+ｉ
+8，Ｃｏrｅ Ｄａｍａｇｅ Ｆrｅqｕｅｎｃy ，
+systｅｍ，the rｅａｃtｏr core jsｏ】atｌｏｎ ｃｏ０１１・systｅｍ，　gr94nltlated‘ ｃｏre damage sｅqｕｅｎｃｅs ａrｅ signin･the aｕtｏｍ・c depｒｅssｕ由・ｏｎ systｅｍｌ ａｎｄ tｈｅ　　ｃａｎt・the tｏtal probab拑醵Ic analysis ｏｎｈｅ tｗｏ'ｃｏｎtrol rod drlｖe hyｄｒａｕ恥systｅｍ.Ｔｈｅ ａｎ・ysIs　　plant8 analyｚed， Ｍｏｌｅｏｖer,thesｅ ａｎａｌysｅs ahadygaｖe credit tｏ tｂｅ ａｕtｏｍａtｉｃ ＣＯ２ ｆｌrｅ,sｕpprｅ・ｏｎ　　・clｕｄｅ ｃredlt for the flre prｏtｅ・ｏｎ ｐrogrａｍs rｅ-'systｅｍ ｊｎ this area，　　　　　　　　　　　　　　　　　qｕired by Appendiｘ Ｒ t０ １０ ＣＦＲ Ｆａrt 50，
+The rｅｍａ・ing physical areas of sIlln・ｃａｎｃｅ町ｅtｈｅ ｅ・ｅrgency s咄ｃ・e8r rｏｏｍs. Ｔ・firｅ４ｎ-dｕｃｅｄ ｃｏre damago frｅqｕｅｎｃy is do・ｎ・d byｎre damage tｏ tｈｅ ｅｍｅ・ency sｅ・ｃｅ ｗatｅr systｅｍ・ｃｏｎｊｕnctj・ｗith random fal・ｅs ｃｏｕpled ｗjthnrｅ-lndｕcea Ioss ol offsjtｅ ｐｏｗeｒ･ ln aU eightｅｍｅrｇｅｎｃy sｗitｃ・ｅａｒ ｒ００ｍs (foｕr sｈａred be-tｗｅｅｎ the tｗｏ ｕ・ts)，both trａ・s of offslte poｗｅra爬ioｕted.lt ｗａs ｎｏted t・t・ｅａｃｈ ｏｆ these ar-eas tｈｅre arｅ ｂreaker ｃｕblcIos for tｈｅ ４ ｋＶsｗitchgear ｗitｈ ａ ｐｅｎｅtｒ・ｏｎ ａt tｈｅ toi)that・sｍａｎysmal】ｃａｂｌｅs rｏｕted tｈrｏｕ凾jt.ＴｈｅＳｅ ｐｅｎｅｊtrat１０ｍ ｗｅre inadeqｕａtely sealed， ｗhlch ｗ・ld al-loｗ a flrｅ tｏ spread tｏ ｃａｂｈＳ that ｗas ｄｋｅｃtlyａｂｏvｅ the sｗitchgear rｏｏ加，Thls cablj・ｗas ａ sｕf-licient fｕe1 sｏｕrce for the 絎ｅ to caｕsｅ ａ yapld for-ｍａtｉｏｎ ｏｆ ａ ｈｏt gas 】ayｅｒ that ｗｏｕld then lead tｏ ａｌ(jss of oflsltｅ ｐｏｗer. Since botｈ ｏ・sitｅ ｐｏｗer andtｈｅ ｅｍｅ・・cy sｅrｖＩｃｅ ｗａter sy6tｅｍs arｅ ｌｏst， ａstation blackoｕt ｗｏｕld occｕr，
+みltｈＯＵｇｈ t・呻）
+plants .arｏ　ｏｆ　ｃｏｍｐｌ嘸ly
+djffeχｅｎt design， ｗith completely differｅｎt fire-j・tiatｅｄ ｃｏｉｅ ｄａｍ・ｅ scen・ｏs，tlle posslbinty ｏｌｎrｅs jn tｈｅ ｅｍｅ・ｅｎｃy s咄ｃ・ear ａreas is jmpor･tant・both plants. Ｔｈｅ ｊｍｐｏrtance 01 tｈｅ ｅｍqr･gency sｗjtchgear rｏｏｍ ａt Sｕrry ・partjcｕl・yh柮hbecaｕsｅ ｏｆ tｈｅ sｅａｌ ＬＯＣＡ 鹿e・11o，Ｆｕrtller，tlle・portance of tｈｅ ｃｏｎtrol t００ｍ ａt Sぼryjsｃｏｍｐａ-rable tｏ tllat of the contr01 rｏｏｍ ａt Peach Bottｏ珀，
+Pｅｒ・ectiｖｅs: Ｇｅｎｅｒal Obsｅrｖａtio・ｏｎＡｎａｌysis ｡
+This is ｎｏt sｕ・li・・in ｖieｗ of thg potｅｎ山口ｏ『s・ｕ11aneoｕs餓1吹ｅ ｏｆ sｅｖeral systｅｍs by firｅs lntｈｅsｅ ａreas， ThUs，in the past sｕｃｈ ａreas havｅｇｅｎｅｒａＵy ｒｅｃｅ・dpa・ｃｕlar ａttｅ・ｏｎ・flre prｏ'tｅｃtl・progyａｎｌs.lt slioｕld als{}be noted tｈａt thesjpificancQ of ｖａ・ｏｕs areas alsｏ ｄｅｐｅｎｄs郤ｏｎthe sｃｅｎs・ｏt・t leadｓ tｏ ｃｏrｅ ｄａｍａ辟.Ｆｏrｅｘａｍ･
+　　　　ｐｌｅ，the importａｎｃｅ ｏr tｈｅ ｅｍｅ・・ｃy sｗitchgearFiｒｅ　　rｏｏｍ ａt Sｕrry coｕld be altｅred (if desIred)ｎｏt　　　　ｏｎｌy by ｍｏrｅ 丗e prｏtectjon program8･bｕt alSo by　　　　c・・e8・出epro bab戝y ｏt the rｅａｃtｏr c001ant
+Flgｕres　8.7　and　8､8　cle・y　ind・tｅ t・t　　pｕmp seaOaUｕre，
+NＵＲＥＧ-1150
+8-18
+
+:東電福島第一事故にづいて　”　　.　　　”　‘　　　’-　｀‘:　　　　　･゛　　｀’　万゛’･　｀I　°｀.　･　’　　･･l　　　j　　゛　　　　十十　近藤駿介十　レ　Ｖ
+原子炉安全の歴史……
+・人里から出力に応じた適当な離隔距離Rをとれるところに立地すること　1=び～P物理的安全ニ　　　　　　　レ
+・　原子炉暴走時の発生エネルギーは負の扨応度フィードバックを備えるご　とにより制限できる今格納容器の導入で離隔距離を短くすることを容認:　原子力発電の始まり　　　　　　　　　　　　　　　レ　犬　　／・格納容器は炉心溶融時に機能するか？今緊急時炉心冷却システム
+　气ECCS)の設置　　　　　　　　　　　　　　＼　　＼　　　卜
+・こうした工学的安全施設はどこまで信頼できるもめであるべきか今Hoｗ　safe iS saf･ざｅｎｏｕgh?信頼性論争の始まりレ　･･.･･・　　　　　･.
+/Ｔ・狸譴姦誼鋩齟諏冐Ｐ)実｀卵昜釧゛辟
+　－リスク評価の実施:
+・回懇詣兵胥払劭4急茹防格納容器４ントの活用等のシビアアク　　　　　　　　　　　　　　冫　　　　　　　　　　　　　　　　　　　　ａ　　　　　　　　　　　　　　　　　　　　・　　　　●・安全目標(世界に１０００基の原子炉があるとして、ｽこれの大事故は、人　がそれについて一生のうちに一度きくことがある程度まれなものにすべ　き)の達成には、　　ご　　　　　　　　　　　　　　▽　　　　　　　　　－
+一設計基準事象には再帰期間が１００００年の事象強度を選ぶこと
+亅斷扇區鱗腮鶏瞎劈苓榮忽尸ヤJI二ヽ゛　　嵋　　　●　　　　　　　　　　　　　　　　　　　　　　　　　　　Ｉ　　　･●　　　　¶
+　　　　　　　　　へ｡･　　　　　　　　　　　　　　　　　　　　　　　　■　　・・J
+　　　　　　＝
+
+ＲｅｆｌＴｅｃt:こご:io犬:ｎｓ……:○｡･･ｎﾐFｕ:kｕlshllrｎ/=ａ
+　19th lntｅｍａtｉｏｎａｌ ＣｏｎｆｅrｅｎｃｅしＯｎＮｕｄｅａrEngineefing (ICONE19)。Oct汕ｅr 24-25， 20110saka．Ｊａｐａｎ　　　　　　　　　　　　　　　　　　　　　Ｄr; Nils｣.Ｄｉａｚ
+Ｍａｎａｇｉｎｇ Ｄｉrｅｃtｏr; Ｔｈｅ ＮＤ２ Ｇrｏｕp， .LLC Chairｍａ.ｎ，ASMEこTI･ｓkForce-Japan Eｖｅｎts
+Ｎｕｄｅａｒ匸PoｗｅrＢｅｆｏ･『ｅ犬Fｕ=kｕ:=s=hiｍａ
+○
+○
+○
+＠
+25 yｅａrs ｗithoｕt ａ ｎｕclearrｅａｃtｏr ａｃｃｉｄｅｎt prｏｖided assｕrａｎｃｅ ｏｆ sａｆｅtyｗｏr!dｗide.Ｔｈｅ tｗo prior ａｃｃｉｄｅｎts:　　　　　　　＝
+－　ＴＭＩ: LightＷａtｅr Ｒｅａｃtｏr (LWR)，:caｕsedここby=こintｅrｎａｌ ｅｖｅｎt (ｏｐｅｎ ｖalｖｅ)and　　　hｕｍａｎｆａｃtｏrs,rｅsｕlting ih coi^e degradatｉｏｎﾀﾞbｕt ho二pｕblichealth＆　　卜　　　sａｆｅty/ｅｎｖirｏｎｍｅｎtａｌ ｅ幵ｅｃts･
+一　Ｃｈｅｍｏｂyl: Ｇraphitｅ＼Ｒｅａｃtｏr; ｃａｕsed by intｅｍａｌ ｅｖｅｎt, ｍａｊｏr ｅrrｏrs ｉｎ
+　　　ｏｐｅrａtｉｏｎ(hｕｍａｎ ｆａｃtｏrｓ)。rｅsｕltｉｎｇ ｉｎ ｃｏrｅ ｍｅｌting/bｕming， ｕｎｃｏｎtrｏ・ed　　　rａｄｉｏａｃtiｖｅ rｅｌｅａsｅｓ ｗitｈ ｍａｊｏr pｕblic health ＆ sａｆｅty ａｎｄ ｅｎｖirｏｎｍｅｎtａl
+　　　ｃｏｎsｅqｕｅｎｃｅs，　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　。.
+No LX/ＶＲ ａｃｃｉｄｅｎt ｕｎtil Fｕkｕshi・a had rｅsｕlted in significant ｅｘtｅｍａrrａｄｉｏａｃtiｖｅ ｃｏｎtａこｍｉｎａtｉｏｎ.
+Ｎｏ ｅｘtｅｍａｌ ｅｖｅｎt bさfore Fｕkｕshimarｅsｕltｅｄ ｉｎ ｃｏredegrａｄａtｉｏｎ ａｎｄｕｎｃｏｎtrolledrａｄｉｏａｃtiｖityrｅｌｅａsｅ(inclｕding Arｍｅｎｉａ).
+Regardless of initiating eｖents, ａ ・ａｃｃｉｄｅｎts rｅsulted in loss ｏｆ ｃｏrｅ
+ｃｏｏｌｉｎｇ ａＴｆtｅrdeficient ａｃｃｉｄｅｎtＩｍａｎａｇｅｍｅｎt……ａ=ndhｕｍａｎ ｅrrｏrs。
+ＷＩ＝－－-－-
+Rｅｆｌｅｃtｉｏｎs ｏｎ Ｆｕkｕsｈiｍａ
+　19th lntｅｍａtｉｏｎａｌ Ｃｏｎｆｅrｅｎｃｅ Ｏｎ Ｎｕｃｌｅａr Ｅｎｇｉｎｅｅring(ICONE19)，０ｃtｏｂｅr 24-25,j=2011'Ｏｓａｋａ,Japan　　　　　　　　　　　　　　　　　　　　　　Drl NilS｣.Ｄｉａｚ
+Ｍａｎａｇｉｎｇ Ｄｉrｅｃtｏr; Ｔｈｅ ＮＤ２ Ｇrｏｕp， LLCChairｍａｎ; ＡＳＭＥ Ｔａsk For呻りａｐａｎﾐ=ＥＶｅｎtS
+The Fｕkｕshima Daiichi Nｕｃｌｅａr=………PI=ａｎt Ａｃｃｉｄ６:hts，
+What shoｕld haｖｅ犬happened?　　　　　　　　　　　　…………にﾉ………………
+゜　Ｐｒｏｖｉｄｅ ａｄｅｑｕａｔｅ卜ｈｅａｔｒｅｍｏｖａ:lforthe rｅａｃtｏr ｃｏrｅ::ごａ:･:回:･jO･.゜:宍Iyj.り.･jl lii･･y4j呂万fり･･.ty-　　ｈｅａt sｏｕrｃｅs ｅｖｅｎ ｄｕrｉｎｇ ａｃｃｉｄｅｎt卜ｃｏｎｄｉtｉｏｎs.　　　　　……jj……:……白………くj:万……………ﾉ………:.･ j
+rｅｌａtｅd
+　　－Ｔｈｅａｂｏｖｅしｄｏｍｉｎａｎt rｅａｃtｏr sａｆｅty ｃritｅria is ｍｅt by: ｍａ・t汕ling corｅ
+　　　　ｃｏｏ・ng; ｍａｉｎtaining co011ng of sｐｅｎt =fｕel pools; ｍａｉｎtａ緋iﾚ・ｃｏｎtａｉｎｍｅｎt　　　　integrity; ｍａｉｌｎtａｉｎｉｎｇ ｃｏｍｍａｎｄ ａｎｄ ｃｏｎtr(:)|;ｅ幵ｅｃtiｖｅ:・ddをｎt
+　　　　ｍａｎａｇｅｍｅｎt ｃｏｍｐｌｅｍｅｎted万by):ｅｍｅrgerlcy prｅｐａrｅｄｎｅss………:ytｏ:prｅｖｅｎt ｏr　　　　minimizｅ radiological rｅｌｅａsｅstｏ:ﾉthe pｕb・cand tｈｅ ｅｎｖirｏｎｍｅｎt，
+VVhat happened?，
+゜￡○∬・ρｏｗｅr ｒｅ５・ted・/ａｃだ○/｀力ｅａｔｒｅｍｏｖ・ａｎ･ｺﾞｃｏｒｅ]:ｹﾞヴｅ:gyyＴｏｄａね'ojり･゜Ｍｕlti-ｕnit rｅａｃtｏr ａｃｃｉｄｅｎts， ｍｏst ｃｏｍｐｌｅｘ ｎｕｃｌｅａr poｖ唖r=……sｃｅｈａ=rios
+°　ｅｖｅｎ
+・Ａ ｍａｊｏr ｅｎｖirｏｎｍｅｎtal radiological contａｍｉｎａtｉｏｎ， apjparｅｎtly ｗithoｕt　　sｅrioｕs radiological pｕblic health and sａｆｅty ｃｏｎsｅqｕｅくｎｃｅs.
+　　　事故は何回故し防･1ずなかったのか
+Ｔ東大原子力ＧＣＯＥによる『ご意見を:聞く会』からｰ
+東大原子力ＧＣＯＥ東大原子力こ国際専攻
+特任教授特任助教教授
+本楽尾寿
+田
+中　知
+尾本、寿楽、田中
+ヽ
+心’
+″４’４　１４　４、Ｉ　４、４　゛｀讐一１９冖で黔ご．‘Ｊ冫１’Ｕ
+　　ｑｔｌｂＵｌｉＤｉｌｔｌｆ~ｌ
+
+　　　１４ｑＭＩＪ１１＆11'ＭａＪ
+9２……………:…………S;４
+二心　　　　ｓ２　　　　’ｐ６ａ叙Ｇ阿４ｎ苓鳥ζｇ４杤91衂濆lｐａａl
+尾本、寿楽、田中
+こ
+
+
+
+
+
+
+丶丶～.、‘
+尾本、寿楽、田中
+/゛.心＿･･
+=-ivia ＝
+尾本4･､.犬寿万楽、∧田中
+心、｀心･’
+/”へ、-Xy
+・・　・■・■■■■■,･･・-I■・■・・■・・・
+
+
+
+　　　ミ
+尾本、寿楽、田中
+心
+尾本、寿楽、田中
+／~
+
+
+
+
+
+
+丶へＷミ”
+尾本、寿楽、田中
+/￣
+一一一一一一－
+一一一一一一●
+”　一
+尾本、寿楽、田中
+≫国
+=ふW・XI
+ｙ／＝-Ｓ ４≒～＿｡。，
+・・-V〃W
+一一一一一
+
+-･〃-"♂
+;:なｿﾞｶ夊]疑ﾃﾞ問
+一一
+ｻﾞ1≡巨;=〕ノＪ]:ｚｘｔ￡ﾉﾐｃ=ｒl冫ヌロプ冫Is;7=･=:･=ｙｗｿｇｘｽﾌ………万1万.･ｉ=･|･=ﾌ冫j.･1･.ｌytﾔ1懦Ｐ･.:.ilｙ]こ:４亠=こｙﾉｽﾞj詢じ|エプで日プフリリーダーシヅプを持うこた人材不ﾉ足仁:崟うした沓懲……:iま･
+尾本、寿楽、田中
+≫危機管理に際しての指揮命令犬系統/指揮者の能力の)問題
+≫官邸災害対策本部における規制行政の役割が不明瞭不……適=切で能力　の発揮ができなかった
+≫危機管理における責任分解点が不明で、濘態への対処遅れと混乱≫安全設計はあっても防災がおろそかであったにの狭宍=t(:ﾉ::ﾔ9,国=土で絶対　事故を起こしちゃいけないと言うのが第一世代:の安全皇にあこ:=ま===万､ﾘ:宍=lども　強すぎて、安全設計の方に重点を置きすぎた)　　:::　　　　ダ
+冫修羅場の話を真剣にやってきていない　　　　　　　し
+≫本当にアクシデントに拡大していく段階のところで、もづ/とましな……=宍対=応　ができたんではないかという思いがある　　　　　　………
+≫ロシアの人は、何故こ自こ:::こ衛.隊をこ.･･出万.して早期仁除染回しなしﾐﾐこ丶.･万万=宍:.の:.jJｶ'ヽと言づって　いる．危機管理に問題　　　　　　　　　卜　　　……万ﾉ::ﾉ･.･ j.　　二冫原子力村の問題と規定するよｰりも社会全体のリスクガバナンスのノ問　題として考えるべき
+尾本、寿楽、田中
+
+"I丶－I－〃・
+矢卅元基(原子力゛回･学会誌巻頭言Ｖφ:153｡/N6･j10.)
+≫欧米･.･:|原==..一子：カ･.･先･進:=万=一国･弌?j:･ﾐ1万ま.:=1.=回･､多･=･:･<.･.の･･･.:基万:･礎'ﾉ研.:･.ﾉ:究=:を･･積=･.:み.･.一重.ね･ながら、時には
+　失敗もしながら知識を蓄えそﾉの集大成として原子力利用技術を獲得．
+　一方、わが天国では逆の道を辿ってきた．
+≫日本人特有の器用こさで物づくりとして=は世界一の製ﾉ品を作ってきた　かも知れないが、どこかにまだ借ﾉり物技術このひ=弱さが見られないだ　ろうか　　　　　　　　　　　　　　　　　　　　＼
+D.Klein(前USNRC委員長,Ripon F(t)rｕｍ,Sｕｍｍｅr2011)
+冫The LL frQm /Fｕkｕsｈｉｍａ ａre miE!ｎy, bｕt ｗhat ｍａy be sｕrprisingis hoｗ　feｗ ｍａy･ａｃtｕａ・y apply tｏ .ＵＳ ｐｌａｎts･
+≫ln a cｕltｕrｅ ｗhere it is impolitｅ tｏ sａy ″ｎｏ″ ａｎｄ ｗherｅ ritｕal mｕ虻be　obsｅ・edbeforｅａｌrelsｅ,lthink that Ｗｅstqrn style ″safety ｃｕltｕrｅ″
+　ｗi・be ｖｅry hard for theﾉＪａｐａｎｅsｅ tｏ∇:ａｃ:cepｔ/Bｕt二ａｃｃｅｐt tt theｙ ｍ ｕst if　they ｗａｎt tｏ ａｃｈｉｅｖｅ ｅｘｃｅ・ｅｎｃｅ.
+尾本、寿楽、田中
+原子力総合シンポジウム20110Ct
+
+1.事故の遠因(東大津田)
+ヽ／構造強度偏重
+ヽyT省庁間の連携不足で安全確保に国が真剣に取づり組まず
+ヽ／品質問題に拘り、大局を見失う
+ｙスクラム頻度などからくる安全への過信
+ｙ基準改定の困難さが新技術を拒絶
+ｙ責任所在不明(審議会委員会での決定の中、責任卜回者･:･.=万力･夕･:g不.･･一明)
+／専門化不在の規制
+
+２．　
+Ｍ９の地震はプレートの沈み込み速度が速い所で発生ｹﾞ(チTﾘ型)し、移動速度が遅い(マリアナ型)所はM7級．東北太平洋沖擂串間でこM8
+ラスマトラ地震(M9.1，マリアナ型)h廴移動速度が遅い所で発生し、従来の考えは疑問視され、すべり残しによる700年に一回回の::ﾉ万スム=j:万二八－サイクルモデル提示(2008,2011け地震本部は2002年の｢三陸沖から房総沖の地震活動の長期評価｣の改訂準備中であった　　　　　　　　几Ｏ
+尾本、寿楽、田中
+｀～Ｗ一／
+この規模の地震津波を地震本部を含め想定できていなかったが、原子力災害は防
+げた/防ぐべきだった今
+尾本、寿楽、田中
+1｡｢予見が難しくとも対策されるべきだった｣との見方ﾉが強い‥
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　・　　　　　■■　■■■　■
+　　未曾有の地震津波を地震本部も『想定外』としたように予見し難<、
+　　｢何故防げなかったか｣という設問は不適切ﾉとする意見はなか
+2｡長年の原子力界での活動により得られた知見こに立うだ洞察とIまいえ、因果関係の検証を伴わないと、憶測に留まり根本原善ぱ解ﾉ明されない
+可能性があるとの問題を感じた、　　　　　　　　∇
+3.｢何故、津波への感度が低かったのか｣という分析よﾉりも、｢事業者の安全文化の劣化｣｢規制の失敗｣｢多様な意見を聞がない文化に問題｣『個人の責任が曖昧』といった、言わば事故が無くでも指摘可=能であったかもしれない分析(あるいは課題)が多く提起された
+4汀安全文化の劣化｣などの指摘に関し、｢その進亢を防ぐ提言/行動を妨げたものは何だったのか｣との問いかけにＪ殿様体質4JTﾌﾟ国策ﾉﾕ民営体制｣という原子力運営体制/体質問題を挙=げる答えが多かった
+
+
+
+
+Rｅｆｌｅｃtｉｏｎ=s……,ご･○こｎ:一犬=F……ｕ万k:ｕ==s:万一ﾕjh･=i回『ｎﾉａ
+　19th lntｅｍａtｉｏｎａｌ Ｃｏ・ｅrｅｎｃｅ Ｏｎ Ｎｕｃｌｅａr Ｅｎｇｉｎｅｅring (ICONE19)，０ｃtｏｂｅr24-25，20110sａｋａ,Ｊａｐａｎ　　　　　　　　　　　　　　　　　　　　　Ｄr.Nils｣.Ｄｉａｚ
+Managing DirectｏらＴｈｅ ＮＤ２ Ｇrｏｕp， LLC Chairｍａｎ， ASME Task Forceｒ Japan Eｖｅｎts
+ＵＳＮ:ｕｄｅａrｐＯｗｅrPlants:ＲｕlesandjStａtｕs
+°TheUS is ｗｅ・prｅｐａred -ｏｖｅrａ・-tｏ ｈａｎｄｌｅ sｅｖｅrｅ ｅｘtｅｍａｌ ｅｖｅｎts，
+　　ｃｏｍｍｅｎsｕrａtｅｗithrｅｇｉｏｎ-ｗisｅ ｐｈｅｎｏｍｅｎａ，
+゜　Ｕ.S. ｎｕｃｌｅａr plant deｓigns ａrｅ rｅqｕired tｏ ｃｏｎsider tｈｅ ｍｏst sｅｖｅrｅ ｏｆ tｈｅ
+　　ｎａtｕrａrｐｈｅｎｏｍｅｎａ°that haｖｅ………been histｏrｉｃａ・y rｅｐｏrted 仮〕r the sitｅ ａｎｄ
+　　sｕrrｏｕndingﾐａrｅａｗithsｕ幵ｉｃｉｅｎt ｍａrgin tｏ ｅｎsｕrｅ匸perforｍａｎｃｅ ｏｆ sａｆｅty
+　　fｕｎｃtｉｏｎsｊｎｄｕding5eismic eｖｅｎts,floods,tsｕｎａｍｉs，hｕrrｉｃａｎｅs,tｏｍａｄｏｅs･
+゜U.Sﾚｎｕclearpoｗｅr plants arｅ ｄｅsigned tｏ ｃｏｐｅ ｗith a stａtion blackoｕt ｅｖｅｎt
+　　that inｖolｖｅs ａ ｌｏss ｏｆ ｏ幵sitｅｐｏｗｅrａｎｄ ｏｎｊtｅｅｍｅrｇｅｎｃy:pQｗ=ｅrｌ Ｔｈｅ ＮＲＣ's
+　　detailed stａtｉｏｎ ｂｌａｃｋｏｕt regｕlatｉｏｎs ａt 10 CFR50.:63 addrｅss this sｃｅｎａr10， ａｎｄ　　ｎｏｗ B,5.b sｕpported.
+＠　'　ln the aftｅrｍａth of the 9/11 tｅrrｏrist ａttａｃｋｓ， tｈｅ ＮＲＣ ｍｏｖed qｕickly tｏ ｅｎsｕrｅ　　that sａｆｅty ｍａrgins ｗｏｕld be'ｍａｉｎtａｉｎｅｄ ｕｎｄｅr ｅｘtrｅｍｅ ｃｏｎｄｉtｉｏｎs like life firｅs　　and eｘplosｉｏｎs. Ｔｈｅ sｏ-ｃａ・ed]BJ54b∇｢qqｕirｅｍｅｎtｓｏｎｏｗ codified， do prｏｖide eｘtrａ　　ｍａrgin for prｅｖｅｎting, minimiiih皀こ……:alﾔld::ｍａｎ:aging rｅａｃtｏr accidents, ａｎｄ ｗｅrｅ
+　　ｅｎａｃtｅｄ ｏｎ the basis ｏｆ ａｄｅqｕａte prｏtｅｃtｉｏｎ， ｅｖｅｎ thoｕgh they ｗｅrｅ ｃｌｅａrly
+　　significantly beyｏｎｄ the deｓign basis of rｅａｃtｏrs.
+　　　　　　　　　-J･　　　　　　　　　　　　　　　　　　　　　　　　　　w.･
+Ｒｅｆｌｅｃt,１０ｎｓｏｎ Ｆｕ･kｕｓhi==ｍａこい……
+　19th lntｅｍａtｉｏｎａｌ Ｃｏｎｆｅrｅｎｃｅ Ｏｎ ＮｕｃｌｅａrＥｎｇｉｎｅｅring(ICONE19)，０ｃtｏｂｅr 24-25。/201jj;10saka，Ｊａｐａｎ‘　　　　　－　　　　　　　　　　　　　　　　　　ＤrlN・s｣.Ｄｉａz　　　　　　　　　　　　‥‥,‥‥‥‥
+Ｍａｎａｇｉｎｇ ＤｉrｅｃtＯr; Ｔｈｅ ＮＤ２ Ｇrｏｕp， LLC Chairｍａｎ， ASME IElsk F(jr(iむ二……=万=:Ｊａｐａｎ ＥＶｅｎts
+Sｅｖｅrｅ Ａｃｃｉｄｅｎt Ｍａｎａｇｅｍｅｎt Ｃｏｎsiderａtｉｏｎs － B．5↓b＼－
+・The NRC Stａ幵and tｈｅ ｎｕｃｌｅａr indｕstry deｖeloped gｕidance in 2005 for
+　　ｉｍｐｌｅｍｅｎting B．5．b rｅqｕirｅｍｅｎts，inclｕdingﾐｂｅst………prａｄｌねe:s:………ａｎｄ言trａtegies　　for mitigating lossｅs of larｇｅ ａrｅａs of the plant ａｎｄ ｍｅａｉｕ:『らﾉtａ=ﾉｍ我igate　　fｕｅｌ ｄａｍａｇｅ ａｎｄ ｍｉｎｉｍｉｚｅ radiological rｅｌｅａsｅs， ｕsingｿﾞQjlT卜sitｅこﾐａｎｄｻ:回off-site　　prｅ-deployedrｅsｏｕrｃｅs。
+・The B.5.b rｅqｕirｅｍｅｎts addrｅss Ioｗ-likelihood， high-ｃｏ応ｅqｕｅｎｃｅ ｅｖｅｎts　　thatｗａrrａｎtｅｄ ｅｎｈａｎｃｅｍｅｎts tｏ ｄｅｆｅｎsｅ-in-depthパe啝Sfi:h白ingth:ｅｌｅｖel of　　prｏtｅｃtｉｏｎ that ｗａs rｅ痂lrｄｅｄ ａs ａｄｅqｕａtｅ･
+゜Practｉｃｅs incIｕde adding make-ｕp ｗatｅr tｏ sｐｅｎt fｕel………polQIs,sprａyying
+　　ｗａtｅr ｏｎ sｐｅｎt fｕel， ｅｎｈａｎｃｅｄ ｉｎｉtｉａｌ ｃｏｍｍａｎｄ ａｎｄ ｃＱ賍r91actiｖities for　　ｃｈａ・ｅｎｇｅs tｏ ｃｏrｅ ｃｏｏｌｉｎｇ ａｎｄ ｃｏｎtａｉｎｍｅｎt， ａｎｄ ｅｎｈａｈ:とｕyd :jrTesｐｏｎsｅ
+　　strａtegies forｃｈａ・ｅｎｇｅs tｏ ｃｏrｅ ｃｏｏｌｉｎｇ ａｎｄ ｃｏｎtａｉｎｍｌｅyht√
+○
+Jａ
+ａｎ
+v'ｐｅ sａｆｅtＶ ｅｎｈａｎｃｅｍｅｎt§shoｕld haｖｅ ｍｉtｉｇａted thl
+Fｕkｕshima Daiichi rｅａｃtｏrs
+bｌａｃｋｏｕt″ ａｎ･d ｃｏｏli
+ife幵ｅｃtiｖ・ｙｅｖｅｎts facinl∃ｅrｖsＤｅｃifiｃal
+oｆｃｏrｅ ａｎｄ ｆｕｅl
+and tiｍｅ
+lｍ
+lｅｍｅｎtｅd iｎ
+tｈｅ ｏｐｅrａtｏr of the_ｖde･ａ[じWjith″stａtiｏｎ
+（゛）
+　　　　　　　ＲＯＯｔ ＣａＵＳｅＳ Ｏｆ ｔｈｅ ＡＣＣｉｄｅｎｔ
+令Ｊａｐａｎｅｓｅ ｎｕｃｌｅａrｓａｆｅty people ｓhoｕldﾉhaｖｅづｂｅｅｎｍｏrｅ ｋｅｅｎ tｏ　the prｅｖｅｎtｉｏｎ・ｓｏｉｌ ｃｏｎtａｍｉｎａtion dｕｅ tｏ ｌａrge rｅｌｅａｓｅｓ， aftｅr　ｗitｎｅｓｓing the tragedy ｃａｕｓed by tｈｅ ＣｈＱrｎｏｂyl, Ｔｈｅ regｕlatｏrｓ　haｖｅ ｎｏt pl'ｏｍｏted the U⊃EEEﾐａｎｄ ｌｏｓt tｈｅ ｏｐｐｏrtｕｎ.ity tｏ ｉｄｅｎtify　ｅｘtｅｍａｌ ｅｖｅｎtｓ that ｃｏｎtribｕtｅ tｏ ｌａrge rｅｌｅａｓｅｓ ｏｆ ｌ ａｎｄ Ｃｓ ａｎｄ　the hｕgel・bility ｃｏｓt ａｃｃｏｍｐａｎｉｅｄ ｗith ｓｕch rｅｌｅａｓｅｓ･
+令Ｊａｐａｎｅｓｅ ｎｕｃｌｅａr regｕlatｏrａｎｄ ｏｐｅrａtｏrｓ,ｗhoｗｅrｅ ｓhy ｗith
+　probabiliｓtｉｃ ａｎａｌyｓiｓjailed tｏ ｌｅＵｈｅ ｅｘpertｓ of tｓｕｎａｍｉ ｋｎｏｗ tｈｅ　ｎｅｃｅｓｓity of haｖing inforｍａtｉｏｎ ａｂｏｕt a l:ｓｕｎａｍｉ that haｓ a
+　frむqｕｅｎｃyｏｆ ｅｘｃｅｅｄａｎｃｅ ｏｆ ｌｅｓｓ tｈａｎ ﾌﾞl　in 10,000 yｅａrｓ.
+轡Ｂｅｆｏre 2000 0rｓｏ tｈｅ ｅｘpertｓ of tｓｕｎａｍｉ ｈａｄ ｂｅｅｎ ｉｎtｅrｅｓted in　finding the hiｓtｏrｉｃａｌ ｍａｘimｕｍ tｓｕ･nami height ａt a giｖｅｎ ｓitｅ ｗith　limited rｅｓｏｕrｃ心ｓａｖａｉｌａｂｌｅ ａｎｄ ｎｕｃｌｅａrpeoplむhad ｕtiliｚed it ａｓ ａ　ｄｅｓign baｓiｓ ｗithoｕt paying dｕｅ ａttｅｎtｉｏｎ tｏ the ・mitａtｉｏｎ，
+-･--
+一一一一
+Ｒ００t Ｃａｕｓｅｓ of tｈｅ Ａｃｃｉｄｅｎt
+◎Ｔｈｅy haｖｅ ｎｏtｖigilantlyrｅｖieｗed tｈｅ ｃｏｎtｅｎtｓ of:the debate held　in tｈｅ ａｃａｄｅｍｉｃ ｃｉrｃｌｅｓ rｅｌａtｅｄ ｗitｈ ｅａrthqｕａｋｅ ａｎｄ tｓｕhami，
+　baｓｅｄ ｏｎ qｕｅｓtｉｏｎｉｎｇ ａttitｕｄｅ ａｎｄ ａ ｃｏｍｍｉtｍｅｎt:ﾉこtc)………ｅｘｃｅｌｌｅｎｃｅ。ｏ Ｎｕｃｌｅａr regｕlatｏr ａｎｄ ｏｐｅrａtｏrｓ haｖｅ tｅｎｄｅｄ to limit/their
+　ａttｅｎtｉｏｎ tｏ the prｅｖｅｎtｉｏｎ ｏｆ ａｃｃｉｄｅｎtｓlｗithin det自白:rmlin:iｓtical:ly-ｓｅt　deｓign baｓiｓ ａｎｄ ｈａｖe fai･led tｏ ｓａtiｓfy the intｅｍａtｉｏｎａ・y
+　rｅｃ０９ｎｉｚｅｄ ｎｅｅｄ ｆｏrｄｅｆｅｎｓｅ-in-depth featｕrｅｓ tha:t……ｗill::宍prｅｖｅｎt a　diｓprｏｐｏrtｉｏｎａtｅ ｉｎｃrｅａｓｅ ｉｎ radiologicarｃｏｎｓｅq=ｕｅ=ｎｃｅｓｿfrｏｍａｎ
+　ａｐｐropriatｅrａｎｇｅ ｏｆｅｖｅｎtｓ ｗhich arｅ ｍｏrｅ ｓｅｖｅrｅ tｈａｎ the
+　deｓign baｓiｓ ｅｖｅｎt inclｕding tｅrrｏriｓt ａttａｃｋｓ χcl帋/ｑdge)･
+・Thiｓ tｅｎｄｅｎｃy haｓ ｃｏｍｅ ｆrｏｍ Ｊａｐａｎｅｓｅ ｎｕｃｌｅａrｃｏｍｍｕnity'ｓ
+　ｓha・ｏｗ ｕｎｄｅrｓtandin9 0f the hｕge haｚａrd potｅｎtiβlof nｕｃｌｅａr
+　rｅａｃtｏrｓ ａｎｄ the rｅｓｕltａｎt ｗｅａｋ ａttｅｎtｉｏｎ ｏｎ theうむbjectiｖｅ,tｏ
+　ａｓｓｕrｅ tｈｅ ｅｘtrｅｍ.ｅrａrity ｏｆ ｌａｎｄ ｃｏｎtａｍ.ｉｎａtｉｏｎ.
+中央防災会議:犬防災から減災へ
+・社会の目標：５００年、１０００年に1回、起ごりうる津波を前　提にするべき。　　　＞二
+　∇－そんな津波を巨大な防潮堤などの構造物で防ぐのは費∧　〕用効果比から無理ごよっjて、学校など住民の命に関わる一　施設は、過去最大規模の津波の浸水域から免れる高台………lこ作るか、容易に避難できる構造にしTと、避難する場所　卜や経路の整備と訓練などの対策を行うべし。＜　　上　一避難できない原子力発電所はそんな１０００年津波にも　　備えなければならない。　　十∧　　　　　　　　　卜・＼深層防護の最後の手段として、避難する仕組みを整備する＼というのは従来の原子力防災計画整備の考え方でもある＞　のだが、現在は全<受け入れられていない。社会はこの減災の考え方をどの程度の自然災害から受け入れるのか々
